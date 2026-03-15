@@ -1,0 +1,97 @@
+{
+  "NETFLIX DİZİLERİ": [
+    {"name": "STRIP LAW", "year": "2026"},
+    {"name": "SINGLE’S INFERNO", "year": "2021"},
+    {"name": "BLUE THERAPY", "year": "2026"},
+    {"name": "UNFAMILIAR", "year": "2026"},
+    {"name": "HOW TO GET TO HEAVEN FROM BELFAST", "year": "2026"},
+    {"name": "VLADIMIR", "year": "2026"},
+    {"name": "BRIDGERTON", "year": "2020"},
+    {"name": "FORMULA 1: DRIVE TO SURVIVE", "year": "2019"},
+    {"name": "BOYFRIEND ON DEMAND", "year": "2026"},
+    {"name": "FATAL SEDUCTION", "year": "2023"},
+    {"name": "THE LINCOLN LAWYER", "year": "2022"},
+    {"name": "THE ART OF SARAH", "year": "2026"},
+    {"name": "THE TIKTOK KILLER", "year": "2026"},
+    {"name": "THE DINOSAURS", "year": "2026"},
+    {"name": "A FRIEND, A MURDERER", "year": "2026"},
+    {"name": "MOTORVALLEY", "year": "2026"},
+    {"name": "SALVADOR", "year": "2026"},
+    {"name": "MILLION-FOLLOWER DETECTIVE", "year": "2026"},
+    {"name": "ONE PIECE", "year": "2023"},
+    {"name": "BAKI-DOU: THE INVINCIBLE SAMURAI", "year": "2026"},
+    {"name": "THE NIGHT AGENT", "year": "2023"},
+    {"name": "AGENTS OF MYSTERY", "year": "2024"},
+    {"name": "DYNASTY: THE MURDOCHS", "year": "2026"},
+    {"name": "GABBY'S DOLLHOUSE", "year": "2021"},
+    {"name": "REALITY CHECK: INSIDE AMERICA'S NEXT TOP MODEL", "year": "2026"},
+    {"name": "KOHRRA", "year": "2023"},
+    {"name": "VIRGIN RIVER", "year": "2019"},
+    {"name": "DAY ONE", "year": "2024"}
+  ],
+  "FX DİZİLERİ": [
+    {"name": "LOVE STORY", "year": "2026"}
+  ],
+  "DISNEY+ DİZİLERİ": [
+    {"name": "THE ARTFUL DODGER", "year": "2023"},
+    {"name": "BATTLE OF FATES", "year": "2026"}
+  ],
+  "HBO DİZİLERİ": [
+    {"name": "NEIGHBORS", "year": "2026"},
+    {"name": "THE PITT", "year": "2025"},
+    {"name": "A KNIGHT OF THE SEVEN KINGDOMS", "year": "2026"},
+    {"name": "WOMEN'S HELL", "year": "2026"},
+    {"name": "SURVIVING THE JEHOVAH’S WITNESSES", "year": "2026"},
+    {"name": "INDUSTRY", "year": "2020"},
+    {"name": "BANKSTERS", "year": "2026"},
+    {"name": "LIKE WATER FOR CHOCOLATE", "year": "2024"},
+    {"name": "PORTOBELLO", "year": "2026"},
+    {"name": "ROOSTER", "year": "2026"},
+    {"name": "DTF ST. LOUIS", "year": "2026"}
+  ],
+  "AMAZON PRIME DİZİLERİ": [
+    {"name": "SCARPETTA", "year": "2026"},
+    {"name": "56 DAYS", "year": "2026"},
+    {"name": "CROSS", "year": "2024"}
+  ],
+  "HULU DİZİLERİ": [
+    {"name": "PARADISE", "year": "2025"},
+    {"name": "TELL ME LIES", "year": "2022"},
+    {"name": "THE BEAUTY", "year": "2026"}
+  ],
+  "APPLE TV+ DİZİLERİ": [
+    {"name": "DROPS OF GOD", "year": "2023"},
+    {"name": "HIJACK", "year": "2023"},
+    {"name": "TWISTED YOGA", "year": "2026"},
+    {"name": "SHRINKING", "year": "2023"},
+    {"name": "THE LAST THING HE TOLD ME", "year": "2023"},
+    {"name": "MONARCH: LEGACY OF MONSTERS", "year": "2023"}
+  ],
+  "FOX DİZİLERİ": [
+    {"name": "FAMILY GUY", "year": "1999"}
+  ],
+  "SBS DİZİLERİ": [
+    {"name": "NO TAIL TO TELL", "year": "2026"},
+    {"name": "PHANTOM LAWYER", "year": "2026"}
+  ],
+  "TVN DİZİLERİ": [
+    {"name": "SPRING FEVER", "year": "2026"},
+    {"name": "SIREN'S KISS", "year": "2026"},
+    {"name": "UNDERCOVER MISS HONG", "year": "2026"}
+  ],
+  "TV ASAHI DİZİLERİ": [
+    {"name": "再会～SILENT TRUTH～", "year": "2026"}
+  ],
+  "JTBC DİZİLERİ": [
+    {"name": "STILL SHINING", "year": "2026"}
+  ],
+  "TV TOKYO DİZİLERİ": [
+    {"name": "THE DARWIN INCIDENT", "year": "2026"}
+  ],
+  "ONE31 DİZİLERİ": [
+    {"name": "GIRL FROM NOWHERE: THE RESET", "year": "2026"}
+  ],
+  "ITV1 DİZİLERİ": [
+    {"name": "THAT NIGHT", "year": "2011"}
+  ]
+}
