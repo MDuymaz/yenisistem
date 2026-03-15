@@ -1,4 +1,4 @@
-name: Dizigom Scrpit
+name: Deneme Scrpit
 
 on:
   workflow_dispatch:
@@ -32,13 +32,25 @@ jobs:
           
       - name: Run Dizigom JSON Script
         run: python private_py/dizigomjson.py || true
-
+        
+      - name: Run Diziyo JSON Script
+        run: python private_py/diziyojson.py || true
+        
+      - name: Run hdfilmcehennemijson.py JSON Script
+        run: python private_py/hdfilmcehennemijson.py || true
+        
+      - name: Run sezonlukdizijson.py JSON Script
+        run: python private_py/sezonlukdizijson.py || true
+        
+      - name: Run yabancidizilerjson.py JSON Script
+        run: python private_py/yabancidizilerjson.py || true
+        
       - name: Commit and Push All JSONs to public repo
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add dizigom/*.json || echo "No dizigom files"
-          git commit -m "DIZIGOM JSON güncellendi [auto]" || echo "No changes"
+          git add **/*.json || echo "No dizigom files"
+          git commit -m "ANA JSON güncellendi [auto]" || echo "No changes"
           git push origin master
 
   part2:
@@ -128,11 +140,42 @@ jobs:
       - name: Sync Outputs to Private Repos
         run: |
           # Dizigom
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/m3udosyalari.git private_dizigom
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/dizigom.git private_dizigom
           rsync -a dizigom/ private_dizigom/
           cd private_dizigom
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add . || echo "No files"
           git commit -m "Dizigom çıktı güncellendi [auto]" || echo "No changes"
+          git push origin master
+          
+      # 4. HDFILMCEHENNEMI YENIBOLUMLER
+      - name: Run hdfilmcehennemiyenibolumler.py Script
+        run: python private_py/hdfilmcehennemiyenibolumler.py
+
+      - name: Commit and Push All JSONs
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git config status.showUntrackedFiles no
+          git add **/*.json || echo "No JSON files"
+          git commit -m "Tüm JSON dosyaları güncellendi [auto]" || echo "No changes"
+          
+          # Retry push up to 5 times with 10s delay
+          for i in {1..5}; do
+            git push origin master && break
+            echo "Push failed, retrying in 10s..."
+            sleep 10
+          done
+
+      - name: Sync Outputs to Private Repos
+        run: |
+          # HDfilmcehennemi
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/hdfilmcehennemi.git private_hdfilmcehennemi
+          rsync -a hdfilmcehennemi/ private_hdfilmcehennemi/
+          cd private_hdfilmcehennemi
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "hdfilmcehennemi çıktı güncellendi [auto]" || echo "No changes"
           git push origin master
