@@ -1,0 +1,128 @@
+{
+  "/dizi/that-night-hdfc/": {
+    "group": "O GECE - ESA NOCHE",
+    "year": "2026",
+    "imdb": 5.95,
+    "poster": "https://image.tmdb.org/t/p/w500/xOB3odcE8pbTPK0FHzfwgRTneoS.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/will-trent-1/": {
+    "group": "WILL TRENT",
+    "year": "2023",
+    "imdb": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/dark-winds-4/": {
+    "group": "DARK WINDS",
+    "year": "2022",
+    "imdb": 7.52,
+    "poster": "https://image.tmdb.org/t/p/w500/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/portobello/": {
+    "group": "PORTOBELLO",
+    "year": "2026",
+    "imdb": 7.214,
+    "poster": "https://image.tmdb.org/t/p/w500/j8nr8fZW7H1VtHlN6mr5s1s6qKh.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/boston-blue-9/": {
+    "group": "BOSTON BLUE",
+    "year": "2025",
+    "imdb": 6.516,
+    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/fire-country-13/": {
+    "group": "FIRE COUNTRY",
+    "year": "2022",
+    "imdb": 8.097,
+    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/sheriff-country-10/": {
+    "group": "SHERIFF COUNTRY",
+    "year": "2025",
+    "imdb": 7.214,
+    "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/day-one-2026/": {
+    "group": "DAY ONE",
+    "year": "2026",
+    "imdb": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w500/T6t1N2Z3sZ3vKTn5hKCrhWeeyT.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/dynasty-the-murdochs/": {
+    "group": "DYNASTY: THE MURDOCHS",
+    "year": "2026",
+    "imdb": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w500/j5wfKP6lxz6A2IBca5rqSXru5v0.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/yabanci-outlander-izle/": {
+    "group": "YABANCI - OUTLANDER",
+    "year": "2014",
+    "imdb": 8.178,
+    "poster": "https://image.tmdb.org/t/p/w500/bxBmfyzK0ARF9hqf2pbFWsddH14.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/fatal-seduction/": {
+    "group": "FATAL SEDUCTION",
+    "year": "2023",
+    "imdb": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w500/qV9DjDIMUu7ieCQTQkEe9R83Ooa.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/mira-hdfc/": {
+    "group": "MIRA",
+    "year": "2015",
+    "imdb": 8.048,
+    "poster": "https://image.tmdb.org/t/p/w500/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/twisted-yoga/": {
+    "group": "TWISTED YOGA",
+    "year": "2026",
+    "imdb": 10.0,
+    "poster": "https://image.tmdb.org/t/p/w500/ka3A5KXE5V372POop6yVeCVzJzl.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/the-pitt-2/": {
+    "group": "THE PITT",
+    "year": "2025",
+    "imdb": 8.693,
+    "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  }
+}
