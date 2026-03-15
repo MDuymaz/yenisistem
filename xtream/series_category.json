@@ -27,7 +27,8 @@
     {"name": "REALITY CHECK: INSIDE AMERICA'S NEXT TOP MODEL", "year": "2026"},
     {"name": "KOHRRA", "year": "2023"},
     {"name": "VIRGIN RIVER", "year": "2019"},
-    {"name": "DAY ONE", "year": "2024"}
+    {"name": "DAY ONE", "year": "2024"},
+    {"name": "O GECE - ESA NOCHE", "year": "2026"}
   ],
   "FX DİZİLERİ": [
     {"name": "LOVE STORY", "year": "2026"}
@@ -47,12 +48,15 @@
     {"name": "LIKE WATER FOR CHOCOLATE", "year": "2024"},
     {"name": "PORTOBELLO", "year": "2026"},
     {"name": "ROOSTER", "year": "2026"},
-    {"name": "DTF ST. LOUIS", "year": "2026"}
+    {"name": "DTF ST. LOUIS", "year": "2026"},
+    {"name": "MIRA", "year": "2026"},
+    {"name": "COMO AGUA PARA CHOCOLATE", "year": "2024"}
   ],
   "AMAZON PRIME DİZİLERİ": [
     {"name": "SCARPETTA", "year": "2026"},
     {"name": "56 DAYS", "year": "2026"},
-    {"name": "CROSS", "year": "2024"}
+    {"name": "CROSS", "year": "2024"},
+    {"name": "IT'S NOT LIKE THAT", "year": "2026"}
   ],
   "HULU DİZİLERİ": [
     {"name": "PARADISE", "year": "2025"},
@@ -65,10 +69,13 @@
     {"name": "TWISTED YOGA", "year": "2026"},
     {"name": "SHRINKING", "year": "2023"},
     {"name": "THE LAST THING HE TOLD ME", "year": "2023"},
-    {"name": "MONARCH: LEGACY OF MONSTERS", "year": "2023"}
+    {"name": "MONARCH: LEGACY OF MONSTERS", "year": "2023"},
+    {"name": "TRAQUÉS", "year": "2026"}
   ],
   "FOX DİZİLERİ": [
-    {"name": "FAMILY GUY", "year": "1999"}
+    {"name": "FAMILY GUY", "year": "1999"},
+    {"name": "GOING DUTCH", "year": "2025"},
+    {"name": "ANIMAL CONTROL", "year": "2023"}
   ],
   "SBS DİZİLERİ": [
     {"name": "NO TAIL TO TELL", "year": "2026"},
@@ -93,5 +100,59 @@
   ],
   "ITV1 DİZİLERİ": [
     {"name": "THAT NIGHT", "year": "2011"}
+  ],
+  "NBC DİZİLERİ": [
+    {"name": "THE HUNTING PARTY", "year": "2025"},
+    {"name": "HAPPY’S PLACE", "year": "2024"},
+    {"name": "STUMBLE", "year": "2025"}
+  ],
+  "STARZ DİZİLERİ": [
+    {"name": "OUTLANDER", "year": "2014"}
+  ],
+  "ABC DİZİLERİ": [
+    {"name": "GREY'S ANATOMY", "year": "2005"},
+    {"name": "9-1-1", "year": "2018"},
+    {"name": "9-1-1: NASHVILLE", "year": "2025"},
+    {"name": "WILL TRENT", "year": "2023"},
+    {"name": "SCRUBS", "year": "2026"},
+    {"name": "ABBOTT ELEMENTARY", "year": "2021"}
+  ],
+  "CBS DİZİLERİ": [
+    {"name": "GEORGIE & MANDY'S FIRST MARRIAGE", "year": "2024"},
+    {"name": "ELSBETH", "year": "2024"},
+    {"name": "BOSTON BLUE", "year": "2025"},
+    {"name": "FIRE COUNTRY", "year": "2022"},
+    {"name": "SHERIFF COUNTRY", "year": "2025"}
+  ],
+  "AMC+ DİZİLERİ": [
+    {"name": "DARK WINDS", "year": "2022"}
+  ],
+  "ATV DİZİLERİ": [
+    {"name": "YABANCI - OUTLANDER", "year": "2025"}
+  ],
+  "TOKYO MX DİZİLERİ": [
+    {"name": "FATE/STRANGE FAKE", "year": "2024"},
+    {"name": "OSHI NO KO", "year": "2023"}
+  ],
+  "NHK DİZİLERİ": [
+    {"name": "TO YOUR ETERNITY", "year": "2021"}
+  ],
+  "NTV DİZİLERİ": [
+    {"name": "FRIEREN: BEYOND JOURNEY'S END", "year": "2023"}
+  ],
+  "MBS DİZİLERİ": [
+    {"name": "JUJUTSU KAISEN", "year": "2020"}
+  ],
+  "CRUNCHYROLL DİZİLERİ": [
+    {"name": "SENTENCED TO BE A HERO", "year": "2026"}
+  ],
+  "ITVX DİZİLERİ": [
+    {"name": "GONE", "year": "2026"}
+  ],
+  "CITYTV DİZİLERİ": [
+    {"name": "LAW & ORDER TORONTO: CRIMINAL INTENT", "year": "2024"}
+  ],
+  "PARAMOUNT+ DİZİLERİ": [
+    {"name": "THE MADISON", "year": "2026"}
   ]
 }
