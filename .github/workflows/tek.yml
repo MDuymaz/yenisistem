@@ -120,7 +120,7 @@ jobs:
           
           # Retry push up to 5 times with 10s delay
           for i in {1..5}; do
-            git push origin main && break
+            git push origin master && break
             echo "Push failed, retrying in 10s..."
             sleep 10
           done
