@@ -11,9 +11,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Create dizigomjson.py from secret
+      - name: Write dizigomjson.py from secret (UTF-8 safe)
         run: |
-          printf "%s" "${{ secrets.DIZIGOMJSON_PY }}" > dizigomjson.py
+          python -c "import os; open('dizigomjson.py','w',encoding='utf-8').write(os.environ['DIZIGOMJSON_PY'])"
+        env:
+          DIZIGOMJSON_PY: ${{ secrets.DIZIGOMJSON_PY }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -45,9 +47,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Create dizigomyenibolumler.py from secret
+      - name: Write dizigomyenibolumler.py from secret (UTF-8 safe)
         run: |
-          printf "%s" "${{ secrets.DIZIGOMYENIBOLUMLER_PY }}" > dizigomyenibolumler.py
+          python -c "import os; open('dizigomyenibolumler.py','w',encoding='utf-8').write(os.environ['DIZIGOMYENIBOLUMLER_PY'])"
+        env:
+          DIZIGOMYENIBOLUMLER_PY: ${{ secrets.DIZIGOMYENIBOLUMLER_PY }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
