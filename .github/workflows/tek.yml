@@ -11,9 +11,9 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Create dizigomjson.py from Base64 secret
+      - name: Create dizigomjson.py from secret
         run: |
-          echo "${{ secrets.DIZIGOMJSON_PY }}" | base64 --decode > dizigomjson.py
+          printf "%s" "${{ secrets.DIZIGOMJSON_PY }}" > dizigomjson.py
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -37,7 +37,6 @@ jobs:
           git commit -m "📄 Dizigom JSON güncellendi [ci skip]" || echo "No changes"
           git push
 
-
   run-dizigomyenibolumler:
     runs-on: ubuntu-latest
     needs: run-dizigomjson
@@ -46,9 +45,9 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Create dizigomyenibolumler.py from Base64 secret
+      - name: Create dizigomyenibolumler.py from secret
         run: |
-          echo "${{ secrets.DIZIGOMYENIBOLUMLER_PY }}" | base64 --decode > dizigomyenibolumler.py
+          printf "%s" "${{ secrets.DIZIGOMYENIBOLUMLER_PY }}" > dizigomyenibolumler.py
 
       - name: Setup Python
         uses: actions/setup-python@v5
