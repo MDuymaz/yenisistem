@@ -646,5 +646,14 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/tVOq3YkCTnbrycnXHmth9f6qYs7.jpg",
     "imdb": 7.5
+  },
+  "/dizi-izle/shake-it-up": {
+    "group": "SHAKE IT UP",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/oD7B9qrgqT7tUZNi3pk2onk5C2D.jpg",
+    "imdb": 7.599
   }
 }
