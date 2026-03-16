@@ -124,5 +124,41 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi/rooster-2026/": {
+    "group": "ROOSTER",
+    "year": "2026",
+    "imdb": 7.375,
+    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/like-water-for-chocolate/": {
+    "group": "LIKE WATER FOR CHOCOLATE",
+    "year": "2024",
+    "imdb": 8.263,
+    "poster": "https://image.tmdb.org/t/p/w500/pXNcd4z8eBihLO9I7bIVoK4mtQt.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/dtf-st-louis/": {
+    "group": "DTF ST. LOUIS",
+    "year": "2026",
+    "imdb": 4.9,
+    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/yakalama-izle-2/": {
+    "group": "YAKALAMA",
+    "year": "2021",
+    "imdb": 7.451,
+    "poster": "https://image.tmdb.org/t/p/w500/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   }
 }

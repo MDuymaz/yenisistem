@@ -17,11 +17,47 @@
     "last_episode": 1,
     "start_episode": 1
   },
+  "/dizi/rooster-2026/": {
+    "group": "ROOSTER",
+    "year": "2026",
+    "imdb": 7.375,
+    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/like-water-for-chocolate/": {
+    "group": "LIKE WATER FOR CHOCOLATE",
+    "year": "2024",
+    "imdb": 8.263,
+    "poster": "https://image.tmdb.org/t/p/w500/pXNcd4z8eBihLO9I7bIVoK4mtQt.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/dizi/dark-winds-4/": {
     "group": "DARK WINDS",
     "year": "2022",
     "imdb": 7.52,
     "poster": "https://image.tmdb.org/t/p/w500/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/dtf-st-louis/": {
+    "group": "DTF ST. LOUIS",
+    "year": "2026",
+    "imdb": 4.9,
+    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/yakalama-izle-2/": {
+    "group": "YAKALAMA",
+    "year": "2021",
+    "imdb": 7.451,
+    "poster": "https://image.tmdb.org/t/p/w500/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
@@ -85,42 +121,6 @@
     "year": "2014",
     "imdb": 8.178,
     "poster": "https://image.tmdb.org/t/p/w500/bxBmfyzK0ARF9hqf2pbFWsddH14.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/fatal-seduction/": {
-    "group": "FATAL SEDUCTION",
-    "year": "2023",
-    "imdb": 6.5,
-    "poster": "https://image.tmdb.org/t/p/w500/qV9DjDIMUu7ieCQTQkEe9R83Ooa.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/mira-hdfc/": {
-    "group": "MIRA",
-    "year": "2015",
-    "imdb": 8.048,
-    "poster": "https://image.tmdb.org/t/p/w500/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/twisted-yoga/": {
-    "group": "TWISTED YOGA",
-    "year": "2026",
-    "imdb": 10.0,
-    "poster": "https://image.tmdb.org/t/p/w500/ka3A5KXE5V372POop6yVeCVzJzl.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/the-pitt-2/": {
-    "group": "THE PITT",
-    "year": "2025",
-    "imdb": 8.693,
-    "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1

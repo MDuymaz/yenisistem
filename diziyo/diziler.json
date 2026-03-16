@@ -250,5 +250,68 @@
     "year": 2026,
     "poster": "https://diziyo.sh/uploads/series/original/siren-s-kiss-1301.webp",
     "imdb": 7.4
+  },
+  "/dizi/ghosts-2021": {
+    "group": "GHOSTS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2021,
+    "poster": "https://diziyo.sh/uploads/series/original/ghosts-966.webp",
+    "imdb": 7.9
+  },
+  "/dizi/the-neighborhood": {
+    "group": "THE NEIGHBORHOOD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2018,
+    "poster": "https://diziyo.sh/uploads/series/original/the-neighborhood-9041.webp",
+    "imdb": 6.7
+  },
+  "/dizi/dark-winds": {
+    "group": "DARK WINDS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2022,
+    "poster": "https://diziyo.sh/uploads/series/original/dark-winds-8780.webp",
+    "imdb": 7.7
+  },
+  "/dizi/fire-country": {
+    "group": "FIRE COUNTRY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2022,
+    "poster": "https://diziyo.sh/uploads/series/original/fire-country-5297.webp",
+    "imdb": 7.1
+  },
+  "/dizi/happy-s-place": {
+    "group": "HAPPY'S PLACE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2024,
+    "poster": "https://diziyo.sh/uploads/series/original/happy-s-place-7117.webp",
+    "imdb": 5.9
+  },
+  "/dizi/law-order-toronto-criminal-intent": {
+    "group": "LAW & ORDER TORONTO: CRIMINAL INTENT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2024,
+    "poster": "https://diziyo.sh/uploads/series/original/law-order-toronto-criminal-intent-4729.webp",
+    "imdb": 7.2
+  },
+  "/dizi/girl-from-nowhere-the-reset": {
+    "group": "GIRL FROM NOWHERE THE RESET",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2026,
+    "poster": "https://diziyo.sh/uploads/series/original/girl-from-nowhere-the-reset-1824.webp",
+    "imdb": 0.0
   }
 }
