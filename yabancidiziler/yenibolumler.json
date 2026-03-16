@@ -8,6 +8,15 @@
     "imdb": "7.9",
     "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg"
   },
+  "/dizi/marshals": {
+    "group": "Marshals",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.3",
+    "poster": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg"
+  },
   "/dizi/paradise": {
     "group": "Paradise",
     "last_season": 1,

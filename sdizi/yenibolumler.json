@@ -1,4 +1,13 @@
 {
+  "/diziler/primal.html": {
+    "group": "PRIMAL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2019",
+    "imdb": "8.6",
+    "poster": "https://image.tmdb.org/t/p/w500/mf12pRakr3eYdJtv6klQtoznnbU.jpg"
+  },
   "/diziler/phantom-lawyer.html": {
     "group": "PHANTOM LAWYER",
     "last_season": 1,
@@ -124,14 +133,5 @@
     "year": "2026",
     "imdb": "6.0",
     "poster": "https://image.tmdb.org/t/p/w500/zvkcHCJUPqv7R9ukaiDNkm75jy.jpg"
-  },
-  "/diziler/oshi-no-ko.html": {
-    "group": "OSHI NO KO",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/rFp74PFpz14AHrtlVPrLyrSng47.jpg"
   }
 }
