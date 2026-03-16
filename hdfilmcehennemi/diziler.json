@@ -178,5 +178,32 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi/tracker/": {
+    "group": "TRACKER",
+    "year": "2024",
+    "imdb": 7.518,
+    "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/watson-15/": {
+    "group": "WATSON",
+    "year": "2025",
+    "imdb": 4.9,
+    "poster": "https://image.tmdb.org/t/p/w500/b1sELCj9LK5a3olbLhPZlP8Liba.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/the-madison/": {
+    "group": "THE MADISON",
+    "year": "2026",
+    "imdb": 8.962,
+    "poster": "https://image.tmdb.org/t/p/w500/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   }
 }

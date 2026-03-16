@@ -24694,5 +24694,14 @@
     "year": "2026",
     "imdb": "8.9",
     "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
+  },
+  "/diziler/rooster.html": {
+    "group": "ROOSTER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg"
   }
 }
