@@ -2,6 +2,9 @@ name: Json Scrpit
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "* */5 * * *"
+    
 jobs:            
   part1:
     name: Step 1 Çalıştır
