@@ -97,7 +97,8 @@
     {"name": "THE DARWIN INCIDENT", "year": "2026"}
   ],
   "ONE31 DİZİLERİ": [
-    {"name": "GIRL FROM NOWHERE: THE RESET", "year": "2026"}
+    {"name": "GIRL FROM NOWHERE: THE RESET", "year": "2026"},
+    {"name": "GIRL FROM NOWHERE THE RESET", "year": "2026"}
   ],
   "ITV1 DİZİLERİ": [
     {"name": "THAT NIGHT", "year": "2011"}
@@ -105,7 +106,8 @@
   "NBC DİZİLERİ": [
     {"name": "THE HUNTING PARTY", "year": "2025"},
     {"name": "HAPPY’S PLACE", "year": "2024"},
-    {"name": "STUMBLE", "year": "2025"}
+    {"name": "STUMBLE", "year": "2025"},
+    {"name": "HAPPY'S PLACE", "year": "2024"}
   ],
   "STARZ DİZİLERİ": [
     {"name": "OUTLANDER", "year": "2014"}
@@ -123,7 +125,9 @@
     {"name": "ELSBETH", "year": "2024"},
     {"name": "BOSTON BLUE", "year": "2025"},
     {"name": "FIRE COUNTRY", "year": "2022"},
-    {"name": "SHERIFF COUNTRY", "year": "2025"}
+    {"name": "SHERIFF COUNTRY", "year": "2025"},
+    {"name": "GHOSTS", "year": "2021"},
+    {"name": "THE NEIGHBORHOOD", "year": "2018"}
   ],
   "AMC+ DİZİLERİ": [
     {"name": "DARK WINDS", "year": "2022"}
@@ -145,7 +149,8 @@
     {"name": "JUJUTSU KAISEN", "year": "2020"}
   ],
   "CRUNCHYROLL DİZİLERİ": [
-    {"name": "SENTENCED TO BE A HERO", "year": "2026"}
+    {"name": "SENTENCED TO BE A HERO", "year": "2026"},
+    {"name": "HELL'S PARADISE", "year": "2023"}
   ],
   "ITVX DİZİLERİ": [
     {"name": "GONE", "year": "2026"}
@@ -155,5 +160,11 @@
   ],
   "PARAMOUNT+ DİZİLERİ": [
     {"name": "THE MADISON", "year": "2026"}
+  ],
+  "MGM+ DİZİLERİ": [
+    {"name": "AMERICAN CLASSIC", "year": "2026"}
+  ],
+  "BBC IPLAYER DİZİLERİ": [
+    {"name": "THE CAPTURE", "year": "2019"}
   ]
 }
