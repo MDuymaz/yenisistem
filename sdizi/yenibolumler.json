@@ -1,4 +1,13 @@
 {
+  "/diziler/how-to-win-the-lottery.html": {
+    "group": "HOW TO WIN THE LOTTERY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/x7drb8aGcSYI3LfTMdYwI1wZRWu.jpg"
+  },
   "/diziler/rooster.html": {
     "group": "ROOSTER",
     "last_season": 1,
@@ -115,14 +124,5 @@
     "year": "2025",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/gSw0C30olqEClgZNa5UYR89Lrq3.jpg"
-  },
-  "/diziler/the-last-thing-he-told-me.html": {
-    "group": "THE LAST THING HE TOLD ME",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg"
   }
 }

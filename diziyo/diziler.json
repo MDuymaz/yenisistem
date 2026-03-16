@@ -403,5 +403,32 @@
     "year": 2026,
     "poster": "https://diziyo.sh/uploads/series/original/american-classic-9763.webp",
     "imdb": 0.0
+  },
+  "/dizi/watson": {
+    "group": "WATSON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2025,
+    "poster": "https://diziyo.sh/uploads/series/original/watson-8106.webp",
+    "imdb": 5.4
+  },
+  "/dizi/universal-basic-guys": {
+    "group": "UNIVERSAL BASIC GUYS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2024,
+    "poster": "https://diziyo.sh/uploads/series/original/universal-basic-guys-4894.webp",
+    "imdb": 4.9
+  },
+  "/dizi/tracker": {
+    "group": "TRACKER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2024,
+    "poster": "https://diziyo.sh/uploads/series/original/tracker-3377.webp",
+    "imdb": 7.1
   }
 }
