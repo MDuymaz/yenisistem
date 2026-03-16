@@ -1,4 +1,94 @@
 {
+  "/dizi/family-guy": {
+    "group": "FAMILY GUY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 1999,
+    "poster": "https://diziyo.sh/uploads/series/original/family-guy-6476.webp",
+    "imdb": 8.1
+  },
+  "/dizi/rooster": {
+    "group": "ROOSTER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2026,
+    "poster": "https://diziyo.sh/uploads/series/original/rooster-3213.webp",
+    "imdb": 0.0
+  },
+  "/dizi/como-agua-para-chocolate": {
+    "group": "LIKE WATER FOR CHOCOLATE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2024,
+    "poster": "https://diziyo.sh/uploads/series/original/como-agua-para-chocolate-6584.webp",
+    "imdb": 7.6
+  },
+  "/dizi/dtf-st-louis": {
+    "group": "DTF ST. LOUIS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2026,
+    "poster": "https://diziyo.sh/uploads/series/original/dtf-st-louis-9918.webp",
+    "imdb": 0.0
+  },
+  "/dizi/neighbors": {
+    "group": "NEIGHBORS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2026,
+    "poster": "https://diziyo.sh/uploads/series/original/neighbors-7823.webp",
+    "imdb": 5.2
+  },
+  "/dizi/ramune-monki-asya": {
+    "group": "SODA MASTER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2026,
+    "poster": "https://diziyo.sh/uploads/series/original/soda-master-2298.webp",
+    "imdb": 0.0
+  },
+  "/dizi/paradise-2025": {
+    "group": "PARADISE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2025,
+    "poster": "https://diziyo.sh/uploads/series/original/paradise-4473.webp",
+    "imdb": 7.9
+  },
+  "/dizi/the-capture": {
+    "group": "THE CAPTURE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2019,
+    "poster": "https://diziyo.sh/uploads/series/original/the-capture-6357.webp",
+    "imdb": 8.0
+  },
+  "/dizi/gone-2026": {
+    "group": "GONE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2026,
+    "poster": "https://diziyo.sh/uploads/series/original/gone-666.webp",
+    "imdb": 0.0
+  },
+  "/dizi/american-classic": {
+    "group": "AMERICAN CLASSIC",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2026,
+    "poster": "https://diziyo.sh/uploads/series/original/american-classic-9763.webp",
+    "imdb": 0.0
+  },
   "/dizi/ghosts-2021": {
     "group": "GHOSTS",
     "last_season": 1,
@@ -160,95 +250,5 @@
     "year": 2025,
     "poster": "https://diziyo.sh/uploads/series/original/9-1-1-nashville-6748.webp",
     "imdb": 5.3
-  },
-  "/dizi/fatal-seduction": {
-    "group": "ÖLÜMCÜL KAÇAMAK",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": 2023,
-    "poster": "https://diziyo.sh/uploads/series/original/olumcul-kacamak-5526.webp",
-    "imdb": 4.9
-  },
-  "/dizi/will-trent": {
-    "group": "WILL TRENT",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": 2023,
-    "poster": "https://diziyo.sh/uploads/series/original/will-trent-426.webp",
-    "imdb": 7.7
-  },
-  "/dizi/traques": {
-    "group": "TRAQUÉS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": 2026,
-    "poster": "https://diziyo.sh/uploads/series/original/the-hunt-3739.webp",
-    "imdb": 5.4
-  },
-  "/dizi/darwin-jihen": {
-    "group": "THE DARWIN INCIDENT",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": 2026,
-    "poster": "https://diziyo.sh/uploads/series/original/the-darwin-incident-4382.webp",
-    "imdb": 8.3
-  },
-  "/dizi/shrinking": {
-    "group": "SHRINKING",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": 2023,
-    "poster": "https://diziyo.sh/uploads/series/original/shrinking-2486.webp",
-    "imdb": 8.1
-  },
-  "/dizi/pieklo-kobiet": {
-    "group": "WOMEN'S HELL",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": 2026,
-    "poster": "https://diziyo.sh/uploads/series/original/pieklo-kobiet-7130.webp",
-    "imdb": 0.0
-  },
-  "/dizi/the-last-thing-he-told-me": {
-    "group": "THE LAST THING HE TOLD ME",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": 2023,
-    "poster": "https://diziyo.sh/uploads/series/original/the-last-thing-he-told-me-3298.webp",
-    "imdb": 6.6
-  },
-  "/dizi/scrubs-2026": {
-    "group": "SCRUBS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": 2026,
-    "poster": "https://diziyo.sh/uploads/series/original/scrubs-431.webp",
-    "imdb": 8.7
-  },
-  "/dizi/monarch-legacy-of-monsters": {
-    "group": "MONARCH: LEGACY OF MONSTERS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": 2023,
-    "poster": "https://diziyo.sh/uploads/series/original/monarch-legacy-of-monsters-1434.webp",
-    "imdb": 7.0
-  },
-  "/dizi/abbott-elementary": {
-    "group": "ABBOTT ELEMENTARY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": 2021,
-    "poster": "https://diziyo.sh/uploads/series/original/abbott-elementary-8982.webp",
-    "imdb": 8.2
   }
 }

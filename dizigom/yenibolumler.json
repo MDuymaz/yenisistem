@@ -1,13 +1,4 @@
 {
-  "/dizi-izle/that-night": {
-    "group": "THAT NIGHT",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xOB3odcE8pbTPK0FHzfwgRTneoS.jpg",
-    "imdb": 5.95
-  },
   "/dizi-izle/still-shining": {
     "group": "STILL SHINING",
     "last_season": 1,
@@ -26,14 +17,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/ka3A5KXE5V372POop6yVeCVzJzl.jpg",
     "imdb": 10.0
   },
-  "/dizi-izle/day-one": {
-    "group": "DAY ONE",
+  "/dizi-izle/phantom-lawyer": {
+    "group": "PHANTOM LAWYER",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/T6t1N2Z3sZ3vKTn5hKCrhWeeyT.jpg",
-    "imdb": 7.0
+    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
+    "imdb": 5.5
   },
   "/dizi-izle/girl-from-nowhere-the-reset": {
     "group": "GIRL FROM NOWHERE: THE RESET",
@@ -44,23 +35,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg",
     "imdb": 8.818
   },
-  "/dizi-izle/fatal-seduction": {
-    "group": "FATAL SEDUCTION",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/qV9DjDIMUu7ieCQTQkEe9R83Ooa.jpg",
-    "imdb": 6.5
-  },
-  "/dizi-izle/phantom-lawyer": {
-    "group": "PHANTOM LAWYER",
+  "/dizi-izle/day-one": {
+    "group": "DAY ONE",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
-    "imdb": 5.5
+    "poster": "https://image.tmdb.org/t/p/w500/T6t1N2Z3sZ3vKTn5hKCrhWeeyT.jpg",
+    "imdb": 7.0
   },
   "/dizi-izle/dynasty-the-murdochs": {
     "group": "DYNASTY: THE MURDOCHS",
@@ -79,5 +61,23 @@
     "year": "2019",
     "poster": "https://image.tmdb.org/t/p/w500/oHEqfmSWR4Ex4V4AJyUn8HGHHnt.jpg",
     "imdb": 7.917
+  },
+  "/dizi-izle/fatal-seduction": {
+    "group": "FATAL SEDUCTION",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/qV9DjDIMUu7ieCQTQkEe9R83Ooa.jpg",
+    "imdb": 6.5
+  },
+  "/dizi-izle/that-night": {
+    "group": "THAT NIGHT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xOB3odcE8pbTPK0FHzfwgRTneoS.jpg",
+    "imdb": 5.95
   }
 }
