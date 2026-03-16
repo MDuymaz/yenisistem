@@ -76,7 +76,8 @@
   "FOX DİZİLERİ": [
     {"name": "FAMILY GUY", "year": "1999"},
     {"name": "GOING DUTCH", "year": "2025"},
-    {"name": "ANIMAL CONTROL", "year": "2023"}
+    {"name": "ANIMAL CONTROL", "year": "2023"},
+    {"name": "UNIVERSAL BASIC GUYS", "year": "2024"}
   ],
   "SBS DİZİLERİ": [
     {"name": "NO TAIL TO TELL", "year": "2026"},
@@ -127,7 +128,9 @@
     {"name": "FIRE COUNTRY", "year": "2022"},
     {"name": "SHERIFF COUNTRY", "year": "2025"},
     {"name": "GHOSTS", "year": "2021"},
-    {"name": "THE NEIGHBORHOOD", "year": "2018"}
+    {"name": "THE NEIGHBORHOOD", "year": "2018"},
+    {"name": "TRACKER", "year": "2024"},
+    {"name": "WATSON", "year": "2025"}
   ],
   "AMC+ DİZİLERİ": [
     {"name": "DARK WINDS", "year": "2022"}
