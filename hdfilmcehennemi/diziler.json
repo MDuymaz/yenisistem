@@ -160,5 +160,23 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi/paradise-hdfc-10/": {
+    "group": "PARADISE",
+    "year": "2025",
+    "imdb": 7.397,
+    "poster": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/marshals/": {
+    "group": "MARSHALS",
+    "year": "2026",
+    "imdb": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   }
 }

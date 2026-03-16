@@ -26,6 +26,15 @@
     "last_episode": 1,
     "start_episode": 1
   },
+  "/dizi/paradise-hdfc-10/": {
+    "group": "PARADISE",
+    "year": "2025",
+    "imdb": 7.397,
+    "poster": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/dizi/like-water-for-chocolate/": {
     "group": "LIKE WATER FOR CHOCOLATE",
     "year": "2024",
@@ -49,6 +58,15 @@
     "year": "2026",
     "imdb": 4.9,
     "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/marshals/": {
+    "group": "MARSHALS",
+    "year": "2026",
+    "imdb": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
@@ -112,15 +130,6 @@
     "year": "2026",
     "imdb": 7.8,
     "poster": "https://image.tmdb.org/t/p/w500/j5wfKP6lxz6A2IBca5rqSXru5v0.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/yabanci-outlander-izle/": {
-    "group": "YABANCI - OUTLANDER",
-    "year": "2014",
-    "imdb": 8.178,
-    "poster": "https://image.tmdb.org/t/p/w500/bxBmfyzK0ARF9hqf2pbFWsddH14.jpg",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1

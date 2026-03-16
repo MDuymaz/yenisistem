@@ -1,4 +1,40 @@
 {
+  "/diziler/sirens-kiss.html": {
+    "group": "SIREN'S KISS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.5",
+    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg"
+  },
+  "/diziler/dtf-st-louis.html": {
+    "group": "DTF ST. LOUIS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg"
+  },
+  "/diziler/paradise.html": {
+    "group": "PARADISE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg"
+  },
+  "/diziler/will-trent.html": {
+    "group": "WILL TRENT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg"
+  },
   "/diziler/primal.html": {
     "group": "PRIMAL",
     "last_season": 1,
@@ -53,15 +89,6 @@
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/lA2jRBubr2OLOlbkJXuBXYqv4A9.jpg"
   },
-  "/diziler/sirens-kiss.html": {
-    "group": "SIREN'S KISS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.5",
-    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg"
-  },
   "/diziler/frieren-beyond-journeys-end.html": {
     "group": "FRIEREN: BEYOND JOURNEY'S END",
     "last_season": 1,
@@ -97,41 +124,5 @@
     "year": "2023",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg"
-  },
-  "/diziler/virgin-river.html": {
-    "group": "VIRGIN RIVER",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2019",
-    "imdb": "7.4",
-    "poster": "https://image.tmdb.org/t/p/w500/oHEqfmSWR4Ex4V4AJyUn8HGHHnt.jpg"
-  },
-  "/diziler/jujutsu-kaisen.html": {
-    "group": "JUJUTSU KAISEN",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2020",
-    "imdb": "8.6",
-    "poster": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg"
-  },
-  "/diziler/sentenced-to-be-a-hero.html": {
-    "group": "SENTENCED TO BE A HERO",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "8.8",
-    "poster": null
-  },
-  "/diziler/scarpetta.html": {
-    "group": "SCARPETTA",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.0",
-    "poster": "https://image.tmdb.org/t/p/w500/zvkcHCJUPqv7R9ukaiDNkm75jy.jpg"
   }
 }
