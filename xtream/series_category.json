@@ -130,7 +130,8 @@
     {"name": "GHOSTS", "year": "2021"},
     {"name": "THE NEIGHBORHOOD", "year": "2018"},
     {"name": "TRACKER", "year": "2024"},
-    {"name": "WATSON", "year": "2025"}
+    {"name": "WATSON", "year": "2025"},
+    {"name": "MARSHALS", "year": "2026"}
   ],
   "AMC+ DİZİLERİ": [
     {"name": "DARK WINDS", "year": "2022"}
@@ -169,5 +170,8 @@
   ],
   "BBC IPLAYER DİZİLERİ": [
     {"name": "THE CAPTURE", "year": "2019"}
+  ],
+  "ADULT SWIM DİZİLERİ": [
+    {"name": "PRIMAL", "year": "2019"}
   ]
 }
