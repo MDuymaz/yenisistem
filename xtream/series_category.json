@@ -79,7 +79,8 @@
     {"name": "FAMILY GUY", "year": "1999"},
     {"name": "GOING DUTCH", "year": "2025"},
     {"name": "ANIMAL CONTROL", "year": "2023"},
-    {"name": "UNIVERSAL BASIC GUYS", "year": "2024"}
+    {"name": "UNIVERSAL BASIC GUYS", "year": "2024"},
+    {"name": "MEMORY OF A KILLER", "year": "2026"}
   ],
   "SBS DİZİLERİ": [
     {"name": "NO TAIL TO TELL", "year": "2026"},
@@ -89,7 +90,8 @@
     {"name": "SPRING FEVER", "year": "2026"},
     {"name": "SIREN'S KISS", "year": "2026"},
     {"name": "UNDERCOVER MISS HONG", "year": "2026"},
-    {"name": "SIREN’S KISS", "year": "2026"}
+    {"name": "SIREN’S KISS", "year": "2026"},
+    {"name": "SIRENS KISS", "year": "2026"}
   ],
   "TV ASAHI DİZİLERİ": [
     {"name": "再会～SILENT TRUTH～", "year": "2026"}
@@ -111,7 +113,8 @@
     {"name": "THE HUNTING PARTY", "year": "2025"},
     {"name": "HAPPY’S PLACE", "year": "2024"},
     {"name": "STUMBLE", "year": "2025"},
-    {"name": "HAPPY'S PLACE", "year": "2024"}
+    {"name": "HAPPY'S PLACE", "year": "2024"},
+    {"name": "ST. DENIS MEDICAL", "year": "2024"}
   ],
   "STARZ DİZİLERİ": [
     {"name": "OUTLANDER", "year": "2014"}
@@ -136,7 +139,8 @@
     {"name": "WATSON", "year": "2025"},
     {"name": "MARSHALS", "year": "2026"},
     {"name": "DMV", "year": "2025"},
-    {"name": "FBI", "year": "2018"}
+    {"name": "FBI", "year": "2018"},
+    {"name": "CIA", "year": "2026"}
   ],
   "AMC+ DİZİLERİ": [
     {"name": "DARK WINDS", "year": "2022"}
@@ -171,7 +175,8 @@
     {"name": "THE MADISON", "year": "2026"}
   ],
   "MGM+ DİZİLERİ": [
-    {"name": "AMERICAN CLASSIC", "year": "2026"}
+    {"name": "AMERICAN CLASSIC", "year": "2026"},
+    {"name": "BEACON 23", "year": "2023"}
   ],
   "BBC IPLAYER DİZİLERİ": [
     {"name": "THE CAPTURE", "year": "2019"}
