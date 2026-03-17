@@ -250,5 +250,14 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi/the-rookie-izle-hdf9-a90/": {
+    "group": "THE ROOKIE",
+    "year": "2018",
+    "imdb": 8.53,
+    "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   }
 }

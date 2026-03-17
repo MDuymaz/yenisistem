@@ -35,11 +35,29 @@
     "last_episode": 1,
     "start_episode": 1
   },
+  "/dizi/siren-s-kiss/": {
+    "group": "SIRENS KISS",
+    "year": "2026",
+    "imdb": 5.3,
+    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/dizi/rooster-2026/": {
     "group": "ROOSTER",
     "year": "2026",
     "imdb": 7.375,
     "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/the-rookie-izle-hdf9-a90/": {
+    "group": "THE ROOKIE",
+    "year": "2018",
+    "imdb": 8.53,
+    "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
@@ -67,15 +85,6 @@
     "year": "2026",
     "imdb": 7.458,
     "poster": "https://image.tmdb.org/t/p/w500/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/siren-s-kiss/": {
-    "group": "SIRENS KISS",
-    "year": "2026",
-    "imdb": 5.3,
-    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
@@ -112,24 +121,6 @@
     "year": "2026",
     "imdb": 7.4,
     "poster": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/yakalama-izle-2/": {
-    "group": "YAKALAMA",
-    "year": "2021",
-    "imdb": 7.451,
-    "poster": "https://image.tmdb.org/t/p/w500/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/tracker/": {
-    "group": "TRACKER",
-    "year": "2024",
-    "imdb": 7.518,
-    "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
