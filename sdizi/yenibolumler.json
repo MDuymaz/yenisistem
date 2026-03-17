@@ -1,4 +1,22 @@
 {
+  "/diziler/elsbeth.html": {
+    "group": "ELSBETH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg"
+  },
+  "/diziler/ghosts.html": {
+    "group": "GHOSTS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2021",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg"
+  },
   "/diziler/how-to-win-the-lottery.html": {
     "group": "HOW TO WIN THE LOTTERY",
     "last_season": 1,
@@ -106,23 +124,5 @@
     "year": "2021",
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/lA2jRBubr2OLOlbkJXuBXYqv4A9.jpg"
-  },
-  "/diziler/frieren-beyond-journeys-end.html": {
-    "group": "FRIEREN: BEYOND JOURNEY'S END",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg"
-  },
-  "/diziler/love-story.html": {
-    "group": "LOVE STORY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/gSw0C30olqEClgZNa5UYR89Lrq3.jpg"
   }
 }
