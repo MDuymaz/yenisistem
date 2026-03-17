@@ -1,4 +1,13 @@
 {
+  "/dizi/cia": {
+    "group": "CIA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg"
+  },
   "/dizi/dmv": {
     "group": "DMV",
     "last_season": 1,
@@ -8,6 +17,15 @@
     "imdb": "5.6",
     "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg"
   },
+  "/dizi/dona-beja": {
+    "group": "Dona Beja",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/fB8khOzVqpQWhVfIXUQgCokP9XR.jpg"
+  },
   "/dizi/fbi": {
     "group": "FBI",
     "last_season": 1,
@@ -16,6 +34,33 @@
     "year": "2018",
     "imdb": "7.1",
     "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg"
+  },
+  "/dizi/memory-of-a-killer": {
+    "group": "Memory of a Killer",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg"
+  },
+  "/dizi/siren-s-kiss": {
+    "group": "Siren’s Kiss",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg"
+  },
+  "/dizi/st-denis-medical": {
+    "group": "St. Denis Medical",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/8tUjI21ZcfSynLCk3Zr0Gs5BQwz.jpg"
   },
   "/dizi/these-sacred-vows": {
     "group": "These Sacred Vows",
@@ -34,15 +79,6 @@
     "year": "2014",
     "imdb": "7.9",
     "poster": "https://image.tmdb.org/t/p/w500/3d8XxE3qDLzeewtaC4DGamI6Ofa.jpg"
-  },
-  "/dizi/dona-beja": {
-    "group": "Dona Beja",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.2",
-    "poster": "https://image.tmdb.org/t/p/w500/fB8khOzVqpQWhVfIXUQgCokP9XR.jpg"
   },
   "/dizi/dtf-st-louis": {
     "group": "DTF St. Louis",
@@ -79,15 +115,6 @@
     "year": "2026",
     "imdb": "6.2",
     "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg"
-  },
-  "/dizi/siren-s-kiss": {
-    "group": "Siren’s Kiss",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg"
   },
   "/dizi/tracker": {
     "group": "Tracker",

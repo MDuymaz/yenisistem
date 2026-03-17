@@ -24712,5 +24712,14 @@
     "year": "2025",
     "imdb": "6.4",
     "poster": "https://image.tmdb.org/t/p/w500/x7drb8aGcSYI3LfTMdYwI1wZRWu.jpg"
+  },
+  "/diziler/beacon-23.html": {
+    "group": "BEACON 23",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "5.6",
+    "poster": "https://image.tmdb.org/t/p/w500/navBdlLzcebb6ANZVg24Szfil9h.jpg"
   }
 }

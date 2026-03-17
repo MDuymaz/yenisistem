@@ -17,6 +17,15 @@
     "last_episode": 1,
     "start_episode": 1
   },
+  "/dizi/cia-2026/": {
+    "group": "CIA",
+    "year": "2026",
+    "imdb": 8.808,
+    "poster": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/dizi/elsbeth-9/": {
     "group": "ELSBETH",
     "year": "2024",
@@ -40,6 +49,33 @@
     "year": "2025",
     "imdb": 7.397,
     "poster": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/dmv-10/": {
+    "group": "DMV",
+    "year": "2025",
+    "imdb": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/memory-of-a-killer-2026/": {
+    "group": "MEMORY OF A KILLER",
+    "year": "2026",
+    "imdb": 7.458,
+    "poster": "https://image.tmdb.org/t/p/w500/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/siren-s-kiss/": {
+    "group": "SIRENS KISS",
+    "year": "2026",
+    "imdb": 5.3,
+    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
@@ -94,42 +130,6 @@
     "year": "2024",
     "imdb": 7.518,
     "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/watson-15/": {
-    "group": "WATSON",
-    "year": "2025",
-    "imdb": 4.9,
-    "poster": "https://image.tmdb.org/t/p/w500/b1sELCj9LK5a3olbLhPZlP8Liba.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/the-madison/": {
-    "group": "THE MADISON",
-    "year": "2026",
-    "imdb": 8.962,
-    "poster": "https://image.tmdb.org/t/p/w500/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/portobello/": {
-    "group": "PORTOBELLO",
-    "year": "2026",
-    "imdb": 7.214,
-    "poster": "https://image.tmdb.org/t/p/w500/j8nr8fZW7H1VtHlN6mr5s1s6qKh.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/boston-blue-9/": {
-    "group": "BOSTON BLUE",
-    "year": "2025",
-    "imdb": 6.516,
-    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1

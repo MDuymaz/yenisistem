@@ -1,13 +1,4 @@
 {
-  "/dizi-izle/twisted-yoga": {
-    "group": "TWISTED YOGA",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/ka3A5KXE5V372POop6yVeCVzJzl.jpg",
-    "imdb": 10.0
-  },
   "/dizi-izle/fatal-seduction": {
     "group": "FATAL SEDUCTION",
     "last_season": 1,
@@ -16,33 +7,6 @@
     "year": "2023",
     "poster": "https://image.tmdb.org/t/p/w500/qV9DjDIMUu7ieCQTQkEe9R83Ooa.jpg",
     "imdb": 6.5
-  },
-  "/dizi-izle/girl-from-nowhere-the-reset": {
-    "group": "GIRL FROM NOWHERE: THE RESET",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg",
-    "imdb": 8.818
-  },
-  "/dizi-izle/day-one": {
-    "group": "DAY ONE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/T6t1N2Z3sZ3vKTn5hKCrhWeeyT.jpg",
-    "imdb": 7.0
-  },
-  "/dizi-izle/virgin-river": {
-    "group": "VIRGIN RIVER",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/oHEqfmSWR4Ex4V4AJyUn8HGHHnt.jpg",
-    "imdb": 7.917
   },
   "/dizi-izle/that-night": {
     "group": "THAT NIGHT",
@@ -53,6 +17,24 @@
     "poster": "https://image.tmdb.org/t/p/w500/xOB3odcE8pbTPK0FHzfwgRTneoS.jpg",
     "imdb": 5.95
   },
+  "/dizi-izle/girl-from-nowhere-the-reset": {
+    "group": "GIRL FROM NOWHERE: THE RESET",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg",
+    "imdb": 8.818
+  },
+  "/dizi-izle/virgin-river": {
+    "group": "VIRGIN RIVER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/oHEqfmSWR4Ex4V4AJyUn8HGHHnt.jpg",
+    "imdb": 7.917
+  },
   "/dizi-izle/phantom-lawyer": {
     "group": "PHANTOM LAWYER",
     "last_season": 1,
@@ -61,6 +43,24 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
     "imdb": 5.5
+  },
+  "/dizi-izle/twisted-yoga": {
+    "group": "TWISTED YOGA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ka3A5KXE5V372POop6yVeCVzJzl.jpg",
+    "imdb": 10.0
+  },
+  "/dizi-izle/still-shining": {
+    "group": "STILL SHINING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/tVOq3YkCTnbrycnXHmth9f6qYs7.jpg",
+    "imdb": 7.5
   },
   "/dizi-izle/dynasty-the-murdochs": {
     "group": "DYNASTY: THE MURDOCHS",
@@ -71,13 +71,13 @@
     "poster": "https://image.tmdb.org/t/p/w500/j5wfKP6lxz6A2IBca5rqSXru5v0.jpg",
     "imdb": 7.8
   },
-  "/dizi-izle/still-shining": {
-    "group": "STILL SHINING",
+  "/dizi-izle/day-one": {
+    "group": "DAY ONE",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/tVOq3YkCTnbrycnXHmth9f6qYs7.jpg",
-    "imdb": 7.5
+    "poster": "https://image.tmdb.org/t/p/w500/T6t1N2Z3sZ3vKTn5hKCrhWeeyT.jpg",
+    "imdb": 7.0
   }
 }

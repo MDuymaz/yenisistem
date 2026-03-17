@@ -214,5 +214,41 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi/cia-2026/": {
+    "group": "CIA",
+    "year": "2026",
+    "imdb": 8.808,
+    "poster": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/dmv-10/": {
+    "group": "DMV",
+    "year": "2025",
+    "imdb": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/memory-of-a-killer-2026/": {
+    "group": "MEMORY OF A KILLER",
+    "year": "2026",
+    "imdb": 7.458,
+    "poster": "https://image.tmdb.org/t/p/w500/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/siren-s-kiss/": {
+    "group": "SIRENS KISS",
+    "year": "2026",
+    "imdb": 5.3,
+    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   }
 }
