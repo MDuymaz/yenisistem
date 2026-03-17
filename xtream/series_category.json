@@ -52,7 +52,8 @@
     {"name": "ROOSTER", "year": "2026"},
     {"name": "DTF ST. LOUIS", "year": "2026"},
     {"name": "MIRA", "year": "2026"},
-    {"name": "COMO AGUA PARA CHOCOLATE", "year": "2024"}
+    {"name": "COMO AGUA PARA CHOCOLATE", "year": "2024"},
+    {"name": "DONA BEJA", "year": "2026"}
   ],
   "AMAZON PRIME DİZİLERİ": [
     {"name": "SCARPETTA", "year": "2026"},
@@ -133,7 +134,9 @@
     {"name": "THE NEIGHBORHOOD", "year": "2018"},
     {"name": "TRACKER", "year": "2024"},
     {"name": "WATSON", "year": "2025"},
-    {"name": "MARSHALS", "year": "2026"}
+    {"name": "MARSHALS", "year": "2026"},
+    {"name": "DMV", "year": "2025"},
+    {"name": "FBI", "year": "2018"}
   ],
   "AMC+ DİZİLERİ": [
     {"name": "DARK WINDS", "year": "2022"}
@@ -175,5 +178,11 @@
   ],
   "ADULT SWIM DİZİLERİ": [
     {"name": "PRIMAL", "year": "2019"}
+  ],
+  "RTÉ ONE DİZİLERİ": [
+    {"name": "THESE SACRED VOWS", "year": "2026"}
+  ],
+  "HALLMARK CHANNEL DİZİLERİ": [
+    {"name": "WHEN CALLS THE HEART", "year": "2013"}
   ]
 }
