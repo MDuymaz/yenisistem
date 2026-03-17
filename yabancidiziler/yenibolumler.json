@@ -1,4 +1,49 @@
 {
+  "/dizi/dmv": {
+    "group": "DMV",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "5.6",
+    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg"
+  },
+  "/dizi/fbi": {
+    "group": "FBI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2018",
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg"
+  },
+  "/dizi/these-sacred-vows": {
+    "group": "These Sacred Vows",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/dC14qy2K8X28aKIwh1oXAhpZsGd.jpg"
+  },
+  "/dizi/when-calls-the-heart": {
+    "group": "When Calls the Heart",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2014",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/3d8XxE3qDLzeewtaC4DGamI6Ofa.jpg"
+  },
+  "/dizi/dona-beja": {
+    "group": "Dona Beja",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/fB8khOzVqpQWhVfIXUQgCokP9XR.jpg"
+  },
   "/dizi/dtf-st-louis": {
     "group": "DTF St. Louis",
     "last_season": 1,

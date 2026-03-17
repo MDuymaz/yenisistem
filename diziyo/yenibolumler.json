@@ -1,4 +1,13 @@
 {
+  "/dizi/siren-s-kiss-asya": {
+    "group": "BIR SIREN'IN ÖPÜCÜĞÜ",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": 2026,
+    "poster": "https://diziyo.sh/uploads/series/original/siren-s-kiss-1301.webp",
+    "imdb": 7.4
+  },
   "/dizi/watson": {
     "group": "WATSON",
     "last_season": 1,
@@ -241,14 +250,5 @@
     "year": 2024,
     "poster": "https://diziyo.sh/uploads/series/original/georgie-mandy-s-first-marriage-9307.webp",
     "imdb": 7.0
-  },
-  "/dizi/elsbeth": {
-    "group": "ELSBETH",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": 2024,
-    "poster": "https://diziyo.sh/uploads/series/original/elsbeth-2764.webp",
-    "imdb": 7.6
   }
 }
