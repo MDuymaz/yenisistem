@@ -32,7 +32,9 @@
     {"name": "HOW TO WIN THE LOTTERY", "year": "2025"},
     {"name": "AGE OF ATTRACTION", "year": "2026"},
     {"name": "EMERGÊNCIA RADIOATIVA", "year": "2026"},
-    {"name": "FURIES", "year": "2024"}
+    {"name": "FURIES", "year": "2024"},
+    {"name": "RADIOACTIVE EMERGENCY", "year": "2026"},
+    {"name": "LA PRIMERA VEZ", "year": "2023"}
   ],
   "FX DİZİLERİ": [
     {"name": "LOVE STORY", "year": "2026"}
@@ -131,7 +133,9 @@
     {"name": "WILL TRENT", "year": "2023"},
     {"name": "SCRUBS", "year": "2026"},
     {"name": "ABBOTT ELEMENTARY", "year": "2021"},
-    {"name": "THE ROOKIE", "year": "2018"}
+    {"name": "THE ROOKIE", "year": "2018"},
+    {"name": "HIGH POTENTIAL", "year": "2024"},
+    {"name": "R.J. DECKER", "year": "2026"}
   ],
   "CBS DİZİLERİ": [
     {"name": "GEORGIE & MANDY'S FIRST MARRIAGE", "year": "2024"},
@@ -146,7 +150,8 @@
     {"name": "MARSHALS", "year": "2026"},
     {"name": "DMV", "year": "2025"},
     {"name": "FBI", "year": "2018"},
-    {"name": "CIA", "year": "2026"}
+    {"name": "CIA", "year": "2026"},
+    {"name": "NCIS: ORIGINS", "year": "2024"}
   ],
   "AMC+ DİZİLERİ": [
     {"name": "DARK WINDS", "year": "2022"}
@@ -199,5 +204,8 @@
   ],
   "BBC ONE DİZİLERİ": [
     {"name": "THE HUNT", "year": "2015"}
+  ],
+  "UP FAITH & FAMILY DİZİLERİ": [
+    {"name": "BLUE SKIES", "year": "2026"}
   ]
 }
