@@ -73,7 +73,8 @@
     {"name": "SHRINKING", "year": "2023"},
     {"name": "THE LAST THING HE TOLD ME", "year": "2023"},
     {"name": "MONARCH: LEGACY OF MONSTERS", "year": "2023"},
-    {"name": "TRAQUÉS", "year": "2026"}
+    {"name": "TRAQUÉS", "year": "2026"},
+    {"name": "IMPERFECT WOMEN", "year": "2026"}
   ],
   "FOX DİZİLERİ": [
     {"name": "FAMILY GUY", "year": "1999"},
@@ -190,5 +191,8 @@
   ],
   "HALLMARK CHANNEL DİZİLERİ": [
     {"name": "WHEN CALLS THE HEART", "year": "2013"}
+  ],
+  "BBC ONE DİZİLERİ": [
+    {"name": "THE HUNT", "year": "2015"}
   ]
 }
