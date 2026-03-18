@@ -29,7 +29,10 @@
     {"name": "VIRGIN RIVER", "year": "2019"},
     {"name": "DAY ONE", "year": "2024"},
     {"name": "O GECE - ESA NOCHE", "year": "2026"},
-    {"name": "HOW TO WIN THE LOTTERY", "year": "2025"}
+    {"name": "HOW TO WIN THE LOTTERY", "year": "2025"},
+    {"name": "AGE OF ATTRACTION", "year": "2026"},
+    {"name": "EMERGÊNCIA RADIOATIVA", "year": "2026"},
+    {"name": "FURIES", "year": "2024"}
   ],
   "FX DİZİLERİ": [
     {"name": "LOVE STORY", "year": "2026"}
@@ -59,7 +62,8 @@
     {"name": "SCARPETTA", "year": "2026"},
     {"name": "56 DAYS", "year": "2026"},
     {"name": "CROSS", "year": "2024"},
-    {"name": "IT'S NOT LIKE THAT", "year": "2026"}
+    {"name": "IT'S NOT LIKE THAT", "year": "2026"},
+    {"name": "INVINCIBLE", "year": "2021"}
   ],
   "HULU DİZİLERİ": [
     {"name": "PARADISE", "year": "2025"},
@@ -174,7 +178,8 @@
     {"name": "LAW & ORDER TORONTO: CRIMINAL INTENT", "year": "2024"}
   ],
   "PARAMOUNT+ DİZİLERİ": [
-    {"name": "THE MADISON", "year": "2026"}
+    {"name": "THE MADISON", "year": "2026"},
+    {"name": "NCIS: SYDNEY", "year": "2023"}
   ],
   "MGM+ DİZİLERİ": [
     {"name": "AMERICAN CLASSIC", "year": "2026"},
