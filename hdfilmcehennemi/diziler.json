@@ -286,5 +286,41 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi/furies-hdfc/": {
+    "group": "FURIES",
+    "year": "2024",
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/8sHKc6kNKjdhvHBP2c5zoSS16v5.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/cross-7/": {
+    "group": "CROSS",
+    "year": "2024",
+    "imdb": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/radioactive-emergency/": {
+    "group": "RADYOAKTIF ACIL DURUM",
+    "year": "2026",
+    "imdb": 10.0,
+    "poster": "https://image.tmdb.org/t/p/w500/u21TjnyVRB3hxrvvC0Ia2NHgJX8.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/invincible-izle-16/": {
+    "group": "INVINCIBLE",
+    "year": "2021",
+    "imdb": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   }
 }

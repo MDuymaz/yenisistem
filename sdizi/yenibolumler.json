@@ -1,4 +1,31 @@
 {
+  "/diziler/oshi-no-ko.html": {
+    "group": "OSHI NO KO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/rFp74PFpz14AHrtlVPrLyrSng47.jpg"
+  },
+  "/diziler/radioactive-emergency.html": {
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "group": "RADIOACTIVE EMERGENCY",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
+  "/diziler/cross.html": {
+    "group": "CROSS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg"
+  },
   "/diziler/Invincible.html": {
     "group": "INVINCIBLE",
     "last_season": 1,
@@ -79,23 +106,5 @@
     "year": "2026",
     "imdb": "7.2",
     "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg"
-  },
-  "/diziler/dtf-st-louis.html": {
-    "group": "DTF ST. LOUIS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg"
-  },
-  "/diziler/paradise.html": {
-    "group": "PARADISE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg"
   }
 }

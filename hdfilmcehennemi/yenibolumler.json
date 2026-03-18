@@ -1,18 +1,9 @@
 {
-  "/dizi/that-night-hdfc/": {
-    "group": "O GECE - ESA NOCHE",
-    "year": "2026",
-    "imdb": 5.95,
-    "poster": "https://image.tmdb.org/t/p/w500/xOB3odcE8pbTPK0FHzfwgRTneoS.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/will-trent-1/": {
-    "group": "WILL TRENT",
-    "year": "2023",
-    "imdb": 7.3,
-    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg",
+  "/dizi/furies-hdfc/": {
+    "group": "FURIES",
+    "year": "2024",
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/8sHKc6kNKjdhvHBP2c5zoSS16v5.jpg",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
@@ -35,11 +26,38 @@
     "last_episode": 1,
     "start_episode": 1
   },
+  "/dizi/cross-7/": {
+    "group": "CROSS",
+    "year": "2024",
+    "imdb": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/dizi/the-hunt/": {
     "group": "THE HUNT",
     "year": "2026",
     "imdb": 6.75,
     "poster": "https://image.tmdb.org/t/p/w500/ipf1giXcXX50ylcmDBtDcXHMTaa.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/radioactive-emergency/": {
+    "group": "RADYOAKTIF ACIL DURUM",
+    "year": "2026",
+    "imdb": 10.0,
+    "poster": "https://image.tmdb.org/t/p/w500/u21TjnyVRB3hxrvvC0Ia2NHgJX8.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/invincible-izle-16/": {
+    "group": "INVINCIBLE",
+    "year": "2021",
+    "imdb": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
@@ -94,33 +112,6 @@
     "year": "2025",
     "imdb": 7.397,
     "poster": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/dmv-10/": {
-    "group": "DMV",
-    "year": "2025",
-    "imdb": 6.3,
-    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/memory-of-a-killer-2026/": {
-    "group": "MEMORY OF A KILLER",
-    "year": "2026",
-    "imdb": 7.458,
-    "poster": "https://image.tmdb.org/t/p/w500/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/like-water-for-chocolate/": {
-    "group": "LIKE WATER FOR CHOCOLATE",
-    "year": "2024",
-    "imdb": 8.263,
-    "poster": "https://image.tmdb.org/t/p/w500/pXNcd4z8eBihLO9I7bIVoK4mtQt.jpg",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
