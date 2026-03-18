@@ -71,6 +71,15 @@
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
   },
+  "/dizi/the-darwin-incident": {
+    "group": "The Darwin Incident",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/9hLo3uSeGx6vDtnOPQcq7sVBzsL.jpg"
+  },
   "/dizi/traques": {
     "group": "Traqués",
     "last_season": 1,
