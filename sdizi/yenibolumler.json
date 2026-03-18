@@ -1,4 +1,13 @@
 {
+  "/diziler/shrinking.html": {
+    "group": "SHRINKING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
+  },
   "/diziler/sirens-kiss.html": {
     "group": "SIREN'S KISS",
     "last_season": 1,
@@ -115,14 +124,5 @@
     "year": "2023",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/1V9I7SvZbYoMbSvdtnlkkq9SB1k.jpg"
-  },
-  "/diziler/fate-strange-fake.html": {
-    "group": "FATE/STRANGE FAKE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/2r5MEaLYl5lZxzgfSmrDybipngl.jpg"
   }
 }

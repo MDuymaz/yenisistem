@@ -35,11 +35,38 @@
     "last_episode": 1,
     "start_episode": 1
   },
+  "/dizi/the-hunt/": {
+    "group": "THE HUNT",
+    "year": "2026",
+    "imdb": 6.75,
+    "poster": "https://image.tmdb.org/t/p/w500/ipf1giXcXX50ylcmDBtDcXHMTaa.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/shrinking-5/": {
+    "group": "SHRINKING",
+    "year": "2023",
+    "imdb": 7.816,
+    "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/dizi/siren-s-kiss/": {
     "group": "SIRENS KISS",
     "year": "2026",
     "imdb": 5.3,
     "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/imperfect-women/": {
+    "group": "IMPERFECT WOMEN",
+    "year": "2026",
+    "imdb": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
@@ -94,33 +121,6 @@
     "year": "2024",
     "imdb": 8.263,
     "poster": "https://image.tmdb.org/t/p/w500/pXNcd4z8eBihLO9I7bIVoK4mtQt.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/dark-winds-4/": {
-    "group": "DARK WINDS",
-    "year": "2022",
-    "imdb": 7.52,
-    "poster": "https://image.tmdb.org/t/p/w500/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/dtf-st-louis/": {
-    "group": "DTF ST. LOUIS",
-    "year": "2026",
-    "imdb": 4.9,
-    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
-  "/dizi/marshals/": {
-    "group": "MARSHALS",
-    "year": "2026",
-    "imdb": 7.4,
-    "poster": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1

@@ -259,5 +259,32 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi/the-hunt/": {
+    "group": "THE HUNT",
+    "year": "2026",
+    "imdb": 6.75,
+    "poster": "https://image.tmdb.org/t/p/w500/ipf1giXcXX50ylcmDBtDcXHMTaa.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/shrinking-5/": {
+    "group": "SHRINKING",
+    "year": "2023",
+    "imdb": 7.816,
+    "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/imperfect-women/": {
+    "group": "IMPERFECT WOMEN",
+    "year": "2026",
+    "imdb": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   }
 }
