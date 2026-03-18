@@ -1,4 +1,94 @@
 {
+  "/dizi/age-of-attraction": {
+    "group": "Age of Attraction",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "4.7",
+    "poster": "https://image.tmdb.org/t/p/w500/86zlBZhuhuE2FlXn8lGxixCQ4aS.jpg"
+  },
+  "/dizi/cross": {
+    "group": "Cross",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg"
+  },
+  "/dizi/emerg-ncia-radioativa": {
+    "group": "Emergência Radioativa",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/u21TjnyVRB3hxrvvC0Ia2NHgJX8.jpg"
+  },
+  "/dizi/furies": {
+    "group": "Furies",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.6",
+    "poster": "https://image.tmdb.org/t/p/w500/8sHKc6kNKjdhvHBP2c5zoSS16v5.jpg"
+  },
+  "/dizi/imperfect-women": {
+    "group": "Imperfect Women",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg"
+  },
+  "/dizi/invincible": {
+    "group": "Invincible",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2021",
+    "imdb": "8.7",
+    "poster": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg"
+  },
+  "/dizi/ncis-sydney": {
+    "group": "NCIS: Sydney",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "5.9",
+    "poster": "https://image.tmdb.org/t/p/w500/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg"
+  },
+  "/dizi/shrinking": {
+    "group": "Shrinking",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
+  },
+  "/dizi/traques": {
+    "group": "Traqués",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "5.4",
+    "poster": "https://image.tmdb.org/t/p/w500/ipf1giXcXX50ylcmDBtDcXHMTaa.jpg"
+  },
+  "/dizi/will-trent": {
+    "group": "Will Trent",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg"
+  },
   "/dizi/cia": {
     "group": "CIA",
     "last_season": 1,

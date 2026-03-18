@@ -24721,5 +24721,14 @@
     "year": "2023",
     "imdb": "5.6",
     "poster": "https://image.tmdb.org/t/p/w500/navBdlLzcebb6ANZVg24Szfil9h.jpg"
+  },
+  "/diziler/imperfect-women.html": {
+    "group": "IMPERFECT WOMEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg"
   }
 }

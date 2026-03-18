@@ -1,57 +1,21 @@
 {
-  "/dizi-izle/dtf-st-louis": {
-    "group": "DTF ST. LOUIS",
+  "/dizi-izle/phantom-lawyer": {
+    "group": "PHANTOM LAWYER",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
-    "imdb": 4.9
+    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
+    "imdb": 5.5
   },
-  "/dizi-izle/paradise": {
-    "group": "PARADISE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
-    "imdb": 7.397
-  },
-  "/dizi-izle/twisted-yoga": {
-    "group": "TWISTED YOGA",
+  "/dizi-izle/dynasty-the-murdochs": {
+    "group": "DYNASTY: THE MURDOCHS",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/ka3A5KXE5V372POop6yVeCVzJzl.jpg",
-    "imdb": 10.0
-  },
-  "/dizi-izle/fatal-seduction": {
-    "group": "FATAL SEDUCTION",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/qV9DjDIMUu7ieCQTQkEe9R83Ooa.jpg",
-    "imdb": 6.5
-  },
-  "/dizi-izle/sirens-kiss": {
-    "group": "SIREN'S KISS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
-    "imdb": 5.8
-  },
-  "/dizi-izle/that-night": {
-    "group": "THAT NIGHT",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xOB3odcE8pbTPK0FHzfwgRTneoS.jpg",
-    "imdb": 5.95
+    "poster": "https://image.tmdb.org/t/p/w500/j5wfKP6lxz6A2IBca5rqSXru5v0.jpg",
+    "imdb": 7.8
   },
   "/dizi-izle/rooster": {
     "group": "ROOSTER",
@@ -80,14 +44,41 @@
     "poster": "https://image.tmdb.org/t/p/w500/tVOq3YkCTnbrycnXHmth9f6qYs7.jpg",
     "imdb": 7.5
   },
-  "/dizi-izle/phantom-lawyer": {
-    "group": "PHANTOM LAWYER",
+  "/dizi-izle/twisted-yoga": {
+    "group": "TWISTED YOGA",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
-    "imdb": 5.5
+    "poster": "https://image.tmdb.org/t/p/w500/ka3A5KXE5V372POop6yVeCVzJzl.jpg",
+    "imdb": 10.0
+  },
+  "/dizi-izle/paradise": {
+    "group": "PARADISE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
+    "imdb": 7.397
+  },
+  "/dizi-izle/that-night": {
+    "group": "THAT NIGHT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xOB3odcE8pbTPK0FHzfwgRTneoS.jpg",
+    "imdb": 5.95
+  },
+  "/dizi-izle/dtf-st-louis": {
+    "group": "DTF ST. LOUIS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+    "imdb": 4.9
   },
   "/dizi-izle/girl-from-nowhere-the-reset": {
     "group": "GIRL FROM NOWHERE: THE RESET",
@@ -98,13 +89,22 @@
     "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg",
     "imdb": 8.818
   },
-  "/dizi-izle/dynasty-the-murdochs": {
-    "group": "DYNASTY: THE MURDOCHS",
+  "/dizi-izle/sirens-kiss": {
+    "group": "SIREN'S KISS",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/j5wfKP6lxz6A2IBca5rqSXru5v0.jpg",
-    "imdb": 7.8
+    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
+    "imdb": 5.8
+  },
+  "/dizi-izle/fatal-seduction": {
+    "group": "FATAL SEDUCTION",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/qV9DjDIMUu7ieCQTQkEe9R83Ooa.jpg",
+    "imdb": 6.5
   }
 }

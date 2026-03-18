@@ -1,4 +1,22 @@
 {
+  "/diziler/Invincible.html": {
+    "group": "INVINCIBLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2021",
+    "imdb": "8.8",
+    "poster": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg"
+  },
+  "/diziler/imperfect-women.html": {
+    "group": "IMPERFECT WOMEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg"
+  },
   "/diziler/shrinking.html": {
     "group": "SHRINKING",
     "last_season": 1,
@@ -79,50 +97,5 @@
     "year": "2025",
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg"
-  },
-  "/diziler/will-trent.html": {
-    "group": "WILL TRENT",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg"
-  },
-  "/diziler/primal.html": {
-    "group": "PRIMAL",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2019",
-    "imdb": "8.6",
-    "poster": "https://image.tmdb.org/t/p/w500/mf12pRakr3eYdJtv6klQtoznnbU.jpg"
-  },
-  "/diziler/phantom-lawyer.html": {
-    "group": "PHANTOM LAWYER",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "8.9",
-    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
-  },
-  "/diziler/girl-from-nowhere-the-reset.html": {
-    "group": "GIRL FROM NOWHERE: THE RESET",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.3",
-    "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg"
-  },
-  "/diziler/hells-paradise.html": {
-    "group": "HELL'S PARADISE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/1V9I7SvZbYoMbSvdtnlkkq9SB1k.jpg"
   }
 }
