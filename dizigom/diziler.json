@@ -655,5 +655,32 @@
     "year": "2010",
     "poster": "https://image.tmdb.org/t/p/w500/oD7B9qrgqT7tUZNi3pk2onk5C2D.jpg",
     "imdb": 7.599
+  },
+  "/dizi-izle/invincible": {
+    "group": "INVINCIBLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+    "imdb": 8.6
+  },
+  "/dizi-izle/imperfect-women": {
+    "group": "IMPERFECT WOMEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/pIR9b3gFNyhhV9QRHexJyZcEhut.jpg",
+    "imdb": 5.25
+  },
+  "/dizi-izle/radioactive-emergency": {
+    "group": "RADIOACTIVE EMERGENCY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/u21TjnyVRB3hxrvvC0Ia2NHgJX8.jpg",
+    "imdb": 10.0
   }
 }

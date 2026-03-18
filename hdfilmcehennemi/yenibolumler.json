@@ -1,13 +1,4 @@
 {
-  "/dizi/furies-hdfc/": {
-    "group": "FURIES",
-    "year": "2024",
-    "imdb": 7.1,
-    "poster": "https://image.tmdb.org/t/p/w500/8sHKc6kNKjdhvHBP2c5zoSS16v5.jpg",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1
-  },
   "/dizi/cia-2026/": {
     "group": "CIA",
     "year": "2026",
@@ -62,6 +53,15 @@
     "last_episode": 1,
     "start_episode": 1
   },
+  "/dizi/furies-hdfc/": {
+    "group": "FURIES",
+    "year": "2024",
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/8sHKc6kNKjdhvHBP2c5zoSS16v5.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
   "/dizi/shrinking-5/": {
     "group": "SHRINKING",
     "year": "2023",
@@ -76,6 +76,15 @@
     "year": "2026",
     "imdb": 5.3,
     "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/ncis-origins-17/": {
+    "group": "NCIS ORIGINS",
+    "year": "2024",
+    "imdb": 7.466,
+    "poster": "https://image.tmdb.org/t/p/w500/waWeC84DExojP5AHFbWaybj3wxv.jpg",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
@@ -112,6 +121,24 @@
     "year": "2025",
     "imdb": 7.397,
     "poster": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/dmv-10/": {
+    "group": "DMV",
+    "year": "2025",
+    "imdb": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
+  },
+  "/dizi/memory-of-a-killer-2026/": {
+    "group": "MEMORY OF A KILLER",
+    "year": "2026",
+    "imdb": 7.458,
+    "poster": "https://image.tmdb.org/t/p/w500/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg",
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1

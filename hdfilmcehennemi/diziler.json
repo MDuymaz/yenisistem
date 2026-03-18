@@ -322,5 +322,14 @@
     "last_season": 1,
     "last_episode": 1,
     "start_episode": 1
+  },
+  "/dizi/ncis-origins-17/": {
+    "group": "NCIS ORIGINS",
+    "year": "2024",
+    "imdb": 7.466,
+    "poster": "https://image.tmdb.org/t/p/w500/waWeC84DExojP5AHFbWaybj3wxv.jpg",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1
   }
 }

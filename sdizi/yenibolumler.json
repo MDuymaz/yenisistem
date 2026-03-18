@@ -9,13 +9,13 @@
     "poster": "https://image.tmdb.org/t/p/w500/rFp74PFpz14AHrtlVPrLyrSng47.jpg"
   },
   "/diziler/radioactive-emergency.html": {
+    "group": "RADIOACTIVE EMERGENCY",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1,
-    "group": "RADIOACTIVE EMERGENCY",
-    "year": null,
-    "imdb": null,
-    "poster": null
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/u21TjnyVRB3hxrvvC0Ia2NHgJX8.jpg"
   },
   "/diziler/cross.html": {
     "group": "CROSS",
