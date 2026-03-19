@@ -1,471 +1,12 @@
 {
-  "/dizi-izle/unfamiliar": {
-    "group": "UNFAMILIAR",
+  "/dizi-izle/that-night": {
+    "group": "THAT NIGHT",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/hdEQWvSbDQsbdseeYjUS0NgrfT2.jpg",
-    "imdb": 7.175
-  },
-  "/dizi-izle/reality-check-inside-americas-next-top-model": {
-    "group": "REALITY CHECK: INSIDE AMERICA'S NEXT TOP MODEL",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/lxlsvsgvEYlf2wrSV9qUipHRAuk.jpg",
-    "imdb": 7.625
-  },
-  "/dizi-izle/drops-of-god": {
-    "group": "DROPS OF GOD",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/t3OGrj5z0RSv7GaPxtcNneu2JCr.jpg",
-    "imdb": 7.63
-  },
-  "/dizi-izle/a-friend-a-murderer": {
-    "group": "A FRIEND, A MURDERER",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/e1iNUL5IY6RDQwzMdkXPKW9e1g1.jpg",
-    "imdb": 7.5
-  },
-  "/dizi-izle/the-beauty": {
-    "group": "THE BEAUTY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/tZTG2PPAukzksPkiQV9c4suIQXk.jpg",
-    "imdb": 6.265
-  },
-  "/dizi-izle/love-story": {
-    "group": "LOVE STORY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/7WU3cXD0rip5ONc7owI2dBWAVjW.jpg",
-    "imdb": 8.7
-  },
-  "/dizi-izle/singles-inferno": {
-    "group": "SINGLE’S INFERNO",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2021",
-    "poster": "https://image.tmdb.org/t/p/w500/86zkkFCrNc4VeqvCANTmpGNgFEF.jpg",
-    "imdb": 7.725
-  },
-  "/dizi-izle/high-potential": {
-    "group": "HIGH POTENTIAL",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/w500/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
-    "imdb": 8.019
-  },
-  "/dizi-izle/finding-her-edge": {
-    "group": "FINDING HER EDGE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/7t6iXlbfoBSfVyINLRHms5kqfze.jpg",
-    "imdb": 7.555
-  },
-  "/dizi-izle/bandwaale": {
-    "group": "BANDWAALE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/h1heLNN77Jmjin06ihQdMKTGGIt.jpg",
-    "imdb": 3.0
-  },
-  "/dizi-izle/steal": {
-    "group": "STEAL",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
-    "imdb": 7.385
-  },
-  "/dizi-izle/sounds-of-winter": {
-    "group": "SOUNDS OF WINTER",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/dn0MVtByu6DKGzb2n9QBm9AqRCr.jpg",
-    "imdb": 7.0
-  },
-  "/dizi-izle/family-guy": {
-    "group": "FAMILY GUY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "1999",
-    "poster": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-    "imdb": 7.392
-  },
-  "/dizi-izle/one-piece": {
-    "group": "ONE PIECE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
-    "imdb": 8.1
-  },
-  "/dizi-izle/surviving-the-jehovahs-witnesses": {
-    "group": "SURVIVING THE JEHOVAH’S WITNESSES",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/2PdNX6BDFt5nF0Qlzez8U1inaXu.jpg",
-    "imdb": 6.0
-  },
-  "/dizi-izle/the-last-thing-he-told-me": {
-    "group": "THE LAST THING HE TOLD ME",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg",
-    "imdb": 7.044
-  },
-  "/dizi-izle/fit-for-a-killer": {
-    "group": "FIT FOR A KILLER (MORDERCA SZYTY NA MIARĘ)",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/3pcmkcUSVbpgKvKLvM7kpDJivUU.jpg",
-    "imdb": 0.0
-  },
-  "/dizi-izle/cash-queens": {
-    "group": "CASH QUEENS (LES LIONNES)",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/hu9DpdDLU7W0nqmsAJPmWKDeRjT.jpg",
-    "imdb": 5.6
-  },
-  "/dizi-izle/percy-jackson-and-the-olympians": {
-    "group": "PERCY JACKSON AND THE OLYMPIANS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
-    "imdb": 7.303
-  },
-  "/dizi-izle/monarch-legacy-of-monsters": {
-    "group": "MONARCH: LEGACY OF MONSTERS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-    "imdb": 7.689
-  },
-  "/dizi-izle/phantom-lawyer": {
-    "group": "PHANTOM LAWYER",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
-    "imdb": 5.5
-  },
-  "/dizi-izle/strip-law": {
-    "group": "STRIP LAW",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/hs9kjF67nO5vc3kBgm3IF2MLnRe.jpg",
-    "imdb": 6.818
-  },
-  "/dizi-izle/dtf-st-louis": {
-    "group": "DTF ST. LOUIS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
-    "imdb": 4.9
-  },
-  "/dizi-izle/no-tail-to-tell": {
-    "group": "NO TAIL TO TELL",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
-    "imdb": 7.8
-  },
-  "/dizi-izle/banksters": {
-    "group": "BANKSTERS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/ntiVdQ1UbEu8h5HLXVhlf7ri7D1.jpg",
-    "imdb": 5.0
-  },
-  "/dizi-izle/56-days": {
-    "group": "56 DAYS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/sdJLbucggwGj8NdX0UN2zt1Vwmn.jpg",
-    "imdb": 6.603
-  },
-  "/dizi-izle/star-trek-starfleet-academy": {
-    "group": "STAR TREK: STARFLEET ACADEMY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
-    "imdb": 5.184
-  },
-  "/dizi-izle/the-tiktok-killer": {
-    "group": "THE TIKTOK KILLER",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/3sZfTsu02nhCoIEGdyQ2iYK09JN.jpg",
-    "imdb": 6.0
-  },
-  "/dizi-izle/baki-dou-the-invincible-samurai": {
-    "group": "BAKI-DOU: THE INVINCIBLE SAMURAI",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/frtzbwANetYd0M4zdrZ5gx0E89q.jpg",
-    "imdb": 8.935
-  },
-  "/dizi-izle/the-boyfriend": {
-    "group": "THE BOYFRIEND",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/w500/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
-    "imdb": 8.51
-  },
-  "/dizi-izle/how-to-get-to-heaven-from-belfast": {
-    "group": "HOW TO GET TO HEAVEN FROM BELFAST",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/6lFI03QZgXwGZLKtzUw4L8ZnyBv.jpg",
-    "imdb": 7.045
-  },
-  "/dizi-izle/shrinking": {
-    "group": "SHRINKING",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
-    "imdb": 7.816
-  },
-  "/dizi-izle/scarpetta": {
-    "group": "SCARPETTA",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/zvkcHCJUPqv7R9ukaiDNkm75jy.jpg",
-    "imdb": 6.243
-  },
-  "/dizi-izle/womens-hell": {
-    "group": "WOMEN'S HELL",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/pWS7yvwCFQAgsQE1IjZMKTxe0wx.jpg",
-    "imdb": 0.0
-  },
-  "/dizi-izle/radioactive-emergency": {
-    "group": "RADIOACTIVE EMERGENCY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/u21TjnyVRB3hxrvvC0Ia2NHgJX8.jpg",
-    "imdb": 10.0
-  },
-  "/dizi-izle/heaven": {
-    "group": "HEAVEN",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/6sBen6GdYUx90CcVNAcFb4HlepM.jpg",
-    "imdb": 8.7
-  },
-  "/dizi-izle/wonder-man": {
-    "group": "WONDER MAN",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
-    "imdb": 7.122
-  },
-  "/dizi-izle/still-shining": {
-    "group": "STILL SHINING",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/tVOq3YkCTnbrycnXHmth9f6qYs7.jpg",
-    "imdb": 7.5
-  },
-  "/dizi-izle/spring-fever": {
-    "group": "SPRING FEVER",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/50e9qtv8rKmcayAQSgB9P9XELpQ.jpg",
-    "imdb": 7.7
-  },
-  "/dizi-izle/the-darwin-incident": {
-    "group": "THE DARWIN INCIDENT",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/9hLo3uSeGx6vDtnOPQcq7sVBzsL.jpg",
-    "imdb": 8.2
-  },
-  "/dizi-izle/glitter-gold-ice-dancing": {
-    "group": "GLITTER & GOLD: ICE DANCING",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/irrdulKrIPIjUwpZMwdtoo80CLW.jpg",
-    "imdb": 8.7
-  },
-  "/dizi-izle/idol-i": {
-    "group": "IDOL I",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/jCMw8httzGvjTu0NZjiclqUQD6c.jpg",
-    "imdb": 6.1
-  },
-  "/dizi-izle/boyfriend-on-demand": {
-    "group": "BOYFRIEND ON DEMAND",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
-    "imdb": 8.524
-  },
-  "/dizi-izle/sirens-kiss": {
-    "group": "SIREN'S KISS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
-    "imdb": 5.8
-  },
-  "/dizi-izle/cross": {
-    "group": "CROSS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
-    "imdb": 7.0
-  },
-  "/dizi-izle/queer-eye": {
-    "group": "QUEER EYE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2018",
-    "poster": "https://image.tmdb.org/t/p/w500/bBWNZ7cae2LXfTuQULsAAufPObs.jpg",
-    "imdb": 7.4
-  },
-  "/dizi-izle/rooster": {
-    "group": "ROOSTER",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
-    "imdb": 7.375
-  },
-  "/dizi-izle/battle-of-fates": {
-    "group": "BATTLE OF FATES",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/o4DOGStruvyfrfKhazBO9UbxRhR.jpg",
-    "imdb": 7.8
-  },
-  "/dizi-izle/salvador": {
-    "group": "SALVADOR",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/8pLnnRB2qG1vZHXpjm2gVFNyUX.jpg",
-    "imdb": 6.857
-  },
-  "/dizi-izle/virgin-river": {
-    "group": "VIRGIN RIVER",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/oHEqfmSWR4Ex4V4AJyUn8HGHHnt.jpg",
-    "imdb": 7.917
-  },
-  "/dizi-izle/portobello": {
-    "group": "PORTOBELLO",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/j8nr8fZW7H1VtHlN6mr5s1s6qKh.jpg",
-    "imdb": 7.214
-  },
-  "/dizi-izle/kohrra": {
-    "group": "KOHRRA",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/oZbiASZweEKFOHsl56QTeNJ6a8R.jpg",
-    "imdb": 6.902
+    "poster": "https://image.tmdb.org/t/p/w500/xOB3odcE8pbTPK0FHzfwgRTneoS.jpg",
+    "imdb": 5.95
   },
   "/dizi-izle/imperfect-women": {
     "group": "IMPERFECT WOMEN",
@@ -476,104 +17,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/pIR9b3gFNyhhV9QRHexJyZcEhut.jpg",
     "imdb": 5.25
   },
-  "/dizi-izle/paradise": {
-    "group": "PARADISE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
-    "imdb": 7.397
-  },
-  "/dizi-izle/scrubs": {
-    "group": "SCRUBS (2026)",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2001",
-    "poster": null,
-    "imdb": null
-  },
-  "/dizi-izle/the-night-manager": {
-    "group": "THE NIGHT MANAGER",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2016",
-    "poster": "https://image.tmdb.org/t/p/w500/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
-    "imdb": 7.728
-  },
-  "/dizi-izle/undercover-miss-hong": {
-    "group": "UNDERCOVER MISS HONG",
+  "/dizi-izle/daldal": {
+    "group": "DALDAL",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/bZr3i8yczHGDzyqZQ9oOArEEVON.jpg",
-    "imdb": 8.158
-  },
-  "/dizi-izle/the-dinosaurs": {
-    "group": "THE DINOSAURS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
-    "imdb": 7.9
-  },
-  "/dizi-izle/motorvalley": {
-    "group": "MOTORVALLEY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/v9OAxTMdIci9Ox6cZXvMEWHyYf0.jpg",
-    "imdb": 7.405
-  },
-  "/dizi-izle/vladimir": {
-    "group": "VLADIMIR",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/j02VBIGVIk2OTwTUZ1YzyzcONAy.jpg",
-    "imdb": 7.19
-  },
-  "/dizi-izle/free-bert": {
-    "group": "FREE BERT",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/18jsL1sUIDL3ice67KoNkq22K6m.jpg",
-    "imdb": 7.8
-  },
-  "/dizi-izle/dynasty-the-murdochs": {
-    "group": "DYNASTY: THE MURDOCHS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/j5wfKP6lxz6A2IBca5rqSXru5v0.jpg",
-    "imdb": 7.8
-  },
-  "/dizi-izle/lead-children": {
-    "group": "LEAD CHILDREN (OŁOWIANE DZIECI)",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/8Er3yj5yRnHGALKPbtuiyMlIh6R.jpg",
-    "imdb": 7.919
-  },
-  "/dizi-izle/the-hunt": {
-    "group": "THE HUNT (TRAQUÉS)",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/ipf1giXcXX50ylcmDBtDcXHMTaa.jpg",
-    "imdb": 7.2
+    "poster": "https://image.tmdb.org/t/p/w500/wvAwkKeIs7bkb6EJAYRzpANhfxM.jpg",
+    "imdb": 6.4
   },
   "/dizi-izle/like-water-for-chocolate": {
     "group": "LIKE WATER FOR CHOCOLATE",
@@ -584,185 +35,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/pXNcd4z8eBihLO9I7bIVoK4mtQt.jpg",
     "imdb": 8.273
   },
-  "/dizi-izle/formula-1-drive-to-survive": {
-    "group": "FORMULA 1: DRIVE TO SURVIVE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/xGOGjJFYYeRSoOpnhN9IHZTXIxj.jpg",
-    "imdb": 8.176
-  },
-  "/dizi-izle/silent-truth": {
-    "group": "再会～SILENT TRUTH～",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/lQ61h2XUGn25sTzAv04NsvRrWti.jpg",
-    "imdb": 7.0
-  },
-  "/dizi-izle/the-lincoln-lawyer": {
-    "group": "THE LINCOLN LAWYER",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/w500/4jSaIqEU8CPBBNn4iVCK6wzPjSx.jpg",
-    "imdb": 7.698
-  },
-  "/dizi-izle/that-night": {
-    "group": "THAT NIGHT",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xOB3odcE8pbTPK0FHzfwgRTneoS.jpg",
-    "imdb": 5.95
-  },
-  "/dizi-izle/neighbors": {
-    "group": "NEIGHBORS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/u0z7DrdvnxgrgWHCiSJ83OlDtHt.jpg",
-    "imdb": 4.9
-  },
-  "/dizi-izle/the-artful-dodger": {
-    "group": "THE ARTFUL DODGER",
+  "/dizi-izle/shrinking": {
+    "group": "SHRINKING",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1,
     "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/lcyax0pIH6vZWbho2hxsMTt9KpN.jpg",
-    "imdb": 8.117
-  },
-  "/dizi-izle/girl-from-nowhere-the-reset": {
-    "group": "GIRL FROM NOWHERE: THE RESET",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg",
-    "imdb": 8.818
-  },
-  "/dizi-izle/tell-me-lies": {
-    "group": "TELL ME LIES",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/w500/hhWpEUZINrago2YgKDyv5Hb8yrU.jpg",
-    "imdb": 7.53
-  },
-  "/dizi-izle/industry": {
-    "group": "INDUSTRY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2020",
-    "poster": "https://image.tmdb.org/t/p/w500/mZ7YFEOxAKfjXJKWm0sYFXQ8n8A.jpg",
-    "imdb": 6.8
-  },
-  "/dizi-izle/twisted-yoga": {
-    "group": "TWISTED YOGA",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/ka3A5KXE5V372POop6yVeCVzJzl.jpg",
-    "imdb": 10.0
-  },
-  "/dizi-izle/blue-therapy": {
-    "group": "BLUE THERAPY",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/H8K1osuUf7OsMbtSVPvXJlcnWS.jpg",
-    "imdb": 10.0
-  },
-  "/dizi-izle/can-this-love-be-translated": {
-    "group": "CAN THIS LOVE BE TRANSLATED?",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
-    "imdb": 8.5
-  },
-  "/dizi-izle/shake-it-up": {
-    "group": "SHAKE IT UP",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2010",
-    "poster": "https://image.tmdb.org/t/p/w500/oD7B9qrgqT7tUZNi3pk2onk5C2D.jpg",
-    "imdb": 7.599
-  },
-  "/dizi-izle/gabbys-dollhouse": {
-    "group": "GABBY'S DOLLHOUSE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2021",
-    "poster": "https://image.tmdb.org/t/p/w500/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
-    "imdb": 8.0
-  },
-  "/dizi-izle/the-pitt": {
-    "group": "THE PITT",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-    "imdb": 8.693
-  },
-  "/dizi-izle/bridgerton": {
-    "group": "BRIDGERTON",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2020",
-    "poster": "https://image.tmdb.org/t/p/w500/uXTg565ahu9RwonCX1V2Hex1NU6.jpg",
-    "imdb": 8.071
-  },
-  "/dizi-izle/a-knight-of-the-seven-kingdoms": {
-    "group": "A KNIGHT OF THE SEVEN KINGDOMS",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
-    "imdb": 8.453
-  },
-  "/dizi-izle/fatal-seduction": {
-    "group": "FATAL SEDUCTION",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/qV9DjDIMUu7ieCQTQkEe9R83Ooa.jpg",
-    "imdb": 6.5
-  },
-  "/dizi-izle/million-follower-detective": {
-    "group": "MILLION-FOLLOWER DETECTIVE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/4y4GeGlsbV1643PQLAmQoCeIOBK.jpg",
-    "imdb": 7.692
-  },
-  "/dizi-izle/9-1-1-nashville": {
-    "group": "9-1-1: NASHVILLE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg",
-    "imdb": 8.1
+    "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
+    "imdb": 7.816
   },
   "/dizi-izle/the-upshaws": {
     "group": "THE UPSHAWS",
@@ -773,51 +53,6 @@
     "poster": "https://image.tmdb.org/t/p/w500/bgtpwAsKNfqJmgp3zBxuSHMBAaW.jpg",
     "imdb": 7.6
   },
-  "/dizi-izle/day-one": {
-    "group": "DAY ONE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/T6t1N2Z3sZ3vKTn5hKCrhWeeyT.jpg",
-    "imdb": 7.0
-  },
-  "/dizi-izle/the-night-agent": {
-    "group": "THE NIGHT AGENT",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/4c5yUNcaff4W4aPrkXE6zr7papX.jpg",
-    "imdb": 7.7
-  },
-  "/dizi-izle/love-through-a-prism": {
-    "group": "LOVE THROUGH A PRISM",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/rB3RQpjQAnzl9NH3r8HzPkofgH8.jpg",
-    "imdb": 8.848
-  },
-  "/dizi-izle/invincible": {
-    "group": "INVINCIBLE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2021",
-    "poster": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-    "imdb": 8.6
-  },
-  "/dizi-izle/crap-happens": {
-    "group": "CRAP HAPPENS (KACKEN AN DER HAVEL)",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/9AG5nhecHFpFShhhaHEUEnjNrgW.jpg",
-    "imdb": 5.6
-  },
   "/dizi-izle/hijack": {
     "group": "HIJACK",
     "last_season": 1,
@@ -827,23 +62,122 @@
     "poster": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
     "imdb": 7.562
   },
-  "/dizi-izle/the-art-of-sarah": {
-    "group": "THE ART OF SARAH",
+  "/dizi-izle/girl-from-nowhere-the-reset": {
+    "group": "GIRL FROM NOWHERE: THE RESET",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/nP2PRGSmLdbZtQtoXPPppcDAsNw.jpg",
-    "imdb": 7.732
+    "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg",
+    "imdb": 8.818
   },
-  "/dizi-izle/agents-of-mystery": {
-    "group": "AGENTS OF MYSTERY",
+  "/dizi-izle/the-pitt": {
+    "group": "THE PITT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+    "imdb": 8.693
+  },
+  "/dizi-izle/queer-eye": {
+    "group": "QUEER EYE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/bBWNZ7cae2LXfTuQULsAAufPObs.jpg",
+    "imdb": 7.4
+  },
+  "/dizi-izle/scrubs": {
+    "group": "SCRUBS (2026)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2001",
+    "poster": null,
+    "imdb": null
+  },
+  "/dizi-izle/idol-i": {
+    "group": "IDOL I",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/jCMw8httzGvjTu0NZjiclqUQD6c.jpg",
+    "imdb": 6.1
+  },
+  "/dizi-izle/gabbys-dollhouse": {
+    "group": "GABBY'S DOLLHOUSE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/lyLvpLsC2WzBFZm2cIEn3VgKwEf.jpg",
+    "imdb": 8.0
+  },
+  "/dizi-izle/rooster": {
+    "group": "ROOSTER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+    "imdb": 7.375
+  },
+  "/dizi-izle/high-potential": {
+    "group": "HIGH POTENTIAL",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1,
     "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/w500/4aRvU4bKWWH3sAhC3NweoNFte7Q.jpg",
-    "imdb": 7.6
+    "poster": "https://image.tmdb.org/t/p/w500/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+    "imdb": 8.019
+  },
+  "/dizi-izle/virgin-river": {
+    "group": "VIRGIN RIVER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/oHEqfmSWR4Ex4V4AJyUn8HGHHnt.jpg",
+    "imdb": 7.917
+  },
+  "/dizi-izle/bandwaale": {
+    "group": "BANDWAALE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/h1heLNN77Jmjin06ihQdMKTGGIt.jpg",
+    "imdb": 3.0
+  },
+  "/dizi-izle/monarch-legacy-of-monsters": {
+    "group": "MONARCH: LEGACY OF MONSTERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+    "imdb": 7.689
+  },
+  "/dizi-izle/how-to-get-to-heaven-from-belfast": {
+    "group": "HOW TO GET TO HEAVEN FROM BELFAST",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/6lFI03QZgXwGZLKtzUw4L8ZnyBv.jpg",
+    "imdb": 7.045
+  },
+  "/dizi-izle/the-darwin-incident": {
+    "group": "THE DARWIN INCIDENT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/9hLo3uSeGx6vDtnOPQcq7sVBzsL.jpg",
+    "imdb": 8.2
   },
   "/dizi-izle/take-that": {
     "group": "TAKE THAT",
@@ -854,13 +188,679 @@
     "poster": "https://image.tmdb.org/t/p/w500/6XIjXmnuOWdU0G86ClBtS0uNf8X.jpg",
     "imdb": 6.7
   },
-  "/dizi-izle/daldal": {
-    "group": "DALDAL",
+  "/dizi-izle/dynasty-the-murdochs": {
+    "group": "DYNASTY: THE MURDOCHS",
     "last_season": 1,
     "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/wvAwkKeIs7bkb6EJAYRzpANhfxM.jpg",
-    "imdb": 6.4
+    "poster": "https://image.tmdb.org/t/p/w500/j5wfKP6lxz6A2IBca5rqSXru5v0.jpg",
+    "imdb": 7.8
+  },
+  "/dizi-izle/crap-happens": {
+    "group": "CRAP HAPPENS (KACKEN AN DER HAVEL)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/9AG5nhecHFpFShhhaHEUEnjNrgW.jpg",
+    "imdb": 5.6
+  },
+  "/dizi-izle/agents-of-mystery": {
+    "group": "AGENTS OF MYSTERY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/4aRvU4bKWWH3sAhC3NweoNFte7Q.jpg",
+    "imdb": 7.6
+  },
+  "/dizi-izle/heaven": {
+    "group": "HEAVEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/6sBen6GdYUx90CcVNAcFb4HlepM.jpg",
+    "imdb": 8.7
+  },
+  "/dizi-izle/love-through-a-prism": {
+    "group": "LOVE THROUGH A PRISM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/rB3RQpjQAnzl9NH3r8HzPkofgH8.jpg",
+    "imdb": 8.848
+  },
+  "/dizi-izle/family-guy": {
+    "group": "FAMILY GUY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "1999",
+    "poster": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+    "imdb": 7.392
+  },
+  "/dizi-izle/phantom-lawyer": {
+    "group": "PHANTOM LAWYER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
+    "imdb": 5.5
+  },
+  "/dizi-izle/blue-therapy": {
+    "group": "BLUE THERAPY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/H8K1osuUf7OsMbtSVPvXJlcnWS.jpg",
+    "imdb": 10.0
+  },
+  "/dizi-izle/silent-truth": {
+    "group": "再会～SILENT TRUTH～",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/lQ61h2XUGn25sTzAv04NsvRrWti.jpg",
+    "imdb": 7.0
+  },
+  "/dizi-izle/undercover-miss-hong": {
+    "group": "UNDERCOVER MISS HONG",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bZr3i8yczHGDzyqZQ9oOArEEVON.jpg",
+    "imdb": 8.158
+  },
+  "/dizi-izle/the-boyfriend": {
+    "group": "THE BOYFRIEND",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
+    "imdb": 8.51
+  },
+  "/dizi-izle/wonder-man": {
+    "group": "WONDER MAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
+    "imdb": 7.122
+  },
+  "/dizi-izle/the-night-agent": {
+    "group": "THE NIGHT AGENT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/4c5yUNcaff4W4aPrkXE6zr7papX.jpg",
+    "imdb": 7.7
+  },
+  "/dizi-izle/fatal-seduction": {
+    "group": "FATAL SEDUCTION",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/qV9DjDIMUu7ieCQTQkEe9R83Ooa.jpg",
+    "imdb": 6.5
+  },
+  "/dizi-izle/the-art-of-sarah": {
+    "group": "THE ART OF SARAH",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/nP2PRGSmLdbZtQtoXPPppcDAsNw.jpg",
+    "imdb": 7.732
+  },
+  "/dizi-izle/one-piece": {
+    "group": "ONE PIECE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+    "imdb": 8.1
+  },
+  "/dizi-izle/a-friend-a-murderer": {
+    "group": "A FRIEND, A MURDERER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/e1iNUL5IY6RDQwzMdkXPKW9e1g1.jpg",
+    "imdb": 7.5
+  },
+  "/dizi-izle/kohrra": {
+    "group": "KOHRRA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/oZbiASZweEKFOHsl56QTeNJ6a8R.jpg",
+    "imdb": 6.902
+  },
+  "/dizi-izle/9-1-1-nashville": {
+    "group": "9-1-1: NASHVILLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg",
+    "imdb": 8.1
+  },
+  "/dizi-izle/scarpetta": {
+    "group": "SCARPETTA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/zvkcHCJUPqv7R9ukaiDNkm75jy.jpg",
+    "imdb": 6.243
+  },
+  "/dizi-izle/free-bert": {
+    "group": "FREE BERT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/18jsL1sUIDL3ice67KoNkq22K6m.jpg",
+    "imdb": 7.8
+  },
+  "/dizi-izle/still-shining": {
+    "group": "STILL SHINING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/tVOq3YkCTnbrycnXHmth9f6qYs7.jpg",
+    "imdb": 7.5
+  },
+  "/dizi-izle/can-this-love-be-translated": {
+    "group": "CAN THIS LOVE BE TRANSLATED?",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
+    "imdb": 8.5
+  },
+  "/dizi-izle/vladimir": {
+    "group": "VLADIMIR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/j02VBIGVIk2OTwTUZ1YzyzcONAy.jpg",
+    "imdb": 7.19
+  },
+  "/dizi-izle/sounds-of-winter": {
+    "group": "SOUNDS OF WINTER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/dn0MVtByu6DKGzb2n9QBm9AqRCr.jpg",
+    "imdb": 7.0
+  },
+  "/dizi-izle/cross": {
+    "group": "CROSS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
+    "imdb": 7.0
+  },
+  "/dizi-izle/bridgerton": {
+    "group": "BRIDGERTON",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/w500/uXTg565ahu9RwonCX1V2Hex1NU6.jpg",
+    "imdb": 8.071
+  },
+  "/dizi-izle/baki-dou-the-invincible-samurai": {
+    "group": "BAKI-DOU: THE INVINCIBLE SAMURAI",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/frtzbwANetYd0M4zdrZ5gx0E89q.jpg",
+    "imdb": 8.935
+  },
+  "/dizi-izle/glitter-gold-ice-dancing": {
+    "group": "GLITTER & GOLD: ICE DANCING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/irrdulKrIPIjUwpZMwdtoo80CLW.jpg",
+    "imdb": 8.7
+  },
+  "/dizi-izle/salvador": {
+    "group": "SALVADOR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/8pLnnRB2qG1vZHXpjm2gVFNyUX.jpg",
+    "imdb": 6.857
+  },
+  "/dizi-izle/a-knight-of-the-seven-kingdoms": {
+    "group": "A KNIGHT OF THE SEVEN KINGDOMS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
+    "imdb": 8.453
+  },
+  "/dizi-izle/sirens-kiss": {
+    "group": "SIREN'S KISS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
+    "imdb": 5.8
+  },
+  "/dizi-izle/no-tail-to-tell": {
+    "group": "NO TAIL TO TELL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
+    "imdb": 7.8
+  },
+  "/dizi-izle/strip-law": {
+    "group": "STRIP LAW",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/hs9kjF67nO5vc3kBgm3IF2MLnRe.jpg",
+    "imdb": 6.818
+  },
+  "/dizi-izle/percy-jackson-and-the-olympians": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
+    "imdb": 7.303
+  },
+  "/dizi-izle/the-beauty": {
+    "group": "THE BEAUTY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/tZTG2PPAukzksPkiQV9c4suIQXk.jpg",
+    "imdb": 6.265
+  },
+  "/dizi-izle/the-artful-dodger": {
+    "group": "THE ARTFUL DODGER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/lcyax0pIH6vZWbho2hxsMTt9KpN.jpg",
+    "imdb": 8.117
+  },
+  "/dizi-izle/motorvalley": {
+    "group": "MOTORVALLEY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/v9OAxTMdIci9Ox6cZXvMEWHyYf0.jpg",
+    "imdb": 7.405
+  },
+  "/dizi-izle/invincible": {
+    "group": "INVINCIBLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+    "imdb": 8.6
+  },
+  "/dizi-izle/the-last-thing-he-told-me": {
+    "group": "THE LAST THING HE TOLD ME",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg",
+    "imdb": 7.044
+  },
+  "/dizi-izle/tell-me-lies": {
+    "group": "TELL ME LIES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/hhWpEUZINrago2YgKDyv5Hb8yrU.jpg",
+    "imdb": 7.53
+  },
+  "/dizi-izle/the-night-manager": {
+    "group": "THE NIGHT MANAGER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
+    "imdb": 7.728
+  },
+  "/dizi-izle/56-days": {
+    "group": "56 DAYS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/sdJLbucggwGj8NdX0UN2zt1Vwmn.jpg",
+    "imdb": 6.603
+  },
+  "/dizi-izle/the-lincoln-lawyer": {
+    "group": "THE LINCOLN LAWYER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/4jSaIqEU8CPBBNn4iVCK6wzPjSx.jpg",
+    "imdb": 7.698
+  },
+  "/dizi-izle/shake-it-up": {
+    "group": "SHAKE IT UP",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/oD7B9qrgqT7tUZNi3pk2onk5C2D.jpg",
+    "imdb": 7.599
+  },
+  "/dizi-izle/portobello": {
+    "group": "PORTOBELLO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/j8nr8fZW7H1VtHlN6mr5s1s6qKh.jpg",
+    "imdb": 7.214
+  },
+  "/dizi-izle/the-dinosaurs": {
+    "group": "THE DINOSAURS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
+    "imdb": 7.9
+  },
+  "/dizi-izle/the-tiktok-killer": {
+    "group": "THE TIKTOK KILLER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/3sZfTsu02nhCoIEGdyQ2iYK09JN.jpg",
+    "imdb": 6.0
+  },
+  "/dizi-izle/lead-children": {
+    "group": "LEAD CHILDREN (OŁOWIANE DZIECI)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/8Er3yj5yRnHGALKPbtuiyMlIh6R.jpg",
+    "imdb": 7.919
+  },
+  "/dizi-izle/twisted-yoga": {
+    "group": "TWISTED YOGA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ka3A5KXE5V372POop6yVeCVzJzl.jpg",
+    "imdb": 10.0
+  },
+  "/dizi-izle/singles-inferno": {
+    "group": "SINGLE’S INFERNO",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/86zkkFCrNc4VeqvCANTmpGNgFEF.jpg",
+    "imdb": 7.725
+  },
+  "/dizi-izle/womens-hell": {
+    "group": "WOMEN'S HELL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/pWS7yvwCFQAgsQE1IjZMKTxe0wx.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/industry": {
+    "group": "INDUSTRY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/w500/mZ7YFEOxAKfjXJKWm0sYFXQ8n8A.jpg",
+    "imdb": 6.8
+  },
+  "/dizi-izle/banksters": {
+    "group": "BANKSTERS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ntiVdQ1UbEu8h5HLXVhlf7ri7D1.jpg",
+    "imdb": 5.0
+  },
+  "/dizi-izle/unfamiliar": {
+    "group": "UNFAMILIAR",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/hdEQWvSbDQsbdseeYjUS0NgrfT2.jpg",
+    "imdb": 7.175
+  },
+  "/dizi-izle/drops-of-god": {
+    "group": "DROPS OF GOD",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/t3OGrj5z0RSv7GaPxtcNneu2JCr.jpg",
+    "imdb": 7.63
+  },
+  "/dizi-izle/neighbors": {
+    "group": "NEIGHBORS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/u0z7DrdvnxgrgWHCiSJ83OlDtHt.jpg",
+    "imdb": 4.9
+  },
+  "/dizi-izle/surviving-the-jehovahs-witnesses": {
+    "group": "SURVIVING THE JEHOVAH’S WITNESSES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/2PdNX6BDFt5nF0Qlzez8U1inaXu.jpg",
+    "imdb": 6.0
+  },
+  "/dizi-izle/spring-fever": {
+    "group": "SPRING FEVER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/50e9qtv8rKmcayAQSgB9P9XELpQ.jpg",
+    "imdb": 7.7
+  },
+  "/dizi-izle/star-trek-starfleet-academy": {
+    "group": "STAR TREK: STARFLEET ACADEMY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+    "imdb": 5.184
+  },
+  "/dizi-izle/fit-for-a-killer": {
+    "group": "FIT FOR A KILLER (MORDERCA SZYTY NA MIARĘ)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/3pcmkcUSVbpgKvKLvM7kpDJivUU.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/reality-check-inside-americas-next-top-model": {
+    "group": "REALITY CHECK: INSIDE AMERICA'S NEXT TOP MODEL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/lxlsvsgvEYlf2wrSV9qUipHRAuk.jpg",
+    "imdb": 7.625
+  },
+  "/dizi-izle/paradise": {
+    "group": "PARADISE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
+    "imdb": 7.397
+  },
+  "/dizi-izle/steal": {
+    "group": "STEAL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
+    "imdb": 7.385
+  },
+  "/dizi-izle/dtf-st-louis": {
+    "group": "DTF ST. LOUIS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+    "imdb": 4.9
+  },
+  "/dizi-izle/radioactive-emergency": {
+    "group": "RADIOACTIVE EMERGENCY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/u21TjnyVRB3hxrvvC0Ia2NHgJX8.jpg",
+    "imdb": 10.0
+  },
+  "/dizi-izle/battle-of-fates": {
+    "group": "BATTLE OF FATES",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/o4DOGStruvyfrfKhazBO9UbxRhR.jpg",
+    "imdb": 7.8
+  },
+  "/dizi-izle/finding-her-edge": {
+    "group": "FINDING HER EDGE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/7t6iXlbfoBSfVyINLRHms5kqfze.jpg",
+    "imdb": 7.555
+  },
+  "/dizi-izle/cash-queens": {
+    "group": "CASH QUEENS (LES LIONNES)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/hu9DpdDLU7W0nqmsAJPmWKDeRjT.jpg",
+    "imdb": 5.6
+  },
+  "/dizi-izle/the-hunt": {
+    "group": "THE HUNT (TRAQUÉS)",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ipf1giXcXX50ylcmDBtDcXHMTaa.jpg",
+    "imdb": 7.2
+  },
+  "/dizi-izle/love-story": {
+    "group": "LOVE STORY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/7WU3cXD0rip5ONc7owI2dBWAVjW.jpg",
+    "imdb": 8.7
+  },
+  "/dizi-izle/boyfriend-on-demand": {
+    "group": "BOYFRIEND ON DEMAND",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
+    "imdb": 8.524
+  },
+  "/dizi-izle/day-one": {
+    "group": "DAY ONE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/T6t1N2Z3sZ3vKTn5hKCrhWeeyT.jpg",
+    "imdb": 7.0
+  },
+  "/dizi-izle/million-follower-detective": {
+    "group": "MILLION-FOLLOWER DETECTIVE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/4y4GeGlsbV1643PQLAmQoCeIOBK.jpg",
+    "imdb": 7.692
+  },
+  "/dizi-izle/formula-1-drive-to-survive": {
+    "group": "FORMULA 1: DRIVE TO SURVIVE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/xGOGjJFYYeRSoOpnhN9IHZTXIxj.jpg",
+    "imdb": 8.176
   }
 }
