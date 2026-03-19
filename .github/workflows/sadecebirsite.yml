@@ -1,0 +1,192 @@
+name: Tek Bir Site Scrpit
+
+on:
+  workflow_dispatch:
+jobs:            
+  part1:
+    name: Step 1 Çalıştır
+    runs-on: ubuntu-latest
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: master
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp
+          
+      - name: Run Dizigom JSON Script
+        run: python private_py/dizigomjson.py || true
+        
+      - name: Run Diziyo JSON Script
+        run: python private_py/diziyojson.py || true
+        
+      - name: Run hdfilmcehennemijson.py JSON Script
+        run: python private_py/hdfilmcehennemijson.py || true
+        
+      - name: Run sezonlukdizijson.py JSON Script
+        run: python private_py/sezonlukdizijson.py || true
+        
+      - name: Run yabancidizilerjson.py JSON Script
+        run: python private_py/yabancidizilerjson.py || true
+        
+      - name: Commit and Push All JSONs to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add **/*.json || echo "No dizigom files"
+          git commit -m "ANA JSON güncellendi [auto]" || echo "No changes"
+          git push origin master
+
+  part2:
+    name: Step 2 Çalıştır
+    runs-on: ubuntu-latest
+    needs: part1
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: master
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp
+
+      # 2. DİZİLER KATEGORİ GÜNCELLEME
+      - name: Run series_kategori_guncelleme Script
+        run: python private_py/category.py
+
+      - name: Commit and Push Ana JSONs to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add xtream/series_category.json || echo "No files"
+          git commit -m "Series Category JSON güncellendi [auto]" || echo "No changes"
+          git push origin master
+          
+  part3:
+    name: Step 3 Çalıştır
+    runs-on: ubuntu-latest
+    needs: part2
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: master
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv httpx
+          playwright install
+          
+      # 4. DIZIGOM YENIBOLUMLER
+      - name: Run dizigomyenibolumler.py Script
+        run: python private_py/dizigomyenibolumler.py
+
+      - name: Commit and Push All JSONs
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git config status.showUntrackedFiles no
+          git add **/*.json || echo "No JSON files"
+          git commit -m "Tüm JSON dosyaları güncellendi [auto]" || echo "No changes"
+          
+          # Retry push up to 5 times with 10s delay
+          for i in {1..5}; do
+            git push origin master && break
+            echo "Push failed, retrying in 10s..."
+            sleep 10
+          done
+
+      - name: Sync Outputs to Private Repos
+        run: |
+          # Dizigom
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/dizigom.git private_dizigom
+          rsync -a dizigom/ private_dizigom/
+          cd private_dizigom
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Dizigom çıktı güncellendi [auto]" || echo "No changes"
+          git push origin master
+
+  part4:
+    name: Step 4 Çalıştır
+    runs-on: ubuntu-latest
+    needs: part3
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: master
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv
+          
+      - name: Run dizigomyenibolumler.py Script
+        run: python private_py/yenibolumdenanajosna.py
+
+      - name: Commit and Push All JSONs
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git config status.showUntrackedFiles no
+          git add **/*.json || echo "No JSON files"
+          git commit -m "Tüm JSON dosyaları güncellendi [auto]" || echo "No changes"
+          
+          # Retry push up to 5 times with 10s delay
+          for i in {1..5}; do
+            git push origin master && break
+            echo "Push failed, retrying in 10s..."
+            sleep 10
+          done
