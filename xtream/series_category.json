@@ -34,7 +34,8 @@
     {"name": "EMERGÊNCIA RADIOATIVA", "year": "2026"},
     {"name": "FURIES", "year": "2024"},
     {"name": "RADIOACTIVE EMERGENCY", "year": "2026"},
-    {"name": "LA PRIMERA VEZ", "year": "2023"}
+    {"name": "LA PRIMERA VEZ", "year": "2023"},
+    {"name": "LOVE IS BLIND: SVERIGE", "year": "2024"}
   ],
   "FX DİZİLERİ": [
     {"name": "LOVE STORY", "year": "2026"}
@@ -135,7 +136,8 @@
     {"name": "ABBOTT ELEMENTARY", "year": "2021"},
     {"name": "THE ROOKIE", "year": "2018"},
     {"name": "HIGH POTENTIAL", "year": "2024"},
-    {"name": "R.J. DECKER", "year": "2026"}
+    {"name": "R.J. DECKER", "year": "2026"},
+    {"name": "SCRUBS 2026", "year": "2026"}
   ],
   "CBS DİZİLERİ": [
     {"name": "GEORGIE & MANDY'S FIRST MARRIAGE", "year": "2024"},
@@ -208,5 +210,11 @@
   ],
   "UP FAITH & FAMILY DİZİLERİ": [
     {"name": "BLUE SKIES", "year": "2026"}
+  ],
+  "CBC DİZİLERİ": [
+    {"name": "ALLEGIANCE 2024", "year": "2024"}
+  ],
+  "CBC GEM DİZİLERİ": [
+    {"name": "SAINT-PIERRE", "year": "2025"}
   ]
 }
