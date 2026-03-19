@@ -1,4 +1,13 @@
 {
+  "/diziler/jojos-bizarre-adventure.html": {
+    "group": "JOJO'S BIZARRE ADVENTURE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2012",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg"
+  },
   "/diziler/oshi-no-ko.html": {
     "group": "OSHI NO KO",
     "last_season": 1,
@@ -25,15 +34,6 @@
     "year": "2024",
     "imdb": "7.2",
     "poster": "https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg"
-  },
-  "/diziler/Invincible.html": {
-    "group": "INVINCIBLE",
-    "last_season": 1,
-    "last_episode": 0,
-    "start_episode": 1,
-    "year": "2021",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg"
   },
   "/diziler/imperfect-women.html": {
     "group": "IMPERFECT WOMEN",
@@ -106,5 +106,14 @@
     "year": "2026",
     "imdb": "7.2",
     "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg"
+  },
+  "/diziler/dtf-st-louis.html": {
+    "group": "DTF ST. LOUIS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg"
   }
 }

@@ -682,5 +682,185 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/u21TjnyVRB3hxrvvC0Ia2NHgJX8.jpg",
     "imdb": 10.0
+  },
+  "/dizi-izle/high-potential": {
+    "group": "HIGH POTENTIAL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+    "imdb": 8.019
+  },
+  "/dizi-izle/finding-her-edge": {
+    "group": "FINDING HER EDGE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/7t6iXlbfoBSfVyINLRHms5kqfze.jpg",
+    "imdb": 7.555
+  },
+  "/dizi-izle/steal": {
+    "group": "STEAL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
+    "imdb": 7.385
+  },
+  "/dizi-izle/sounds-of-winter": {
+    "group": "SOUNDS OF WINTER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/dn0MVtByu6DKGzb2n9QBm9AqRCr.jpg",
+    "imdb": 7.0
+  },
+  "/dizi-izle/percy-jackson-and-the-olympians": {
+    "group": "PERCY JACKSON AND THE OLYMPIANS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
+    "imdb": 7.303
+  },
+  "/dizi-izle/star-trek-starfleet-academy": {
+    "group": "STAR TREK: STARFLEET ACADEMY",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+    "imdb": 5.184
+  },
+  "/dizi-izle/the-boyfriend": {
+    "group": "THE BOYFRIEND",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/8vBWQjdCnK7xSGuNbK1gBK1iIQL.jpg",
+    "imdb": 8.51
+  },
+  "/dizi-izle/heaven": {
+    "group": "HEAVEN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/6sBen6GdYUx90CcVNAcFb4HlepM.jpg",
+    "imdb": 8.7
+  },
+  "/dizi-izle/wonder-man": {
+    "group": "WONDER MAN",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
+    "imdb": 7.122
+  },
+  "/dizi-izle/glitter-gold-ice-dancing": {
+    "group": "GLITTER & GOLD: ICE DANCING",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/irrdulKrIPIjUwpZMwdtoo80CLW.jpg",
+    "imdb": 8.7
+  },
+  "/dizi-izle/idol-i": {
+    "group": "IDOL I",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/jCMw8httzGvjTu0NZjiclqUQD6c.jpg",
+    "imdb": 6.1
+  },
+  "/dizi-izle/queer-eye": {
+    "group": "QUEER EYE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/bBWNZ7cae2LXfTuQULsAAufPObs.jpg",
+    "imdb": 7.4
+  },
+  "/dizi-izle/the-night-manager": {
+    "group": "THE NIGHT MANAGER",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
+    "imdb": 7.728
+  },
+  "/dizi-izle/free-bert": {
+    "group": "FREE BERT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/18jsL1sUIDL3ice67KoNkq22K6m.jpg",
+    "imdb": 7.8
+  },
+  "/dizi-izle/can-this-love-be-translated": {
+    "group": "CAN THIS LOVE BE TRANSLATED?",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
+    "imdb": 8.5
+  },
+  "/dizi-izle/9-1-1-nashville": {
+    "group": "9-1-1: NASHVILLE",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg",
+    "imdb": 8.1
+  },
+  "/dizi-izle/the-upshaws": {
+    "group": "THE UPSHAWS",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/bgtpwAsKNfqJmgp3zBxuSHMBAaW.jpg",
+    "imdb": 7.6
+  },
+  "/dizi-izle/love-through-a-prism": {
+    "group": "LOVE THROUGH A PRISM",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/rB3RQpjQAnzl9NH3r8HzPkofgH8.jpg",
+    "imdb": 8.848
+  },
+  "/dizi-izle/take-that": {
+    "group": "TAKE THAT",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/6XIjXmnuOWdU0G86ClBtS0uNf8X.jpg",
+    "imdb": 6.7
+  },
+  "/dizi-izle/daldal": {
+    "group": "DALDAL",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wvAwkKeIs7bkb6EJAYRzpANhfxM.jpg",
+    "imdb": 6.4
   }
 }
