@@ -77,10 +77,41 @@
     {"name": "MISSING: DEAD OR ALIVE?", "year": "2023"},
     {"name": "AGATHA CHRISTIE'S SEVEN DIALS", "year": "2026"},
     {"name": "TOMB RAIDER: THE LEGEND OF LARA CROFT", "year": "2024"},
-    {"name": "MY KOREAN BOYFRIEND", "year": "2026"}
+    {"name": "MY KOREAN BOYFRIEND", "year": "2026"},
+    {"name": "MARINES", "year": "2025"},
+    {"name": "MRS PLAYMEN", "year": "2025"},
+    {"name": "NOBODY WANTS THIS", "year": "2024"},
+    {"name": "THE MONSTER OF FLORENCE", "year": "2025"},
+    {"name": "NO ONE SAW US LEAVE", "year": "2025"},
+    {"name": "SPLINTER CELL: DEATHWATCH", "year": "2025"},
+    {"name": "JUAN GABRIEL: I MUST, I CAN, I WILL", "year": "2025"},
+    {"name": "MOB WAR: PHILADELPHIA VS. THE MAFIA", "year": "2025"},
+    {"name": "HEWELIUSZ", "year": "2025"},
+    {"name": "BOOTS", "year": "2025"},
+    {"name": "LAST SAMURAI STANDING", "year": "2025"},
+    {"name": "LOVE IS BLIND", "year": "2020"},
+    {"name": "START UP, FALL DOWN: FROM BILLIONAIRE TO CONVICT", "year": "2025"},
+    {"name": "THE CRYSTAL CUCKOO", "year": "2025"},
+    {"name": "AS YOU STOOD BY", "year": "2025"},
+    {"name": "STARTING 5", "year": "2024"},
+    {"name": "DEATH BY LIGHTNING", "year": "2025"},
+    {"name": "THE BAD GUYS: BREAKING IN", "year": "2025"},
+    {"name": "BAD INFLUENCER", "year": "2025"},
+    {"name": "AMSTERDAM EMPIRE", "year": "2025"},
+    {"name": "THE BEAST IN ME", "year": "2025"},
+    {"name": "SON OF A DONKEY", "year": "2025"},
+    {"name": "THE RESURRECTED", "year": "2025"},
+    {"name": "THE DIPLOMAT", "year": "2023"},
+    {"name": "PHYSICAL: 100", "year": "2023"},
+    {"name": "THE WITCHER", "year": "2019"},
+    {"name": "PHYSICAL: ASIA", "year": "2025"},
+    {"name": "SELLING SUNSET", "year": "2019"},
+    {"name": "ROMANTICS ANONYMOUS", "year": "2025"},
+    {"name": "BABY BANDITO", "year": "2024"}
   ],
   "FX DİZİLERİ": [
-    {"name": "LOVE STORY", "year": "2026"}
+    {"name": "LOVE STORY", "year": "2026"},
+    {"name": "THE LOWDOWN", "year": "2025"}
   ],
   "DISNEY+ DİZİLERİ": [
     {"name": "THE ARTFUL DODGER", "year": "2023"},
@@ -94,7 +125,11 @@
     {"name": "A THOUSAND BLOWS", "year": "2025"},
     {"name": "MADE IN KOREA", "year": "2025"},
     {"name": "SEVENTEEN: OUR CHAPTER", "year": "2025"},
-    {"name": "ARE YOU SURE?!", "year": "2024"}
+    {"name": "ARE YOU SURE?!", "year": "2024"},
+    {"name": "THE MURKY STREAM", "year": "2025"},
+    {"name": "TO COOK A BEAR", "year": "2025"},
+    {"name": "ENTREPRENEURS", "year": "2025"},
+    {"name": "STAR WARS: VISIONS", "year": "2021"}
   ],
   "HBO DİZİLERİ": [
     {"name": "NEIGHBORS", "year": "2026"},
@@ -117,7 +152,9 @@
     {"name": "THE VALLECAS FILES", "year": "2025"},
     {"name": "VGLY", "year": "2023"},
     {"name": "IT'S FLORIDA, MAN.", "year": "2024"},
-    {"name": "IT: WELCOME TO DERRY", "year": "2025"}
+    {"name": "IT: WELCOME TO DERRY", "year": "2025"},
+    {"name": "PEACEMAKER", "year": "2022"},
+    {"name": "TASK", "year": "2025"}
   ],
   "AMAZON PRIME DİZİLERİ": [
     {"name": "SCARPETTA", "year": "2026"},
@@ -129,14 +166,26 @@
     {"name": "DALDAL", "year": "2026"},
     {"name": "THE FAMILY MAN", "year": "2019"},
     {"name": "MAXTON HALL - THE WORLD BETWEEN US", "year": "2024"},
-    {"name": "THE MIGHTY NEIN", "year": "2025"}
+    {"name": "THE MIGHTY NEIN", "year": "2025"},
+    {"name": "HAZBIN HOTEL", "year": "2019"},
+    {"name": "TATSUKI FUJIMOTO 17-26", "year": "2025"},
+    {"name": "BAT-FAM", "year": "2023"},
+    {"name": "UNBURIED", "year": "2025"},
+    {"name": "MALICE", "year": "2025"},
+    {"name": "HARLAN COBEN'S LAZARUS", "year": "2025"},
+    {"name": "HOLLYWOOD HUSTLER: GLITZ, GLAM, SCAM", "year": "2025"}
   ],
   "HULU DİZİLERİ": [
     {"name": "PARADISE", "year": "2025"},
     {"name": "TELL ME LIES", "year": "2022"},
     {"name": "THE BEAUTY", "year": "2026"},
     {"name": "ALL'S FAIR", "year": "2025"},
-    {"name": "THE KARDASHIANS", "year": "2022"}
+    {"name": "THE KARDASHIANS", "year": "2022"},
+    {"name": "MURDAUGH: DEATH IN THE FAMILY", "year": "2025"},
+    {"name": "REASONABLE DOUBT", "year": "2022"},
+    {"name": "ONLY MURDERS IN THE BUILDING", "year": "2021"},
+    {"name": "CHAD POWERS", "year": "2025"},
+    {"name": "SOLAR OPPOSITES", "year": "2020"}
   ],
   "APPLE TV+ DİZİLERİ": [
     {"name": "DROPS OF GOD", "year": "2023"},
@@ -155,7 +204,12 @@
     {"name": "LOOT", "year": "2022"},
     {"name": "PREHISTORIC PLANET", "year": "2022"},
     {"name": "DOWN CEMETERY ROAD", "year": "2025"},
-    {"name": "KNIFE EDGE: CHASING MICHELIN STARS", "year": "2025"}
+    {"name": "KNIFE EDGE: CHASING MICHELIN STARS", "year": "2025"},
+    {"name": "THE MORNING SHOW", "year": "2019"},
+    {"name": "THE RELUCTANT TRAVELER WITH EUGENE LEVY", "year": "2023"},
+    {"name": "INVASION", "year": "2021"},
+    {"name": "SLOW HORSES", "year": "2022"},
+    {"name": "MR. SCORSESE", "year": "2025"}
   ],
   "FOX DİZİLERİ": [
     {"name": "FAMILY GUY", "year": "1999"},
@@ -206,7 +260,8 @@
     {"name": "ST. DENIS MEDICAL", "year": "2024"}
   ],
   "STARZ DİZİLERİ": [
-    {"name": "OUTLANDER", "year": "2014"}
+    {"name": "OUTLANDER", "year": "2014"},
+    {"name": "OUTLANDER: BLOOD OF MY BLOOD", "year": "2025"}
   ],
   "ABC DİZİLERİ": [
     {"name": "GREY'S ANATOMY", "year": "2005"},
@@ -337,5 +392,17 @@
   ],
   "WAVVE DİZİLERİ": [
     {"name": "WILL YOU BE MY MANAGER?", "year": "2025"}
+  ],
+  "STAN DİZİLERİ": [
+    {"name": "WATCHING YOU", "year": "2025"}
+  ],
+  "COUPANG PLAY DİZİLERİ": [
+    {"name": "JUST MAKEUP", "year": "2025"}
+  ],
+  "TV CHOSUN DİZİLERİ": [
+    {"name": "CONFIDENCE QUEEN", "year": "2025"}
+  ],
+  "FUJI TV DİZİLERİ": [
+    {"name": "PRAY SPEAK WHAT HAS HAPPENED", "year": "2025"}
   ]
 }
