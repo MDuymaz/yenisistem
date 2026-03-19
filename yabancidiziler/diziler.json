@@ -412,5 +412,41 @@
     "year": "2026",
     "imdb": "7.9",
     "poster": "https://image.tmdb.org/t/p/w500/bkMdvmjj1zEnVqZTPskBREDzTuS.jpg"
+  },
+  "/dizi/allegiance-2024": {
+    "group": "Allegiance 2024",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/a3JebriAnBipohn5qtWuezuA0D6.jpg"
+  },
+  "/dizi/love-is-blind-sverige": {
+    "group": "Love is Blind: Sverige",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.5",
+    "poster": "https://image.tmdb.org/t/p/w500/dwnREOnAaleZQd02zSLCWLGiV8P.jpg"
+  },
+  "/dizi/saint-pierre": {
+    "group": "Saint-Pierre",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/uBvqeoZ8ZlproJXdwZwQwRSs68I.jpg"
+  },
+  "/dizi/scrubs-2026": {
+    "group": "Scrubs 2026",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg"
   }
 }
