@@ -32,19 +32,7 @@ jobs:
           
       - name: Run Dizigom JSON Script
         run: python private_py/dizigomjson.py || true
-        
-      - name: Run Diziyo JSON Script
-        run: python private_py/diziyojson.py || true
-        
-      - name: Run hdfilmcehennemijson.py JSON Script
-        run: python private_py/hdfilmcehennemijson.py || true
-        
-      - name: Run sezonlukdizijson.py JSON Script
-        run: python private_py/sezonlukdizijson.py || true
-        
-      - name: Run yabancidizilerjson.py JSON Script
-        run: python private_py/yabancidizilerjson.py || true
-        
+             
       - name: Commit and Push All JSONs to public repo
         run: |
           git config user.name "GitHub Actions"
@@ -173,8 +161,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml playwright aiohttp aiofiles dotenv
           
-      - name: Run dizigomyenibolumler.py Script
-        run: python private_py/yenibolumdenanajosna.py
+      - name: Run yenibolumdenanajsona.py Script
+        run: python private_py/yenibolumdenanajsona.py
 
       - name: Commit and Push All JSONs
         run: |
