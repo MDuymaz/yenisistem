@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN } 
+  M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }} 
 
 jobs:          
   push-m3u-to-root:
