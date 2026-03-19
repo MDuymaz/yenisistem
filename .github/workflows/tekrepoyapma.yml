@@ -38,7 +38,7 @@ jobs:
       - name: Checkout private m3u8file repo
         uses: actions/checkout@v4
         with:
-          repository: MDuymaz/m3u8file
+          repository: MDuymaz/m3urepo
           token: ${{ secrets.GH_TOKEN }}
           path: private_m3u8file
           fetch-depth: 1
