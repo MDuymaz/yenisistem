@@ -44,7 +44,40 @@
     {"name": "CAN THIS LOVE BE TRANSLATED?", "year": "2026"},
     {"name": "THE UPSHAWS", "year": "2021"},
     {"name": "LOVE THROUGH A PRISM", "year": "2026"},
-    {"name": "TAKE THAT", "year": "2026"}
+    {"name": "TAKE THAT", "year": "2026"},
+    {"name": "JURASSIC WORLD: CHAOS THEORY", "year": "2024"},
+    {"name": "RECORD OF RAGNAROK", "year": "2021"},
+    {"name": "CASHERO", "year": "2025"},
+    {"name": "TASKAREE: THE SMUGGLER'S WEB", "year": "2026"},
+    {"name": "UNLOCKED: A JAIL EXPERIMENT", "year": "2024"},
+    {"name": "CULINARY CLASS WARS", "year": "2024"},
+    {"name": "PAPARAZZI KING", "year": "2026"},
+    {"name": "SEAN COMBS: THE RECKONING", "year": "2025"},
+    {"name": "SQUID GAME: THE CHALLENGE", "year": "2023"},
+    {"name": "MAN VS BABY", "year": "2025"},
+    {"name": "SICILY EXPRESS", "year": "2025"},
+    {"name": "THE ABANDONS", "year": "2025"},
+    {"name": "MEMBERS ONLY: PALM BEACH", "year": "2025"},
+    {"name": "THREE IDIOTS IN KENYA", "year": "2025"},
+    {"name": "SIMON COWELL: THE NEXT ACT", "year": "2025"},
+    {"name": "MY NEXT GUEST NEEDS NO INTRODUCTION WITH DAVID LETTERMAN", "year": "2018"},
+    {"name": "BADLY IN LOVE", "year": "2025"},
+    {"name": "LOVE IS BLIND: GERMANY", "year": "2025"},
+    {"name": "LOVE IS BLIND: ITALY", "year": "2025"},
+    {"name": "STRANGER THINGS", "year": "2016"},
+    {"name": "HIS & HERS", "year": "2026"},
+    {"name": "KING OF COLLECTIBLES: THE GOLDIN TOUCH", "year": "2023"},
+    {"name": "THE BELIEVERS", "year": "2024"},
+    {"name": "A MAN ON THE INSIDE", "year": "2024"},
+    {"name": "ENVIOUS", "year": "2024"},
+    {"name": "EMILY IN PARIS", "year": "2020"},
+    {"name": "HAD I NOT SEEN THE SUN", "year": "2025"},
+    {"name": "OWNING MANHATTAN", "year": "2024"},
+    {"name": "THE PRICE OF CONFESSION", "year": "2025"},
+    {"name": "MISSING: DEAD OR ALIVE?", "year": "2023"},
+    {"name": "AGATHA CHRISTIE'S SEVEN DIALS", "year": "2026"},
+    {"name": "TOMB RAIDER: THE LEGEND OF LARA CROFT", "year": "2024"},
+    {"name": "MY KOREAN BOYFRIEND", "year": "2026"}
   ],
   "FX DİZİLERİ": [
     {"name": "LOVE STORY", "year": "2026"}
@@ -54,7 +87,14 @@
     {"name": "BATTLE OF FATES", "year": "2026"},
     {"name": "SHAKE IT UP", "year": "2010"},
     {"name": "PERCY JACKSON AND THE OLYMPIANS", "year": "2023"},
-    {"name": "WONDER MAN", "year": "2026"}
+    {"name": "WONDER MAN", "year": "2026"},
+    {"name": "THE MANIPULATED", "year": "2025"},
+    {"name": "DISNEY TWISTED-WONDERLAND: THE ANIMATION", "year": "2025"},
+    {"name": "CAT'S EYE", "year": "2025"},
+    {"name": "A THOUSAND BLOWS", "year": "2025"},
+    {"name": "MADE IN KOREA", "year": "2025"},
+    {"name": "SEVENTEEN: OUR CHAPTER", "year": "2025"},
+    {"name": "ARE YOU SURE?!", "year": "2024"}
   ],
   "HBO DİZİLERİ": [
     {"name": "NEIGHBORS", "year": "2026"},
@@ -70,7 +110,14 @@
     {"name": "DTF ST. LOUIS", "year": "2026"},
     {"name": "MIRA", "year": "2026"},
     {"name": "COMO AGUA PARA CHOCOLATE", "year": "2024"},
-    {"name": "DONA BEJA", "year": "2026"}
+    {"name": "DONA BEJA", "year": "2026"},
+    {"name": "THE CHAIR COMPANY", "year": "2025"},
+    {"name": "ÂNGELA DINIZ: MURDERED AND CONVICTED", "year": "2025"},
+    {"name": "I LOVE LA", "year": "2025"},
+    {"name": "THE VALLECAS FILES", "year": "2025"},
+    {"name": "VGLY", "year": "2023"},
+    {"name": "IT'S FLORIDA, MAN.", "year": "2024"},
+    {"name": "IT: WELCOME TO DERRY", "year": "2025"}
   ],
   "AMAZON PRIME DİZİLERİ": [
     {"name": "SCARPETTA", "year": "2026"},
@@ -79,12 +126,17 @@
     {"name": "IT'S NOT LIKE THAT", "year": "2026"},
     {"name": "INVINCIBLE", "year": "2021"},
     {"name": "STEAL", "year": "2026"},
-    {"name": "DALDAL", "year": "2026"}
+    {"name": "DALDAL", "year": "2026"},
+    {"name": "THE FAMILY MAN", "year": "2019"},
+    {"name": "MAXTON HALL - THE WORLD BETWEEN US", "year": "2024"},
+    {"name": "THE MIGHTY NEIN", "year": "2025"}
   ],
   "HULU DİZİLERİ": [
     {"name": "PARADISE", "year": "2025"},
     {"name": "TELL ME LIES", "year": "2022"},
-    {"name": "THE BEAUTY", "year": "2026"}
+    {"name": "THE BEAUTY", "year": "2026"},
+    {"name": "ALL'S FAIR", "year": "2025"},
+    {"name": "THE KARDASHIANS", "year": "2022"}
   ],
   "APPLE TV+ DİZİLERİ": [
     {"name": "DROPS OF GOD", "year": "2023"},
@@ -94,31 +146,47 @@
     {"name": "THE LAST THING HE TOLD ME", "year": "2023"},
     {"name": "MONARCH: LEGACY OF MONSTERS", "year": "2023"},
     {"name": "TRAQUÉS", "year": "2026"},
-    {"name": "IMPERFECT WOMEN", "year": "2026"}
+    {"name": "IMPERFECT WOMEN", "year": "2026"},
+    {"name": "PLURIBUS", "year": "2025"},
+    {"name": "THE LAST FRONTIER", "year": "2025"},
+    {"name": "BORN TO BE WILD", "year": "2025"},
+    {"name": "WONDLA", "year": "2024"},
+    {"name": "PALM ROYALE", "year": "2024"},
+    {"name": "LOOT", "year": "2022"},
+    {"name": "PREHISTORIC PLANET", "year": "2022"},
+    {"name": "DOWN CEMETERY ROAD", "year": "2025"},
+    {"name": "KNIFE EDGE: CHASING MICHELIN STARS", "year": "2025"}
   ],
   "FOX DİZİLERİ": [
     {"name": "FAMILY GUY", "year": "1999"},
     {"name": "GOING DUTCH", "year": "2025"},
     {"name": "ANIMAL CONTROL", "year": "2023"},
     {"name": "UNIVERSAL BASIC GUYS", "year": "2024"},
-    {"name": "MEMORY OF A KILLER", "year": "2026"}
+    {"name": "MEMORY OF A KILLER", "year": "2026"},
+    {"name": "THE SIMPSONS", "year": "1989"}
   ],
   "SBS DİZİLERİ": [
     {"name": "NO TAIL TO TELL", "year": "2026"},
-    {"name": "PHANTOM LAWYER", "year": "2026"}
+    {"name": "PHANTOM LAWYER", "year": "2026"},
+    {"name": "DYNAMITE KISS", "year": "2025"}
   ],
   "TVN DİZİLERİ": [
     {"name": "SPRING FEVER", "year": "2026"},
     {"name": "SIREN'S KISS", "year": "2026"},
     {"name": "UNDERCOVER MISS HONG", "year": "2026"},
     {"name": "SIREN’S KISS", "year": "2026"},
-    {"name": "SIRENS KISS", "year": "2026"}
+    {"name": "SIRENS KISS", "year": "2026"},
+    {"name": "PRO BONO", "year": "2025"},
+    {"name": "TYPHOON FAMILY", "year": "2025"},
+    {"name": "NICE TO NOT MEET YOU", "year": "2025"}
   ],
   "TV ASAHI DİZİLERİ": [
     {"name": "再会～SILENT TRUTH～", "year": "2026"}
   ],
   "JTBC DİZİLERİ": [
-    {"name": "STILL SHINING", "year": "2026"}
+    {"name": "STILL SHINING", "year": "2026"},
+    {"name": "SURELY TOMORROW", "year": "2025"},
+    {"name": "THE DREAM LIFE OF MR. KIM", "year": "2025"}
   ],
   "TV TOKYO DİZİLERİ": [
     {"name": "THE DARWIN INCIDENT", "year": "2026"}
@@ -184,7 +252,8 @@
     {"name": "TO YOUR ETERNITY", "year": "2021"}
   ],
   "NTV DİZİLERİ": [
-    {"name": "FRIEREN: BEYOND JOURNEY'S END", "year": "2023"}
+    {"name": "FRIEREN: BEYOND JOURNEY'S END", "year": "2023"},
+    {"name": "CHOSEN HOME", "year": "2025"}
   ],
   "MBS DİZİLERİ": [
     {"name": "JUJUTSU KAISEN", "year": "2020"}
@@ -194,7 +263,8 @@
     {"name": "HELL'S PARADISE", "year": "2023"}
   ],
   "ITVX DİZİLERİ": [
-    {"name": "GONE", "year": "2026"}
+    {"name": "GONE", "year": "2026"},
+    {"name": "RED EYE", "year": "2024"}
   ],
   "CITYTV DİZİLERİ": [
     {"name": "LAW & ORDER TORONTO: CRIMINAL INTENT", "year": "2024"}
@@ -222,7 +292,8 @@
     {"name": "WHEN CALLS THE HEART", "year": "2013"}
   ],
   "BBC ONE DİZİLERİ": [
-    {"name": "THE HUNT", "year": "2015"}
+    {"name": "THE HUNT", "year": "2015"},
+    {"name": "HOME FOR CHRISTMAS", "year": "2017"}
   ],
   "UP FAITH & FAMILY DİZİLERİ": [
     {"name": "BLUE SKIES", "year": "2026"}
@@ -241,5 +312,30 @@
   ],
   "ENA DİZİLERİ": [
     {"name": "IDOL I", "year": "2025"}
+  ],
+  "CHANNEL 4 DİZİLERİ": [
+    {"name": "THE ACCIDENT", "year": "2019"}
+  ],
+  "CHANNEL 7 DİZİLERİ": [
+    {"name": "LOVER MERMAN", "year": "2025"}
+  ],
+  "TBS DİZİLERİ": [
+    {"name": "THE GOLDEN EGG", "year": "2025"}
+  ],
+  "TENCENT QQ DİZİLERİ": [
+    {"name": "RUN AWAY", "year": "2023"},
+    {"name": "TIME FLIES", "year": "2021"}
+  ],
+  "NICKTOONS DİZİLERİ": [
+    {"name": "THE MANNY", "year": "2007"}
+  ],
+  "PEACOCK+ DİZİLERİ": [
+    {"name": "ALL HER FAULT", "year": "2025"}
+  ],
+  "RAI 1 DİZİLERİ": [
+    {"name": "SANDOKAN", "year": "2025"}
+  ],
+  "WAVVE DİZİLERİ": [
+    {"name": "WILL YOU BE MY MANAGER?", "year": "2025"}
   ]
 }
