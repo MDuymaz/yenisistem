@@ -35,7 +35,16 @@
     {"name": "FURIES", "year": "2024"},
     {"name": "RADIOACTIVE EMERGENCY", "year": "2026"},
     {"name": "LA PRIMERA VEZ", "year": "2023"},
-    {"name": "LOVE IS BLIND: SVERIGE", "year": "2024"}
+    {"name": "LOVE IS BLIND: SVERIGE", "year": "2024"},
+    {"name": "FINDING HER EDGE", "year": "2026"},
+    {"name": "THE BOYFRIEND", "year": "2024"},
+    {"name": "GLITTER & GOLD: ICE DANCING", "year": "2026"},
+    {"name": "QUEER EYE", "year": "2018"},
+    {"name": "FREE BERT", "year": "2026"},
+    {"name": "CAN THIS LOVE BE TRANSLATED?", "year": "2026"},
+    {"name": "THE UPSHAWS", "year": "2021"},
+    {"name": "LOVE THROUGH A PRISM", "year": "2026"},
+    {"name": "TAKE THAT", "year": "2026"}
   ],
   "FX DİZİLERİ": [
     {"name": "LOVE STORY", "year": "2026"}
@@ -43,7 +52,9 @@
   "DISNEY+ DİZİLERİ": [
     {"name": "THE ARTFUL DODGER", "year": "2023"},
     {"name": "BATTLE OF FATES", "year": "2026"},
-    {"name": "SHAKE IT UP", "year": "2010"}
+    {"name": "SHAKE IT UP", "year": "2010"},
+    {"name": "PERCY JACKSON AND THE OLYMPIANS", "year": "2023"},
+    {"name": "WONDER MAN", "year": "2026"}
   ],
   "HBO DİZİLERİ": [
     {"name": "NEIGHBORS", "year": "2026"},
@@ -66,7 +77,9 @@
     {"name": "56 DAYS", "year": "2026"},
     {"name": "CROSS", "year": "2024"},
     {"name": "IT'S NOT LIKE THAT", "year": "2026"},
-    {"name": "INVINCIBLE", "year": "2021"}
+    {"name": "INVINCIBLE", "year": "2021"},
+    {"name": "STEAL", "year": "2026"},
+    {"name": "DALDAL", "year": "2026"}
   ],
   "HULU DİZİLERİ": [
     {"name": "PARADISE", "year": "2025"},
@@ -164,7 +177,8 @@
   ],
   "TOKYO MX DİZİLERİ": [
     {"name": "FATE/STRANGE FAKE", "year": "2024"},
-    {"name": "OSHI NO KO", "year": "2023"}
+    {"name": "OSHI NO KO", "year": "2023"},
+    {"name": "JOJO'S BIZARRE ADVENTURE", "year": "2012"}
   ],
   "NHK DİZİLERİ": [
     {"name": "TO YOUR ETERNITY", "year": "2021"}
@@ -187,14 +201,16 @@
   ],
   "PARAMOUNT+ DİZİLERİ": [
     {"name": "THE MADISON", "year": "2026"},
-    {"name": "NCIS: SYDNEY", "year": "2023"}
+    {"name": "NCIS: SYDNEY", "year": "2023"},
+    {"name": "STAR TREK: STARFLEET ACADEMY", "year": "2026"}
   ],
   "MGM+ DİZİLERİ": [
     {"name": "AMERICAN CLASSIC", "year": "2026"},
     {"name": "BEACON 23", "year": "2023"}
   ],
   "BBC IPLAYER DİZİLERİ": [
-    {"name": "THE CAPTURE", "year": "2019"}
+    {"name": "THE CAPTURE", "year": "2019"},
+    {"name": "THE NIGHT MANAGER", "year": "2016"}
   ],
   "ADULT SWIM DİZİLERİ": [
     {"name": "PRIMAL", "year": "2019"}
@@ -216,5 +232,14 @@
   ],
   "CBC GEM DİZİLERİ": [
     {"name": "SAINT-PIERRE", "year": "2025"}
+  ],
+  "DISCOVERY DİZİLERİ": [
+    {"name": "SOUNDS OF WINTER", "year": "2015"}
+  ],
+  "THE CW DİZİLERİ": [
+    {"name": "HEAVEN", "year": "1996"}
+  ],
+  "ENA DİZİLERİ": [
+    {"name": "IDOL I", "year": "2025"}
   ]
 }
