@@ -340,14 +340,277 @@
     {"name": "RHYTHM + FLOW", "year": "2019"},
     {"name": "MO", "year": "2022"},
     {"name": "SIX NATIONS: FULL CONTACT", "year": "2024"},
-    {"name": "AMERICAN MANHUNT: O.J. SIMPSON", "year": "2025"}
+    {"name": "AMERICAN MANHUNT: O.J. SIMPSON", "year": "2025"},
+    {"name": "GOOD MORNING, VERÔNICA", "year": "2020"},
+    {"name": "MURDER MINDFULLY", "year": "2024"},
+    {"name": "ARA SAN JUAN: THE SUBMARINE THAT DISAPPEARED", "year": "2024"},
+    {"name": "FERRY: THE SERIES", "year": "2023"},
+    {"name": "ONIMUSHA", "year": "2023"},
+    {"name": "MY DAEMON", "year": "2023"},
+    {"name": "KENGAN ASHURA", "year": "2019"},
+    {"name": "TILL MURDER DO US PART: SOERING VS. HAYSOM", "year": "2023"},
+    {"name": "CAROL & THE END OF THE WORLD", "year": "2023"},
+    {"name": "MULLIGAN", "year": "2023"},
+    {"name": "COUNTDOWN: PAUL VS. TYSON", "year": "2024"},
+    {"name": "THE OUTREAU CASE: A FRENCH NIGHTMARE", "year": "2024"},
+    {"name": "CHICKEN NUGGET", "year": "2024"},
+    {"name": "FOOL ME ONCE", "year": "2024"},
+    {"name": "LIFE ON OUR PLANET", "year": "2023"},
+    {"name": "AT THE MOMENT", "year": "2023"},
+    {"name": "NEMESIS", "year": "2026"},
+    {"name": "I AM GEORGINA", "year": "2022"},
+    {"name": "GYEONGSEONG CREATURE", "year": "2023"},
+    {"name": "HEERAMANDI: THE DIAMOND BAZAAR", "year": "2024"},
+    {"name": "ABSOLUTE BEGINNERS", "year": "2023"},
+    {"name": "THE MANHATTAN ALIEN ABDUCTION", "year": "2024"},
+    {"name": "SUPERSEX", "year": "2024"},
+    {"name": "TURNING POINT: THE BOMB AND THE COLD WAR", "year": "2024"},
+    {"name": "RECEIVER", "year": "2024"},
+    {"name": "CINDY LA REGIA: THE HIGH SCHOOL YEARS", "year": "2023"},
+    {"name": "A NEARLY NORMAL FAMILY", "year": "2023"},
+    {"name": "BRIGANDS: THE QUEST FOR GOLD", "year": "2024"},
+    {"name": "HOW TO RUIN LOVE", "year": "2024"},
+    {"name": "WORLD WAR II: FROM THE FRONTLINES", "year": "2023"},
+    {"name": "TERMINATOR ZERO", "year": "2024"},
+    {"name": "THURSDAY'S WIDOWS", "year": "2023"},
+    {"name": "VIKINGS: VALHALLA", "year": "2022"},
+    {"name": "HOT WHEELS LET'S RACE", "year": "2024"},
+    {"name": "IRON REIGN", "year": "2024"},
+    {"name": "TOGETHER: TREBLE WINNERS", "year": "2024"},
+    {"name": "HOUSE OF NINJAS", "year": "2024"},
+    {"name": "HITLER AND THE NAZIS: EVIL ON TRIAL", "year": "2024"},
+    {"name": "SWEET HOME", "year": "2020"},
+    {"name": "SONIC PRIME", "year": "2022"},
+    {"name": "SURVIVING SUMMER", "year": "2022"},
+    {"name": "TWILIGHT OF THE GODS", "year": "2024"},
+    {"name": "MISEDUCATION", "year": "2023"},
+    {"name": "SUPACELL", "year": "2024"},
+    {"name": "HOMICIDE", "year": "2024"},
+    {"name": "LUZ: THE LIGHT OF THE HEART", "year": "2024"},
+    {"name": "DI4RIES", "year": "2022"},
+    {"name": "THE CROWN", "year": "2016"},
+    {"name": "IC 814: THE KANDAHAR HIJACK", "year": "2024"},
+    {"name": "SELLING THE OC", "year": "2022"},
+    {"name": "UNSTABLE", "year": "2023"},
+    {"name": "THE PERFECT COUPLE", "year": "2024"},
+    {"name": "PACT OF SILENCE", "year": "2023"},
+    {"name": "THE GRIMM VARIATIONS", "year": "2024"},
+    {"name": "MYSTERIES OF THE FAITH", "year": "2023"},
+    {"name": "SEX EDUCATION", "year": "2019"},
+    {"name": "WORST EX EVER", "year": "2024"},
+    {"name": "PLUTO", "year": "2023"},
+    {"name": "POP STAR ACADEMY: KATSEYE", "year": "2024"},
+    {"name": "BILLIONAIRE ISLAND", "year": "2024"},
+    {"name": "OUR LIVING WORLD", "year": "2024"},
+    {"name": "ROBBIE WILLIAMS", "year": "2023"},
+    {"name": "LOVE DEADLINE", "year": "2024"},
+    {"name": "THE GREEN GLOVE GANG", "year": "2022"},
+    {"name": "A-LIST TO PLAYLIST", "year": "2024"},
+    {"name": "FROM DREAMS TO TRAGEDY: THE FIRE THAT SHOOK BRAZILIAN FOOTBALL", "year": "2024"},
+    {"name": "T・P BON", "year": "2024"},
+    {"name": "ONE DAY", "year": "2024"},
+    {"name": "THE COMEBACK: 2004 BOSTON RED SOX", "year": "2024"},
+    {"name": "BLUE RIBBON BAKING CHAMPIONSHIP", "year": "2024"},
+    {"name": "WAR: WRATH AND REVENGE", "year": "2023"},
+    {"name": "BODKIN", "year": "2024"},
+    {"name": "SONG OF THE BANDITS", "year": "2023"},
+    {"name": "ANCIENT APOCALYPSE", "year": "2022"},
+    {"name": "DAILY DOSE OF SUNSHINE", "year": "2023"},
+    {"name": "BUYING BEVERLY HILLS", "year": "2022"},
+    {"name": "CRASHING EID", "year": "2023"},
+    {"name": "HELLBOUND", "year": "2021"},
+    {"name": "FERMAT’S CUISINE", "year": "2023"},
+    {"name": "HILDA", "year": "2018"},
+    {"name": "THE VICTIMS' GAME", "year": "2020"},
+    {"name": "MR. MCMAHON", "year": "2024"},
+    {"name": "RISQUÉ BUSINESS: THE NETHERLANDS AND GERMANY", "year": "2024"},
+    {"name": "BABY REINDEER", "year": "2024"},
+    {"name": "KULÜP", "year": "2021"},
+    {"name": "THE HIJACKING OF FLIGHT 601", "year": "2024"},
+    {"name": "GIRLS5EVA", "year": "2021"},
+    {"name": "ÉLITE", "year": "2018"},
+    {"name": "BODIES", "year": "2023"},
+    {"name": "FOREVER QUEENS", "year": "2022"},
+    {"name": "CHILDREN OF THE CHURCH STEPS", "year": "2024"},
+    {"name": "THE ASUNTA CASE", "year": "2024"},
+    {"name": "3 BODY PROBLEM", "year": "2024"},
+    {"name": "DOCTOR CLIMAX", "year": "2024"},
+    {"name": "DON'T HATE THE PLAYER", "year": "2024"},
+    {"name": "AMERICAN NIGHTMARE", "year": "2024"},
+    {"name": "THE UMBRELLA ACADEMY", "year": "2019"},
+    {"name": "THE RAILWAY MEN - THE UNTOLD STORY OF BHOPAL 1984", "year": "2023"},
+    {"name": "DEAD BOY DETECTIVES", "year": "2024"},
+    {"name": "BAD SURGEON: LOVE UNDER THE KNIFE", "year": "2023"},
+    {"name": "THE WHIRLWIND", "year": "2024"},
+    {"name": "RAISING VOICES", "year": "2024"},
+    {"name": "THE FROG", "year": "2024"},
+    {"name": "DIRTY POP: THE BOY BAND SCAM", "year": "2024"},
+    {"name": "YU YU HAKUSHO", "year": "2023"},
+    {"name": "TRIBHUVAN MISHRA CA TOPPER", "year": "2024"},
+    {"name": "RISING IMPACT", "year": "2024"},
+    {"name": "RESURRECTED RIDES", "year": "2024"},
+    {"name": "LET'S TALK ABOUT CHU", "year": "2024"},
+    {"name": "THE MAGIC PRANK SHOW WITH JUSTIN WILLMAN", "year": "2024"},
+    {"name": "RIPLEY", "year": "2024"},
+    {"name": "CHEF'S TABLE: NOODLES", "year": "2024"},
+    {"name": "THE INFLUENCER", "year": "2024"},
+    {"name": "THE GENTLEMEN", "year": "2024"},
+    {"name": "COMEDY REVENGE", "year": "2024"},
+    {"name": "ANÍKÚLÁPÓ: RISE OF THE SPECTRE", "year": "2024"},
+    {"name": "YOU ARE WHAT YOU EAT: A TWIN EXPERIMENT", "year": "2024"},
+    {"name": "SUNDERLAND 'TIL I DIE", "year": "2018"},
+    {"name": "TERRITORY", "year": "2024"},
+    {"name": "KILLER SOUP", "year": "2024"},
+    {"name": "GET GOTTI", "year": "2023"},
+    {"name": "SPY OPS", "year": "2023"},
+    {"name": "GOOD NIGHT WORLD", "year": "2023"},
+    {"name": "BLOOD LEGACY", "year": "2024"},
+    {"name": "ALL THE LIGHT WE CANNOT SEE", "year": "2023"},
+    {"name": "AVATAR: THE LAST AIRBENDER", "year": "2024"},
+    {"name": "THE LAST NIGHT AT TREMORE BEACH", "year": "2024"},
+    {"name": "GRISELDA", "year": "2024"},
+    {"name": "RHYTHM + FLOW ITALY", "year": "2024"},
+    {"name": "YARATILAN", "year": "2023"},
+    {"name": "CIGARETTE GIRL", "year": "2023"},
+    {"name": "CAPTAINS OF THE WORLD", "year": "2023"},
+    {"name": "FINDING OLA", "year": "2022"},
+    {"name": "WHAT'S NEXT? THE FUTURE WITH BILL GATES", "year": "2024"},
+    {"name": "TOO HOT TO HANDLE", "year": "2020"},
+    {"name": "LUPIN", "year": "2021"},
+    {"name": "BIG VAPE: THE RISE AND FALL OF JUUL", "year": "2023"},
+    {"name": "THE INDRANI MUKERJEA STORY: BURIED TRUTH", "year": "2024"},
+    {"name": "THE DECAMERON", "year": "2024"},
+    {"name": "THE TRUST: A GAME OF GREED", "year": "2024"},
+    {"name": "A NATION OF BANCHAN", "year": "2023"},
+    {"name": "BURNING BODY", "year": "2023"},
+    {"name": "BLOOD & WATER", "year": "2020"},
+    {"name": "OBLITERATED", "year": "2023"},
+    {"name": "THE PROGRAM: CONS, CULTS AND KIDNAPPING", "year": "2024"},
+    {"name": "MASTER OF THE HOUSE", "year": "2024"},
+    {"name": "LALIGA: ALL ACCESS", "year": "2024"},
+    {"name": "RONJA THE ROBBER'S DAUGHTER", "year": "2024"},
+    {"name": "AMERICAN CONSPIRACY: THE OCTOPUS MURDERS", "year": "2024"},
+    {"name": "THE SIGNAL", "year": "2024"},
+    {"name": "HIGH ON THE HOG: HOW AFRICAN AMERICAN CUISINE TRANSFORMED AMERICA", "year": "2021"},
+    {"name": "UNDER PRESSURE: THE U.S. WOMEN'S WORLD CUP TEAM", "year": "2023"},
+    {"name": "INTO THE FIRE: THE LOST DAUGHTER", "year": "2024"},
+    {"name": "HEARTSTOPPER", "year": "2022"},
+    {"name": "DESPERATE LIES", "year": "2024"},
+    {"name": "STAR TREK: PRODIGY", "year": "2021"},
+    {"name": "BERLIN", "year": "2023"},
+    {"name": "OUTER BANKS", "year": "2020"},
+    {"name": "KUNG FU PANDA: THE DRAGON KNIGHT", "year": "2022"},
+    {"name": "TORE", "year": "2023"},
+    {"name": "MAAMLA LEGAL HAI", "year": "2024"},
+    {"name": "PARASYTE: THE GREY", "year": "2024"},
+    {"name": "HOW TO BECOME A MOB BOSS", "year": "2023"},
+    {"name": "ERIC", "year": "2024"},
+    {"name": "JOHN MULANEY PRESENTS: EVERYBODY'S IN L.A.", "year": "2024"},
+    {"name": "EVERYTHING CALLS FOR SALVATION", "year": "2022"},
+    {"name": "JOKO ANWAR'S NIGHTMARES AND DAYDREAMS", "year": "2024"},
+    {"name": "POSTCARDS", "year": "2024"},
+    {"name": "DON'T COME HOME", "year": "2024"},
+    {"name": "AKUMA KUN", "year": "2023"},
+    {"name": "BABY FEVER", "year": "2022"},
+    {"name": "KLEO", "year": "2022"},
+    {"name": "THE BILLIONAIRE, THE BUTLER, AND THE BOYFRIEND", "year": "2023"},
+    {"name": "THE FALL OF THE HOUSE OF USHER", "year": "2023"},
+    {"name": "THE LAW ACCORDING TO LIDIA POËT", "year": "2023"},
+    {"name": "FEEDBACK", "year": "2023"},
+    {"name": "COMEDY ROYALE", "year": "2023"},
+    {"name": "DOONA!", "year": "2023"},
+    {"name": "CHASTITY HIGH", "year": "2024"},
+    {"name": "HEARTBREAK HIGH", "year": "2022"},
+    {"name": "ALRAWABI SCHOOL FOR GIRLS", "year": "2021"},
+    {"name": "ASHLEY MADISON: SEX, LIES & SCANDAL", "year": "2024"},
+    {"name": "EVERYTHING NOW", "year": "2023"},
+    {"name": "WORST ROOMMATE EVER", "year": "2022"},
+    {"name": "BLUE EYE SAMURAI", "year": "2023"},
+    {"name": "ÁNGEL DI MARÍA: BREAKING DOWN THE WALL", "year": "2024"},
+    {"name": "SWEET TOOTH", "year": "2021"},
+    {"name": "MASTERS OF THE UNIVERSE: REVOLUTION", "year": "2024"},
+    {"name": "THE MOLE", "year": "2022"},
+    {"name": "GOODBYE EARTH", "year": "2024"},
+    {"name": "BROS", "year": "2024"},
+    {"name": "KAOS", "year": "2024"},
+    {"name": "ALEXANDER: THE MAKING OF A GOD", "year": "2024"},
+    {"name": "READY, SET, LOVE", "year": "2024"},
+    {"name": "CAPTAIN LASERHAWK: A BLOOD DRAGON REMIX", "year": "2023"},
+    {"name": "IF I WERE LUÍSA SONZA", "year": "2023"},
+    {"name": "ONMYOJI", "year": "2023"},
+    {"name": "BLOWN AWAY", "year": "2019"},
+    {"name": "BOY SWALLOWS UNIVERSE", "year": "2024"},
+    {"name": "CAR MASTERS: RUST TO RICHES", "year": "2018"},
+    {"name": "RAËL: THE ALIEN PROPHET", "year": "2024"},
+    {"name": "THE BROTHERS SUN", "year": "2024"},
+    {"name": "KOTA FACTORY", "year": "2019"},
+    {"name": "A MAN IN FULL", "year": "2024"},
+    {"name": "A KILLER PARADOX", "year": "2024"},
+    {"name": "INSIDE THE WORLD'S TOUGHEST PRISONS", "year": "2016"},
+    {"name": "THE QUEEN OF VILLAINS", "year": "2024"},
+    {"name": "YOUNG ROYALS", "year": "2021"},
+    {"name": "ANTHRACITE", "year": "2024"},
+    {"name": "THE MAN WITH 1000 KIDS", "year": "2024"},
+    {"name": "GO AHEAD, BROTHER", "year": "2024"},
+    {"name": "UNSOLVED MYSTERIES", "year": "2020"},
+    {"name": "LOVE LIKE A K-DRAMA", "year": "2023"},
+    {"name": "WHO KILLED JILL DANDO?", "year": "2023"},
+    {"name": "SCOTT PILGRIM TAKES OFF", "year": "2023"},
+    {"name": "DAHMER - MONSTER: THE JEFFREY DAHMER STORY", "year": "2022"},
+    {"name": "WRESTLERS", "year": "2023"},
+    {"name": "FILES OF THE UNEXPLAINED", "year": "2024"},
+    {"name": "SIMONE BILES RISING", "year": "2024"},
+    {"name": "SAVAGE BEAUTY", "year": "2022"},
+    {"name": "MAKING IT IN MARBELLA", "year": "2024"},
+    {"name": "OLÓLÁDÉ", "year": "2023"},
+    {"name": "VERIFIED STAND-UP", "year": "2023"},
+    {"name": "TOKYO SWINDLERS", "year": "2024"},
+    {"name": "COMEDY CHAOS", "year": "2024"},
+    {"name": "TOUGHEST FORCES ON EARTH", "year": "2024"},
+    {"name": "THE 8 SHOW", "year": "2024"},
+    {"name": "COOKING UP MURDER: UNCOVERING THE STORY OF CÉSAR ROMÁN", "year": "2024"},
+    {"name": "CAN I TELL YOU A SECRET?", "year": "2024"},
+    {"name": "GANGS OF GALICIA", "year": "2024"},
+    {"name": "CROOKS", "year": "2024"},
+    {"name": "DETECTIVE FORST", "year": "2024"},
+    {"name": "WYATT EARP AND THE COWBOY WAR", "year": "2024"},
+    {"name": "THE VINCE STAPLES SHOW", "year": "2024"},
+    {"name": "AMERICAN MURDER: LACI PETERSON", "year": "2024"},
+    {"name": "REPLACING CHEF CHICO", "year": "2023"},
+    {"name": "ANALOG SQUAD", "year": "2023"},
+    {"name": "SUPA TEAM 4", "year": "2023"},
+    {"name": "THIS IS THE ZODIAC SPEAKING", "year": "2024"},
+    {"name": "GG PRECINCT", "year": "2024"},
+    {"name": "TESTAMENT: THE STORY OF MOSES", "year": "2024"},
+    {"name": "THAT '90S SHOW", "year": "2023"},
+    {"name": "THE BEQUEATHED", "year": "2024"},
+    {"name": "HIERARCHY", "year": "2024"},
+    {"name": "POKÉMON CONCIERGE", "year": "2023"},
+    {"name": "THE ULTIMATUM: SOUTH AFRICA", "year": "2024"},
+    {"name": "OUTLAST", "year": "2023"},
+    {"name": "LOVE IS BLIND, HABIBI", "year": "2024"},
+    {"name": "THE YARA GAMBIRASIO CASE: BEYOND REASONABLE DOUBT", "year": "2024"},
+    {"name": "DANCING FOR THE DEVIL: THE 7M TIKTOK CULT", "year": "2024"},
+    {"name": "THE SECRET OF THE RIVER", "year": "2024"},
+    {"name": "SUBURRÆTERNA", "year": "2023"},
+    {"name": "BECKHAM", "year": "2023"},
+    {"name": "NEON", "year": "2023"},
+    {"name": "A TIME CALLED YOU", "year": "2023"},
+    {"name": "YOH! CHRISTMAS", "year": "2023"},
+    {"name": "ESCAPING TWIN FLAMES", "year": "2023"},
+    {"name": "GEEK GIRL", "year": "2024"},
+    {"name": "TERROR TUESDAY: EXTREME", "year": "2024"}
   ],
   "FX DİZİLERİ": [
     {"name": "LOVE STORY", "year": "2026"},
     {"name": "THE LOWDOWN", "year": "2025"},
     {"name": "NECAXA", "year": "2025"},
     {"name": "WHAT WE DO IN THE SHADOWS", "year": "2019"},
-    {"name": "AMERICAN SPORTS STORY", "year": "2024"}
+    {"name": "AMERICAN SPORTS STORY", "year": "2024"},
+    {"name": "FEUD", "year": "2017"},
+    {"name": "THE OLD MAN", "year": "2022"},
+    {"name": "AMERICAN HORROR STORY", "year": "2011"},
+    {"name": "GROTESQUERIE", "year": "2024"}
   ],
   "DISNEY+ DİZİLERİ": [
     {"name": "THE ARTFUL DODGER", "year": "2023"},
@@ -390,7 +653,61 @@
     {"name": "WONDERBOYS: THE SECRET TREASURE OF NAPLES", "year": "2024"},
     {"name": "A REAL BUG'S LIFE", "year": "2024"},
     {"name": "JUNG KOOK: I AM STILL - THE ORIGINAL", "year": "2024"},
-    {"name": "GANGNAM B-SIDE", "year": "2024"}
+    {"name": "GANGNAM B-SIDE", "year": "2024"},
+    {"name": "AYLA & THE MIRRORS", "year": "2024"},
+    {"name": "SEE YOU IN ANOTHER LIFE", "year": "2024"},
+    {"name": "LA MÁQUINA", "year": "2024"},
+    {"name": "THE SANTA CLAUSES", "year": "2022"},
+    {"name": "SAND LAND: THE SERIES", "year": "2024"},
+    {"name": "THE LIONS OF SICILY", "year": "2023"},
+    {"name": "GOOSEBUMPS", "year": "2023"},
+    {"name": "VIGILANTE", "year": "2023"},
+    {"name": "THE WORST OF EVIL", "year": "2023"},
+    {"name": "CAMDEN", "year": "2024"},
+    {"name": "HOUSE OF THE OWL", "year": "2024"},
+    {"name": "BRAWN: THE IMPOSSIBLE FORMULA 1 STORY", "year": "2023"},
+    {"name": "DRAGONS OF WONDERHATCH", "year": "2023"},
+    {"name": "SELENKAY", "year": "2024"},
+    {"name": "BLOOD FREE", "year": "2024"},
+    {"name": "MOVING", "year": "2023"},
+    {"name": "RAFFA", "year": "2023"},
+    {"name": "SEOUL BUSTERS", "year": "2024"},
+    {"name": "ECHO", "year": "2024"},
+    {"name": "CHOIR", "year": "2024"},
+    {"name": "THE ACOLYTE", "year": "2024"},
+    {"name": "CULPRITS", "year": "2023"},
+    {"name": "STAR WARS: THE BAD BATCH", "year": "2021"},
+    {"name": "COLEEN ROONEY: THE REAL WAGATHA STORY", "year": "2023"},
+    {"name": "IN VOGUE: THE 90S", "year": "2024"},
+    {"name": "BEHIND THE ATTRACTION", "year": "2021"},
+    {"name": "HAN RIVER POLICE", "year": "2023"},
+    {"name": "LAST DAYS OF THE SPACE AGE", "year": "2024"},
+    {"name": "SHARDLAKE", "year": "2024"},
+    {"name": "CRISTÓBAL BALENCIAGA", "year": "2024"},
+    {"name": "THIS IS NOT HOLLYWOOD", "year": "2024"},
+    {"name": "PHOENIX: EDEN17", "year": "2023"},
+    {"name": "TIERRA INCÓGNITA", "year": "2022"},
+    {"name": "THE INTERPRETER OF SILENCE", "year": "2023"},
+    {"name": "STAR WARS: YOUNG JEDI ADVENTURES", "year": "2023"},
+    {"name": "AGATHA ALL ALONG", "year": "2024"},
+    {"name": "BECOMING KARL LAGERFELD", "year": "2024"},
+    {"name": "STAR WARS: TALES OF THE EMPIRE", "year": "2024"},
+    {"name": "PAULINE", "year": "2024"},
+    {"name": "UNCLE SAMSIK", "year": "2024"},
+    {"name": "EXTRAORDINARY", "year": "2023"},
+    {"name": "THE DISAPPEARANCE OF KIMMY DIORE", "year": "2024"},
+    {"name": "RED SWAN", "year": "2024"},
+    {"name": "SOUNDTRACK #2", "year": "2022"},
+    {"name": "THE IMPOSSIBLE HEIR", "year": "2024"},
+    {"name": "RENEGADE NELL", "year": "2024"},
+    {"name": "X-MEN '97", "year": "2024"},
+    {"name": "LAND OF TANABATA", "year": "2024"},
+    {"name": "THE TYRANT", "year": "2024"},
+    {"name": "L-POP", "year": "2023"},
+    {"name": "STUCK IN THE MIDDLE", "year": "2016"},
+    {"name": "A SHOP FOR KILLERS", "year": "2024"},
+    {"name": "RIVALS", "year": "2024"},
+    {"name": "BTS MONUMENTS: BEYOND THE STAR", "year": "2023"}
   ],
   "HBO DİZİLERİ": [
     {"name": "NEIGHBORS", "year": "2026"},
@@ -434,7 +751,15 @@
     {"name": "PEE-WEE AS HIMSELF", "year": "2025"},
     {"name": "THE DARK MONEY GAME", "year": "2025"},
     {"name": "CELTICS CITY", "year": "2025"},
-    {"name": "MY BRILLIANT FRIEND", "year": "2018"}
+    {"name": "MY BRILLIANT FRIEND", "year": "2018"},
+    {"name": "RAP SH!T", "year": "2022"},
+    {"name": "THE JINX: THE LIFE AND DEATHS OF ROBERT DURST", "year": "2015"},
+    {"name": "SCAVENGERS REIGN", "year": "2023"},
+    {"name": "END OF THE LINE", "year": "2026"},
+    {"name": "TOKYO VICE", "year": "2022"},
+    {"name": "JULIA", "year": "2022"},
+    {"name": "TRUE DETECTIVE", "year": "2014"},
+    {"name": "OUR FLAG MEANS DEATH", "year": "2022"}
   ],
   "AMAZON PRIME DİZİLERİ": [
     {"name": "SCARPETTA", "year": "2026"},
@@ -490,7 +815,51 @@
     {"name": "ON CALL", "year": "2025"},
     {"name": "HELLUVA BOSS", "year": "2019"},
     {"name": "THE RIG", "year": "2023"},
-    {"name": "CROMAÑÓN: THE NIGHT OF THE FIRE", "year": "2024"}
+    {"name": "CROMAÑÓN: THE NIGHT OF THE FIRE", "year": "2024"},
+    {"name": "INDIAN POLICE FORCE", "year": "2024"},
+    {"name": "JAMES MAY: OUR MAN IN…", "year": "2020"},
+    {"name": "POACHER", "year": "2024"},
+    {"name": "DHOOTHA", "year": "2023"},
+    {"name": "THE DEVIL'S HOUR", "year": "2022"},
+    {"name": "OUTER RANGE", "year": "2022"},
+    {"name": "YOSI, THE REGRETFUL SPY", "year": "2022"},
+    {"name": "BATMAN: CAPED CRUSADER", "year": "2024"},
+    {"name": "SHE MUST BE OBEYED", "year": "2023"},
+    {"name": "ROMANCERO", "year": "2023"},
+    {"name": "VIKTOR BRINGT'S", "year": "2024"},
+    {"name": "CITADEL: HONEY BUNNY", "year": "2024"},
+    {"name": "MR. & MRS. SMITH", "year": "2024"},
+    {"name": "BAMBAI MERI JAAN", "year": "2023"},
+    {"name": "LOS BILLIS", "year": "2023"},
+    {"name": "LOS FARAD", "year": "2023"},
+    {"name": "THE GRAND TOUR", "year": "2016"},
+    {"name": "SEBASTIAN FITZEK'S THERAPY", "year": "2023"},
+    {"name": "HARLAN COBEN'S SHELTER", "year": "2023"},
+    {"name": "MY LADY JANE", "year": "2024"},
+    {"name": "DOM", "year": "2021"},
+    {"name": "ALPHONSE", "year": "2023"},
+    {"name": "CALL ME BAE", "year": "2024"},
+    {"name": "P.I. MEENA", "year": "2023"},
+    {"name": "99", "year": "2024"},
+    {"name": "THE FAKE SHEIKH", "year": "2023"},
+    {"name": "F#CK1NG SOCIAL MEDIA", "year": "2023"},
+    {"name": "EVERYBODY LOVES DIAMONDS", "year": "2023"},
+    {"name": "KILLER COASTER", "year": "2023"},
+    {"name": "WHO KILLED HIM?", "year": "2024"},
+    {"name": "THEM", "year": "2021"},
+    {"name": "STHLM BLACKOUT", "year": "2024"},
+    {"name": "EXPATS", "year": "2024"},
+    {"name": "THE SECOND BEST HOSPITAL IN THE GALAXY", "year": "2024"},
+    {"name": "MUMBAI DIARIES", "year": "2021"},
+    {"name": "ESCORT BOYS", "year": "2023"},
+    {"name": "WILDERNESS", "year": "2023"},
+    {"name": "CITADEL: DIANA", "year": "2024"},
+    {"name": "LOVE IS FOR THE STRONG", "year": "2023"},
+    {"name": "TWIN LOVE", "year": "2023"},
+    {"name": "INSPECTOR RISHI", "year": "2024"},
+    {"name": "BIG GIRLS DON'T CRY", "year": "2024"},
+    {"name": "LIKE A DRAGON: YAKUZA", "year": "2024"},
+    {"name": "THE LEGEND OF VOX MACHINA", "year": "2022"}
   ],
   "HULU DİZİLERİ": [
     {"name": "PARADISE", "year": "2025"},
@@ -516,7 +885,28 @@
     {"name": "DELI BOYS", "year": "2025"},
     {"name": "DYING FOR SEX", "year": "2025"},
     {"name": "INTERIOR CHINATOWN", "year": "2024"},
-    {"name": "SAY NOTHING", "year": "2024"}
+    {"name": "SAY NOTHING", "year": "2024"},
+    {"name": "THE OTHER BLACK GIRL", "year": "2023"},
+    {"name": "WE WERE THE LUCKY ONES", "year": "2024"},
+    {"name": "NOTHING", "year": "2024"},
+    {"name": "DRIVE WITH SWIZZ BEATZ", "year": "2023"},
+    {"name": "DEATH AND OTHER DETAILS", "year": "2024"},
+    {"name": "THE D'AMELIO SHOW", "year": "2021"},
+    {"name": "HOW TO BE A CARIOCA", "year": "2023"},
+    {"name": "A MURDER AT THE END OF THE WORLD", "year": "2023"},
+    {"name": "FUTURAMA", "year": "1999"},
+    {"name": "AMERICAN HORROR STORIES", "year": "2021"},
+    {"name": "HOW TO DIE ALONE", "year": "2024"},
+    {"name": "CLIPPED", "year": "2024"},
+    {"name": "RESERVATION DOGS", "year": "2021"},
+    {"name": "FARAWAY DOWNS", "year": "2023"},
+    {"name": "CULT MASSACRE: ONE DAY IN JONESTOWN", "year": "2024"},
+    {"name": "UNDER THE BRIDGE", "year": "2024"},
+    {"name": "SHŌGUN", "year": "2024"},
+    {"name": "AT WITT'S END: THE HUNT FOR A KILLER", "year": "2024"},
+    {"name": "THE VEIL", "year": "2024"},
+    {"name": "BLACK CAKE", "year": "2023"},
+    {"name": "THANK YOU, GOODNIGHT - THE BON JOVI STORY", "year": "2024"}
   ],
   "APPLE TV+ DİZİLERİ": [
     {"name": "DROPS OF GOD", "year": "2023"},
@@ -576,7 +966,44 @@
     {"name": "THE SECRET LIVES OF ANIMALS", "year": "2024"},
     {"name": "MIDNIGHT FAMILY", "year": "2024"},
     {"name": "VIETNAM: THE WAR THAT CHANGED AMERICA", "year": "2025"},
-    {"name": "LA MAISON", "year": "2024"}
+    {"name": "LA MAISON", "year": "2024"},
+    {"name": "THE SUPER MODELS", "year": "2023"},
+    {"name": "MESSI MEETS AMERICA", "year": "2023"},
+    {"name": "PHYSICAL", "year": "2021"},
+    {"name": "THE ENFIELD POLTERGEIST", "year": "2023"},
+    {"name": "SUNNY", "year": "2024"},
+    {"name": "THE DYNASTY: NEW ENGLAND PATRIOTS", "year": "2024"},
+    {"name": "FRAGGLE ROCK: BACK TO THE ROCK", "year": "2022"},
+    {"name": "PACHINKO", "year": "2022"},
+    {"name": "ME", "year": "2024"},
+    {"name": "THE NEW LOOK", "year": "2024"},
+    {"name": "CRIMINAL RECORD", "year": "2024"},
+    {"name": "THE COMPLETELY MADE-UP ADVENTURES OF DICK TURPIN", "year": "2024"},
+    {"name": "PRESUMED INNOCENT", "year": "2024"},
+    {"name": "BAD MONKEY", "year": "2024"},
+    {"name": "HOLLYWOOD CON QUEEN", "year": "2024"},
+    {"name": "MASTERS OF THE AIR", "year": "2024"},
+    {"name": "THE SNOOPY SHOW", "year": "2021"},
+    {"name": "MESSI'S WORLD CUP: THE RISE OF A LEGEND", "year": "2024"},
+    {"name": "TIME BANDITS", "year": "2024"},
+    {"name": "CURSES!", "year": "2023"},
+    {"name": "EARTHSOUNDS", "year": "2024"},
+    {"name": "FOR ALL MANKIND", "year": "2019"},
+    {"name": "OMNIVORE", "year": "2024"},
+    {"name": "SUGAR", "year": "2024"},
+    {"name": "THE CHANGELING", "year": "2023"},
+    {"name": "COWBOY CARTEL", "year": "2024"},
+    {"name": "K-POP IDOLS", "year": "2024"},
+    {"name": "LADY IN THE LAKE", "year": "2024"},
+    {"name": "CONSTELLATION", "year": "2024"},
+    {"name": "LESSONS IN CHEMISTRY", "year": "2023"},
+    {"name": "THE BIG CIGAR", "year": "2024"},
+    {"name": "STRANGE PLANET", "year": "2023"},
+    {"name": "CAMP SNOOPY", "year": "2024"},
+    {"name": "TRYING", "year": "2020"},
+    {"name": "THE BIG DOOR PRIZE", "year": "2023"},
+    {"name": "STILL UP", "year": "2023"},
+    {"name": "LAND OF WOMEN", "year": "2024"}
   ],
   "FOX DİZİLERİ": [
     {"name": "FAMILY GUY", "year": "1999"},
@@ -587,13 +1014,17 @@
     {"name": "THE SIMPSONS", "year": "1989"},
     {"name": "DOC", "year": "2025"},
     {"name": "9-1-1: LONE STAR", "year": "2020"},
-    {"name": "ACCUSED", "year": "2023"}
+    {"name": "ACCUSED", "year": "2023"},
+    {"name": "PARTY OF FIVE", "year": "1994"},
+    {"name": "THE GREAT NORTH", "year": "2021"},
+    {"name": "BOB'S BURGERS", "year": "2011"}
   ],
   "SBS DİZİLERİ": [
     {"name": "NO TAIL TO TELL", "year": "2026"},
     {"name": "PHANTOM LAWYER", "year": "2026"},
     {"name": "DYNAMITE KISS", "year": "2025"},
-    {"name": "THE WINNING TRY", "year": "2025"}
+    {"name": "THE WINNING TRY", "year": "2025"},
+    {"name": "MY DEMON", "year": "2023"}
   ],
   "TVN DİZİLERİ": [
     {"name": "SPRING FEVER", "year": "2026"},
@@ -609,7 +1040,15 @@
     {"name": "BON APPÉTIT, YOUR MAJESTY", "year": "2025"},
     {"name": "OUR UNWRITTEN SEOUL", "year": "2025"},
     {"name": "THE POTATO LAB", "year": "2025"},
-    {"name": "WHEN THE STARS GOSSIP", "year": "2025"}
+    {"name": "WHEN THE STARS GOSSIP", "year": "2025"},
+    {"name": "CAPTIVATING THE KING", "year": "2024"},
+    {"name": "CASTAWAY DIVA", "year": "2023"},
+    {"name": "WEDDING IMPOSSIBLE", "year": "2024"},
+    {"name": "TWINKLING WATERMELON", "year": "2023"},
+    {"name": "NO GAIN NO LOVE", "year": "2024"},
+    {"name": "LOVELY RUNNER", "year": "2024"},
+    {"name": "QUEEN OF TEARS", "year": "2024"},
+    {"name": "LOVE NEXT DOOR", "year": "2024"}
   ],
   "TV ASAHI DİZİLERİ": [
     {"name": "再会～SILENT TRUTH～", "year": "2026"},
@@ -622,11 +1061,20 @@
     {"name": "BEYOND THE BAR", "year": "2025"},
     {"name": "HEAVENLY EVER AFTER", "year": "2025"},
     {"name": "GOOD BOY", "year": "2025"},
-    {"name": "A VIRTUOUS BUSINESS", "year": "2024"}
+    {"name": "A VIRTUOUS BUSINESS", "year": "2024"},
+    {"name": "BEHIND YOUR TOUCH", "year": "2023"},
+    {"name": "THE ATYPICAL FAMILY", "year": "2024"},
+    {"name": "WELCOME TO SAMDAL-RI", "year": "2023"},
+    {"name": "MISS NIGHT AND DAY", "year": "2024"},
+    {"name": "ROMANCE IN THE HOUSE", "year": "2024"},
+    {"name": "DOCTOR SLUMP", "year": "2024"},
+    {"name": "FRANKLY SPEAKING", "year": "2024"},
+    {"name": "DESTINED WITH YOU", "year": "2023"}
   ],
   "TV TOKYO DİZİLERİ": [
     {"name": "THE DARWIN INCIDENT", "year": "2026"},
-    {"name": "SAKAMOTO DAYS", "year": "2025"}
+    {"name": "SAKAMOTO DAYS", "year": "2025"},
+    {"name": "SYNDUALITY NOIR", "year": "2023"}
   ],
   "ONE31 DİZİLERİ": [
     {"name": "GIRL FROM NOWHERE: THE RESET", "year": "2026"},
@@ -645,11 +1093,19 @@
     {"name": "SUITS LA", "year": "2025"},
     {"name": "THE AMERICAS", "year": "2025"},
     {"name": "PROJECT UFO", "year": "1978"},
-    {"name": "THE IRRATIONAL", "year": "2023"}
+    {"name": "THE IRRATIONAL", "year": "2023"},
+    {"name": "THE VILLAGE", "year": "2019"},
+    {"name": "PARKS AND RECREATION", "year": "2009"},
+    {"name": "LA BREA", "year": "2021"}
   ],
   "STARZ DİZİLERİ": [
     {"name": "OUTLANDER", "year": "2014"},
-    {"name": "OUTLANDER: BLOOD OF MY BLOOD", "year": "2025"}
+    {"name": "OUTLANDER: BLOOD OF MY BLOOD", "year": "2025"},
+    {"name": "POWER BOOK IV: FORCE", "year": "2022"},
+    {"name": "THE SERPENT QUEEN", "year": "2022"},
+    {"name": "SHINING VALE", "year": "2022"},
+    {"name": "POWER BOOK II: GHOST", "year": "2020"},
+    {"name": "POWER BOOK III: RAISING KANAN", "year": "2021"}
   ],
   "ABC DİZİLERİ": [
     {"name": "GREY'S ANATOMY", "year": "2005"},
@@ -663,7 +1119,10 @@
     {"name": "R.J. DECKER", "year": "2026"},
     {"name": "SCRUBS 2026", "year": "2026"},
     {"name": "DOCTOR ODYSSEY", "year": "2024"},
-    {"name": "SUPERSTAR", "year": "2021"}
+    {"name": "SUPERSTAR", "year": "2021"},
+    {"name": "NOT DEAD YET", "year": "2023"},
+    {"name": "STATION 19", "year": "2018"},
+    {"name": "4 EVER", "year": "2020"}
   ],
   "CBS DİZİLERİ": [
     {"name": "GEORGIE & MANDY'S FIRST MARRIAGE", "year": "2024"},
@@ -682,10 +1141,17 @@
     {"name": "NCIS: ORIGINS", "year": "2024"},
     {"name": "NCIS ORIGINS", "year": "2024"},
     {"name": "THE EQUALIZER", "year": "2021"},
-    {"name": "DOUBT", "year": "2017"}
+    {"name": "DOUBT", "year": "2017"},
+    {"name": "NCIS: HAWAI'I", "year": "2021"},
+    {"name": "SO HELP ME TODD", "year": "2022"},
+    {"name": "YOUNG SHELDON", "year": "2017"},
+    {"name": "GOOD TIMES", "year": "1974"},
+    {"name": "CSI: VEGAS", "year": "2021"}
   ],
   "AMC+ DİZİLERİ": [
-    {"name": "DARK WINDS", "year": "2022"}
+    {"name": "DARK WINDS", "year": "2022"},
+    {"name": "PARISH", "year": "2024"},
+    {"name": "FEAR THE WALKING DEAD", "year": "2015"}
   ],
   "ATV DİZİLERİ": [
     {"name": "YABANCI - OUTLANDER", "year": "2025"}
@@ -697,7 +1163,13 @@
     {"name": "MY HAPPY MARRIAGE", "year": "2023"},
     {"name": "SOLO LEVELING", "year": "2024"},
     {"name": "ÜBEL BLATT", "year": "2025"},
-    {"name": "MURAI IN LOVE", "year": "2024"}
+    {"name": "MURAI IN LOVE", "year": "2024"},
+    {"name": "DELICIOUS IN DUNGEON", "year": "2024"},
+    {"name": "HI SCORE GIRL", "year": "2018"},
+    {"name": "THAT TIME I GOT REINCARNATED AS A SLIME", "year": "2018"},
+    {"name": "AYAKA", "year": "2023"},
+    {"name": "ISHURA", "year": "2024"},
+    {"name": "AO HARU RIDE", "year": "2014"}
   ],
   "NHK DİZİLERİ": [
     {"name": "TO YOUR ETERNITY", "year": "2021"},
@@ -707,10 +1179,13 @@
     {"name": "FRIEREN: BEYOND JOURNEY'S END", "year": "2023"},
     {"name": "CHOSEN HOME", "year": "2025"},
     {"name": "MOBILE SUIT GUNDAM GQUUUUUUX", "year": "2025"},
-    {"name": "THE SUMMER HIKARU DIED", "year": "2025"}
+    {"name": "THE SUMMER HIKARU DIED", "year": "2025"},
+    {"name": "THE FABLE", "year": "2024"},
+    {"name": "TURN TO ME MUKAI-KUN", "year": "2023"}
   ],
   "MBS DİZİLERİ": [
-    {"name": "JUJUTSU KAISEN", "year": "2020"}
+    {"name": "JUJUTSU KAISEN", "year": "2020"},
+    {"name": "TOKYO REVENGERS", "year": "2021"}
   ],
   "CRUNCHYROLL DİZİLERİ": [
     {"name": "SENTENCED TO BE A HERO", "year": "2026"},
@@ -719,7 +1194,9 @@
   "ITVX DİZİLERİ": [
     {"name": "GONE", "year": "2026"},
     {"name": "RED EYE", "year": "2024"},
-    {"name": "UNFORGOTTEN", "year": "2015"}
+    {"name": "UNFORGOTTEN", "year": "2015"},
+    {"name": "JOAN", "year": "2024"},
+    {"name": "THE LONG SHADOW", "year": "2023"}
   ],
   "CITYTV DİZİLERİ": [
     {"name": "LAW & ORDER TORONTO: CRIMINAL INTENT", "year": "2024"}
@@ -734,33 +1211,50 @@
     {"name": "PLAYING GRACIE DARLING", "year": "2025"},
     {"name": "SKYMED", "year": "2022"},
     {"name": "DEXTER: ORIGINAL SIN", "year": "2024"},
-    {"name": "YELLOWSTONE", "year": "2018"}
+    {"name": "YELLOWSTONE", "year": "2018"},
+    {"name": "EVIL", "year": "2019"},
+    {"name": "A GENTLEMAN IN MOSCOW", "year": "2024"},
+    {"name": "FRASIER", "year": "2023"},
+    {"name": "STAR TREK: DISCOVERY", "year": "2017"},
+    {"name": "TALES OF THE TEENAGE MUTANT NINJA TURTLES", "year": "2024"},
+    {"name": "HALO", "year": "2022"}
   ],
   "MGM+ DİZİLERİ": [
     {"name": "AMERICAN CLASSIC", "year": "2026"},
     {"name": "BEACON 23", "year": "2023"},
     {"name": "THE INSTITUTE", "year": "2025"},
     {"name": "GODFATHER OF HARLEM", "year": "2019"},
-    {"name": "NINE BODIES IN A MEXICAN MORGUE", "year": "2025"}
+    {"name": "NINE BODIES IN A MEXICAN MORGUE", "year": "2025"},
+    {"name": "FIASCO", "year": "2021"},
+    {"name": "BILLY THE KID", "year": "2022"},
+    {"name": "EMPEROR OF OCEAN PARK", "year": "2024"}
   ],
   "BBC IPLAYER DİZİLERİ": [
     {"name": "THE CAPTURE", "year": "2019"},
     {"name": "THE NIGHT MANAGER", "year": "2016"},
-    {"name": "SAS ROGUE HEROES", "year": "2022"}
+    {"name": "SAS ROGUE HEROES", "year": "2022"},
+    {"name": "A GOOD GIRL'S GUIDE TO MURDER", "year": "2024"},
+    {"name": "MANDY", "year": "2019"},
+    {"name": "THE TOURIST", "year": "2022"},
+    {"name": "THINGS YOU SHOULD HAVE DONE", "year": "2024"}
   ],
   "ADULT SWIM DİZİLERİ": [
     {"name": "PRIMAL", "year": "2019"},
-    {"name": "RICK AND MORTY", "year": "2013"}
+    {"name": "RICK AND MORTY", "year": "2013"},
+    {"name": "NINJA KAMUI", "year": "2024"}
   ],
   "RTÉ ONE DİZİLERİ": [
-    {"name": "THESE SACRED VOWS", "year": "2026"}
+    {"name": "THESE SACRED VOWS", "year": "2026"},
+    {"name": "BLACKSHORE", "year": "2024"}
   ],
   "HALLMARK CHANNEL DİZİLERİ": [
     {"name": "WHEN CALLS THE HEART", "year": "2013"}
   ],
   "BBC ONE DİZİLERİ": [
     {"name": "THE HUNT", "year": "2015"},
-    {"name": "HOME FOR CHRISTMAS", "year": "2017"}
+    {"name": "HOME FOR CHRISTMAS", "year": "2017"},
+    {"name": "THE WOMAN IN THE WALL", "year": "2023"},
+    {"name": "SHERWOOD", "year": "2022"}
   ],
   "UP FAITH & FAMILY DİZİLERİ": [
     {"name": "BLUE SKIES", "year": "2026"}
@@ -770,23 +1264,30 @@
   ],
   "CBC GEM DİZİLERİ": [
     {"name": "SAINT-PIERRE", "year": "2025"},
-    {"name": "NORTH OF NORTH", "year": "2025"}
+    {"name": "NORTH OF NORTH", "year": "2025"},
+    {"name": "THE BANNOCKING", "year": "2023"}
   ],
   "DISCOVERY DİZİLERİ": [
     {"name": "SOUNDS OF WINTER", "year": "2015"}
   ],
   "THE CW DİZİLERİ": [
     {"name": "HEAVEN", "year": "1996"},
-    {"name": "SHERLOCK & DAUGHTER", "year": "2025"}
+    {"name": "SHERLOCK & DAUGHTER", "year": "2025"},
+    {"name": "WALKER", "year": "2021"}
   ],
   "ENA DİZİLERİ": [
     {"name": "IDOL I", "year": "2025"},
-    {"name": "TASTEFULLY YOURS", "year": "2025"}
+    {"name": "TASTEFULLY YOURS", "year": "2025"},
+    {"name": "LIKE FLOWERS IN SAND", "year": "2023"},
+    {"name": "MOON IN THE DAY", "year": "2023"}
   ],
   "CHANNEL 4 DİZİLERİ": [
     {"name": "THE ACCIDENT", "year": "2019"},
     {"name": "SNAKES AND LADDERS", "year": "1989"},
-    {"name": "PATIENCE", "year": "2025"}
+    {"name": "PATIENCE", "year": "2025"},
+    {"name": "SNAKES & LADDERS", "year": "1989"},
+    {"name": "QUEENIE", "year": "2024"},
+    {"name": "TOP BOY", "year": "2011"}
   ],
   "CHANNEL 7 DİZİLERİ": [
     {"name": "LOVER MERMAN", "year": "2025"}
@@ -795,11 +1296,15 @@
     {"name": "THE GOLDEN EGG", "year": "2025"},
     {"name": "THE 19TH MEDICAL CHART", "year": "2025"},
     {"name": "OLD DOG, NEW TRICKS", "year": "2022"},
-    {"name": "BLUE BOX", "year": "2024"}
+    {"name": "BLUE BOX", "year": "2024"},
+    {"name": "VIVANT", "year": "2023"},
+    {"name": "TRILLION GAME", "year": "2024"}
   ],
   "TENCENT QQ DİZİLERİ": [
     {"name": "RUN AWAY", "year": "2023"},
-    {"name": "TIME FLIES", "year": "2021"}
+    {"name": "TIME FLIES", "year": "2021"},
+    {"name": "BLOSSOMS SHANGHAI", "year": "2023"},
+    {"name": "LOVE AFTER DIVORCE", "year": "2023"}
   ],
   "NICKTOONS DİZİLERİ": [
     {"name": "THE MANNY", "year": "2007"}
@@ -807,7 +1312,11 @@
   "PEACOCK+ DİZİLERİ": [
     {"name": "ALL HER FAULT", "year": "2025"},
     {"name": "LONG BRIGHT RIVER", "year": "2025"},
-    {"name": "BASED ON A TRUE STORY", "year": "2023"}
+    {"name": "BASED ON A TRUE STORY", "year": "2023"},
+    {"name": "DR. DEATH", "year": "2021"},
+    {"name": "HYSTERIA!", "year": "2024"},
+    {"name": "FIGHT NIGHT: THE MILLION DOLLAR HEIST", "year": "2024"},
+    {"name": "APPLES NEVER FALL", "year": "2024"}
   ],
   "RAI 1 DİZİLERİ": [
     {"name": "SANDOKAN", "year": "2025"},
@@ -818,7 +1327,9 @@
   ],
   "STAN DİZİLERİ": [
     {"name": "WATCHING YOU", "year": "2025"},
-    {"name": "CAUGHT", "year": "2023"}
+    {"name": "CAUGHT", "year": "2023"},
+    {"name": "WOLF LIKE ME", "year": "2022"},
+    {"name": "POPULATION 11", "year": "2024"}
   ],
   "COUPANG PLAY DİZİLERİ": [
     {"name": "JUST MAKEUP", "year": "2025"},
@@ -829,7 +1340,8 @@
   ],
   "FUJI TV DİZİLERİ": [
     {"name": "PRAY SPEAK WHAT HAS HAPPENED", "year": "2025"},
-    {"name": "LEARNING TO LOVE", "year": "2025"}
+    {"name": "LEARNING TO LOVE", "year": "2025"},
+    {"name": "RUROUNI KENSHIN", "year": "1996"}
   ],
   "FREEFORM DİZİLERİ": [
     {"name": "NOT HER FIRST RODEO", "year": "2025"}
@@ -848,7 +1360,8 @@
     {"name": "THE CHELSEA DETECTIVE", "year": "2022"}
   ],
   "FXX DİZİLERİ": [
-    {"name": "IT'S ALWAYS SUNNY IN PHILADELPHIA", "year": "2005"}
+    {"name": "IT'S ALWAYS SUNNY IN PHILADELPHIA", "year": "2005"},
+    {"name": "ARCHER", "year": "2009"}
   ],
   "USA NETWORK DİZİLERİ": [
     {"name": "RESIDENT ALIEN", "year": "2021"}
@@ -875,7 +1388,8 @@
     {"name": "LOVE YOU TO DEATH", "year": "2023"}
   ],
   "U+ MOBILE TV DİZİLERİ": [
-    {"name": "FRIENDLY RIVALRY", "year": "2025"}
+    {"name": "FRIENDLY RIVALRY", "year": "2025"},
+    {"name": "BRANDING IN SEONGSU", "year": "2024"}
   ],
   "RTS UN DİZİLERİ": [
     {"name": "JUST ONE LOOK", "year": "2017"}
@@ -900,7 +1414,10 @@
     {"name": "HIGH TIDES", "year": "2023"}
   ],
   "MBC DİZİLERİ": [
-    {"name": "WHEN THE PHONE RINGS", "year": "2024"}
+    {"name": "WHEN THE PHONE RINGS", "year": "2024"},
+    {"name": "KNIGHT FLOWER", "year": "2024"},
+    {"name": "MY DEAREST", "year": "2023"},
+    {"name": "A GOOD DAY TO BE A DOG", "year": "2023"}
   ],
   "JAUNTVR DİZİLERİ": [
     {"name": "INVISIBLE", "year": "2016"}
@@ -915,9 +1432,96 @@
     {"name": "OSHINOKO", "year": "2018"}
   ],
   "YOUTUBE DİZİLERİ": [
-    {"name": "THE AMAZING DIGITAL CIRCUS", "year": "2023"}
+    {"name": "THE AMAZING DIGITAL CIRCUS", "year": "2023"},
+    {"name": "I HATE CHRISTMAS", "year": "2019"},
+    {"name": "MURDER DRONES", "year": "2021"}
   ],
   "E CHANNEL DİZİLERİ": [
     {"name": "THE EMPRESS", "year": "2011"}
+  ],
+  "TF1 DİZİLERİ": [
+    {"name": "MIRACULOUS: TALES OF LADYBUG & CAT NOIR", "year": "2015"}
+  ],
+  "STAR+ DİZİLERİ": [
+    {"name": "PLANNERS", "year": "2023"}
+  ],
+  "TVNZ 1 DİZİLERİ": [
+    {"name": "WOMEN IN BLUE", "year": "2014"}
+  ],
+  "SYNDICATION DİZİLERİ": [
+    {"name": "MONSTERS", "year": "1988"}
+  ],
+  "IQIYI DİZİLERİ": [
+    {"name": "LAST ONE STANDING", "year": "2019"}
+  ],
+  "KBS2 DİZİLERİ": [
+    {"name": "PERFECT FAMILY", "year": "2024"},
+    {"name": "MY LOVELY BOXER", "year": "2023"},
+    {"name": "THE REAL HAS COME!", "year": "2023"},
+    {"name": "THE MATCHMAKERS", "year": "2023"}
+  ],
+  "7TWO DİZİLERİ": [
+    {"name": "IN YOUR DREAMS", "year": "2013"}
+  ],
+  "TVING DİZİLERİ": [
+    {"name": "STRONG GIRL NAM-SOON", "year": "2023"},
+    {"name": "LOVE IN THE BIG CITY", "year": "2024"},
+    {"name": "DEATH'S GAME", "year": "2023"},
+    {"name": "MY LOVELY LIAR", "year": "2023"},
+    {"name": "SPICE UP OUR LOVE", "year": "2024"}
+  ],
+  "DISCOVERY LIFE DİZİLERİ": [
+    {"name": "DELIVER ME", "year": "2008"}
+  ],
+  "SYFY DİZİLERİ": [
+    {"name": "CHUCKY", "year": "2021"}
+  ],
+  "ATRESPLAYER+ DİZİLERİ": [
+    {"name": "LA PASIÓN TURCA", "year": "2024"}
+  ],
+  "BILIBILI DİZİLERİ": [
+    {"name": "EVERYTHING IS FINE", "year": "2025"}
+  ],
+  "ESPN+ DİZİLERİ": [
+    {"name": "IN THE ARENA: SERENA WILLIAMS", "year": "2024"}
+  ],
+  "HUNAN TV DİZİLERİ": [
+    {"name": "MIDSUMMER NIGHT", "year": "2013"}
+  ],
+  "RTÉ PLAYER DİZİLERİ": [
+    {"name": "OBITUARY", "year": "2023"}
+  ],
+  "NINE NETWORK DİZİLERİ": [
+    {"name": "FIRST ACT", "year": "2015"}
+  ],
+  "SKY NATURE DİZİLERİ": [
+    {"name": "SECRET WORLD OF SOUND", "year": "2024"}
+  ],
+  "FAMILY CHANNEL DİZİLERİ": [
+    {"name": "I WOKE UP A VAMPIRE", "year": "2023"}
+  ],
+  "CC: STUDIOS DİZİLERİ": [
+    {"name": "THE OFFICE AU", "year": "2018"}
+  ],
+  "WETV DİZİLERİ": [
+    {"name": "ADDICTED HEROIN", "year": "2024"}
+  ],
+  "GMM25 DİZİLERİ": [
+    {"name": "IRRÉSISTIBLE", "year": "2021"}
+  ],
+  "SHUDDER DİZİLERİ": [
+    {"name": "CREEPSHOW", "year": "2019"}
+  ],
+  "U DİZİLERİ": [
+    {"name": "THE MARLOW MURDER CLUB", "year": "2024"}
+  ],
+  "NATIONAL GEOGRAPHIC DİZİLERİ": [
+    {"name": "LOST CITIES REVEALED WITH ALBERT LIN", "year": "2023"}
+  ],
+  "SHOWTIME ON DEMAND DİZİLERİ": [
+    {"name": "BILLIONS", "year": "2016"}
+  ],
+  "MEGA CHANNEL DİZİLERİ": [
+    {"name": "MAESTRO IN BLUE", "year": "2022"}
   ]
 }
