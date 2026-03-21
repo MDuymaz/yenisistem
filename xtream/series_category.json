@@ -1297,7 +1297,163 @@
     {"name": "THE MINIONS OF MIDAS", "year": "2020"},
     {"name": "OMNISCIENT (ONISCIENTE)", "year": "2020"},
     {"name": "MAGIC FOR HUMANS", "year": "2018"},
-    {"name": "DEMARCUS FAMILY RULES", "year": "2020"}
+    {"name": "DEMARCUS FAMILY RULES", "year": "2020"},
+    {"name": "BEST.WORST.WEEKEND.EVER.", "year": "2018"},
+    {"name": "INGOBERNABLE", "year": "2017"},
+    {"name": "FIRST TEAM: JUVENTUS", "year": "2018"},
+    {"name": "WORMWOOD", "year": "2017"},
+    {"name": "MY FIRST FIRST LOVE", "year": "2019"},
+    {"name": "THE FINAL TABLE", "year": "2018"},
+    {"name": "YOU VS. WILD", "year": "2019"},
+    {"name": "EL RECLUSO", "year": "2018"},
+    {"name": "TIDELANDS", "year": "2018"},
+    {"name": "JINN", "year": "2019"},
+    {"name": "EXHIBIT A", "year": "2019"},
+    {"name": "MARVEL'S IRON FIST", "year": "2017"},
+    {"name": "THE I-LAND", "year": "2019"},
+    {"name": "GREEN FRONTIER", "year": "2019"},
+    {"name": "NO GOOD NICK", "year": "2019"},
+    {"name": "DOLLAR", "year": "2019"},
+    {"name": "ROMAN EMPIRE", "year": "2016"},
+    {"name": "DEAR WHITE PEOPLE", "year": "2017"},
+    {"name": "THE SPY", "year": "2019"},
+    {"name": "INSIDE THE CRIMINAL MIND", "year": "2018"},
+    {"name": "UNNATURAL SELECTION", "year": "2019"},
+    {"name": "THE SOUND OF YOUR HEART: REBOOT", "year": "2018"},
+    {"name": "DAYBREAK", "year": "2019"},
+    {"name": "A SERIES OF UNFORTUNATE EVENTS", "year": "2017"},
+    {"name": "MINDHUNTER", "year": "2017"},
+    {"name": "ORANGE IS THE NEW BLACK", "year": "2013"},
+    {"name": "YANKEE", "year": "2019"},
+    {"name": "MARIANNE", "year": "2019"},
+    {"name": "LAST CHANCE U", "year": "2016"},
+    {"name": "DARK TOURIST", "year": "2018"},
+    {"name": "SEIS MANOS", "year": "2019"},
+    {"name": "TERRORISM CLOSE CALLS", "year": "2018"},
+    {"name": "WU ASSASSINS", "year": "2019"},
+    {"name": "WHEN THEY SEE US", "year": "2019"},
+    {"name": "AFFLICTED", "year": "2018"},
+    {"name": "BARD OF BLOOD", "year": "2019"},
+    {"name": "THE GOOD COP", "year": "2018"},
+    {"name": "HUGE IN FRANCE", "year": "2019"},
+    {"name": "SAMANTHA!", "year": "2018"},
+    {"name": "LOSERS", "year": "2019"},
+    {"name": "LOVESICK", "year": "2014"},
+    {"name": "LIVING UNDOCUMENTED", "year": "2019"},
+    {"name": "DRUG LORDS", "year": "2018"},
+    {"name": "DOPE", "year": "2017"},
+    {"name": "BOBBY KENNEDY FOR PRESIDENT", "year": "2018"},
+    {"name": "TALES OF THE CITY", "year": "2019"},
+    {"name": "EVERYTHING SUCKS!", "year": "2018"},
+    {"name": "MARVEL'S THE PUNISHER", "year": "2017"},
+    {"name": "THE HAUNTING OF HILL HOUSE", "year": "2018"},
+    {"name": "TIDYING UP WITH MARIE KONDO", "year": "2019"},
+    {"name": "EXTREME ENGAGEMENT", "year": "2019"},
+    {"name": "GLOW", "year": "2017"},
+    {"name": "UNBELIEVABLE", "year": "2019"},
+    {"name": "WE SPEAK DANCE", "year": "2018"},
+    {"name": "PERSONA", "year": "2019"},
+    {"name": "THE COMEDY LINEUP", "year": "2018"},
+    {"name": "MY HUSBAND WON'T FIT", "year": "2019"},
+    {"name": "DEATH BY MAGIC", "year": "2018"},
+    {"name": "TIJUANA", "year": "2019"},
+    {"name": "KILLER RATINGS", "year": "2019"},
+    {"name": "LUNATICS", "year": "2019"},
+    {"name": "OSMOSIS", "year": "2019"},
+    {"name": "CONVERSATIONS WITH A KILLER: THE TED BUNDY TAPES", "year": "2019"},
+    {"name": "FASTEST CAR", "year": "2018"},
+    {"name": "SKYLINES", "year": "2019"},
+    {"name": "SALT FAT ACID HEAT", "year": "2018"},
+    {"name": "AMERICAN VANDAL", "year": "2017"},
+    {"name": "FREE REIN", "year": "2017"},
+    {"name": "LEILA", "year": "2019"},
+    {"name": "DANIEL SLOSS: LIVE SHOWS", "year": "2018"},
+    {"name": "THE LAST CZARS", "year": "2019"},
+    {"name": "ARRESTED DEVELOPMENT", "year": "2003"},
+    {"name": "MARSEILLE", "year": "2016"},
+    {"name": "TRIGGER WARNING WITH KILLER MIKE", "year": "2019"},
+    {"name": "3BELOW: TALES OF ARCADIA", "year": "2018"},
+    {"name": "REBOOT: THE GUARDIAN CODE", "year": "2018"},
+    {"name": "THE INNOCENT MAN", "year": "2018"},
+    {"name": "BRAINCHILD", "year": "2018"},
+    {"name": "SWITCHED", "year": "2018"},
+    {"name": "JAILBIRDS", "year": "2019"},
+    {"name": "GHOUL", "year": "2018"},
+    {"name": "ROTTEN", "year": "2018"},
+    {"name": "CRIME DIARIES: THE CANDIDATE", "year": "2019"},
+    {"name": "FRONTIER", "year": "2016"},
+    {"name": "CHEF'S TABLE", "year": "2015"},
+    {"name": "FRIENDS FROM COLLEGE", "year": "2017"},
+    {"name": "MARVEL'S LUKE CAGE", "year": "2016"},
+    {"name": "DESIGNATED SURVIVOR", "year": "2016"},
+    {"name": "SANTA CLARITA DIET", "year": "2017"},
+    {"name": "RILAKKUMA AND KAORU", "year": "2019"},
+    {"name": "TACO CHRONICLES", "year": "2019"},
+    {"name": "QUICKSAND", "year": "2019"},
+    {"name": "HOUSE OF CARDS", "year": "2013"},
+    {"name": "FLINCH", "year": "2019"},
+    {"name": "THE SOCIETY", "year": "2019"},
+    {"name": "WILD WILD COUNTRY", "year": "2018"},
+    {"name": "THE DARK CRYSTAL: AGE OF RESISTANCE", "year": "2019"},
+    {"name": "SAKHO & MANGANE", "year": "2019"},
+    {"name": "YG FUTURE STRATEGY OFFICE", "year": "2018"},
+    {"name": "BATTLEFISH", "year": "2018"},
+    {"name": "INSIDE BILL'S BRAIN: DECODING BILL GATES", "year": "2019"},
+    {"name": "CRIMINAL: GERMANY", "year": "2019"},
+    {"name": "FLINT TOWN", "year": "2018"},
+    {"name": "TROLLHUNTERS: TALES OF ARCADIA", "year": "2016"},
+    {"name": "RAPTURE", "year": "2018"},
+    {"name": "UNBREAKABLE KIMMY SCHMIDT", "year": "2015"},
+    {"name": "DROPPIN' CASH: LOS ANGELES", "year": "2018"},
+    {"name": "THE MECHANISM", "year": "2018"},
+    {"name": "BE MELODRAMATIC", "year": "2019"},
+    {"name": "GO! LIVE YOUR WAY", "year": "2019"},
+    {"name": "HAUNTED", "year": "2018"},
+    {"name": "TYPEWRITER", "year": "2019"},
+    {"name": "DISJOINTED", "year": "2017"},
+    {"name": "JAMES ACASTER: REPERTOIRE", "year": "2018"},
+    {"name": "STYLING HOLLYWOOD", "year": "2019"},
+    {"name": "DOGS OF BERLIN", "year": "2018"},
+    {"name": "TURN UP CHARLIE", "year": "2019"},
+    {"name": "SEVEN SECONDS", "year": "2018"},
+    {"name": "LIVING WITH YOURSELF", "year": "2019"},
+    {"name": "SHE'S GOTTA HAVE IT", "year": "2017"},
+    {"name": "THE OA", "year": "2016"},
+    {"name": "CHAMBERS", "year": "2019"},
+    {"name": "MARVEL'S JESSICA JONES", "year": "2015"},
+    {"name": "THE DISAPPEARANCE OF MADELEINE MCCANN", "year": "2019"},
+    {"name": "MEDAL OF HONOR", "year": "2018"},
+    {"name": "NOVEMBER 13: ATTACK ON PARIS", "year": "2018"},
+    {"name": "MANIAC", "year": "2018"},
+    {"name": "HISTORICAL ROASTS", "year": "2019"},
+    {"name": "CLUB DE CUERVOS", "year": "2015"},
+    {"name": "DANCING QUEEN", "year": "2018"},
+    {"name": "PRINCE OF PEORIA", "year": "2018"},
+    {"name": "CRIMINAL: SPAIN", "year": "2019"},
+    {"name": "GIRLS INCARCERATED", "year": "2018"},
+    {"name": "MARVEL'S DAREDEVIL", "year": "2015"},
+    {"name": "STREET FOOD ASIA", "year": "2019"},
+    {"name": "100 DAYS MY PRINCE", "year": "2018"},
+    {"name": "SACRED GAMES", "year": "2018"},
+    {"name": "THE PRINCE OF TENNIS", "year": "2019"},
+    {"name": "TRAVELERS", "year": "2016"},
+    {"name": "SENSE8", "year": "2015"},
+    {"name": "ABSTRACT: THE ART OF DESIGN", "year": "2017"},
+    {"name": "DIAGNOSIS", "year": "2019"},
+    {"name": "HAPPY JAIL", "year": "2019"},
+    {"name": "LARRY CHARLES' DANGEROUS WORLD OF COMEDY", "year": "2019"},
+    {"name": "CRIMINAL: FRANCE", "year": "2019"},
+    {"name": "NICKY JAM: EL GANADOR", "year": "2018"},
+    {"name": "THE COULD'VE-GONE-ALL-THE-WAY COMMITTEE", "year": "2018"},
+    {"name": "IT'S BRUNO!", "year": "2019"},
+    {"name": "APACHE: LA VIDA DE CARLOS TEVEZ", "year": "2019"},
+    {"name": "THE 43", "year": "2019"},
+    {"name": "EASY", "year": "2016"},
+    {"name": "INSATIABLE", "year": "2018"},
+    {"name": "THE INNOCENTS", "year": "2018"},
+    {"name": "SHADOW", "year": "2019"},
+    {"name": "CRIME DIARIES: NIGHT OUT", "year": "2019"},
+    {"name": "MALIBU RESCUE: THE SERIES", "year": "2019"}
   ],
   "FX DİZİLERİ": [
     {"name": "LOVE STORY", "year": "2026"},
@@ -1318,7 +1474,10 @@
     {"name": "BREEDERS", "year": "2020"},
     {"name": "MR INBETWEEN", "year": "2018"},
     {"name": "POSE", "year": "2018"},
-    {"name": "BETTER THINGS", "year": "2016"}
+    {"name": "BETTER THINGS", "year": "2016"},
+    {"name": "BASKETS", "year": "2016"},
+    {"name": "THE AMERICANS", "year": "2013"},
+    {"name": "LEGION", "year": "2017"}
   ],
   "DISNEY+ DİZİLERİ": [
     {"name": "THE ARTFUL DODGER", "year": "2023"},
@@ -1467,7 +1626,13 @@
     {"name": "SECRETS OF THE WHALES", "year": "2021"},
     {"name": "PUP ACADEMY", "year": "2019"},
     {"name": "GIGANTOSAURUS", "year": "2019"},
-    {"name": "THE ROCKETEER", "year": "2019"}
+    {"name": "THE ROCKETEER", "year": "2019"},
+    {"name": "101 DALMATIAN STREET", "year": "2018"},
+    {"name": "MARVEL'S GUARDIANS OF THE GALAXY", "year": "2015"},
+    {"name": "LEGEND OF THE THREE CABALLEROS", "year": "2018"},
+    {"name": "STAR WARS REBELS", "year": "2014"},
+    {"name": "SUITS (KOREAN)", "year": "2012"},
+    {"name": "K.C. UNDERCOVER", "year": "2015"}
   ],
   "HBO DİZİLERİ": [
     {"name": "NEIGHBORS", "year": "2026"},
@@ -1554,7 +1719,12 @@
     {"name": "THE HEAD", "year": "2020"},
     {"name": "THE THIRD DAY", "year": "2020"},
     {"name": "THE OUTSIDER", "year": "2020"},
-    {"name": "30 COINS", "year": "2020"}
+    {"name": "30 COINS", "year": "2020"},
+    {"name": "DIVORCE", "year": "2016"},
+    {"name": "ELVIS PRESLEY: THE SEARCHER", "year": "2018"},
+    {"name": "GRISSE", "year": "2018"},
+    {"name": "DARK MONEY", "year": "2025"},
+    {"name": "YOUNG JUSTICE", "year": "2010"}
   ],
   "AMAZON PRIME DİZİLERİ": [
     {"name": "SCARPETTA", "year": "2026"},
@@ -1763,7 +1933,31 @@
     {"name": "EL CANDIDATO", "year": "2020"},
     {"name": "ALMOST PARADISE", "year": "2020"},
     {"name": "EL PRESIDENTE", "year": "2020"},
-    {"name": "BREATHE: INTO THE SHADOWS", "year": "2020"}
+    {"name": "BREATHE: INTO THE SHADOWS", "year": "2020"},
+    {"name": "TOO OLD TO DIE YOUNG", "year": "2019"},
+    {"name": "THIS GIANT BEAST THAT IS THE GLOBAL ECONOMY", "year": "2019"},
+    {"name": "JUST ADD MAGIC", "year": "2015"},
+    {"name": "LORENA", "year": "2019"},
+    {"name": "DIABLO GUARDIÁN", "year": "2018"},
+    {"name": "LORE", "year": "2017"},
+    {"name": "SNEAKY PETE", "year": "2015"},
+    {"name": "JEAN-CLAUDE VAN JOHNSON", "year": "2016"},
+    {"name": "THE ROMANOFFS", "year": "2018"},
+    {"name": "BREATHE", "year": "2018"},
+    {"name": "BEAT", "year": "2018"},
+    {"name": "THE WIDOW", "year": "2019"},
+    {"name": "ALL OR NOTHING: MANCHESTER CITY", "year": "2018"},
+    {"name": "TRANSPARENT", "year": "2014"},
+    {"name": "TUMBLE LEAF", "year": "2013"},
+    {"name": "MOZART IN THE JUNGLE", "year": "2014"},
+    {"name": "LOST IN OZ", "year": "2015"},
+    {"name": "LOUDERMILK", "year": "2017"},
+    {"name": "YOU ARE WANTED", "year": "2017"},
+    {"name": "THE GYMKHANA FILES", "year": "2018"},
+    {"name": "PATRIOT", "year": "2015"},
+    {"name": "ERASED", "year": "2019"},
+    {"name": "THE TICK", "year": "2016"},
+    {"name": "FREE MEEK", "year": "2019"}
   ],
   "HULU DİZİLERİ": [
     {"name": "PARADISE", "year": "2025"},
@@ -1858,7 +2052,16 @@
     {"name": "LITTLE FIRES EVERYWHERE", "year": "2020"},
     {"name": "MARVEL'S RUNAWAYS", "year": "2017"},
     {"name": "REPRISAL", "year": "2019"},
-    {"name": "A TEACHER", "year": "2020"}
+    {"name": "A TEACHER", "year": "2020"},
+    {"name": "FOUR WEDDINGS AND A FUNERAL", "year": "2019"},
+    {"name": "CATCH-22", "year": "2019"},
+    {"name": "THE ACT", "year": "2019"},
+    {"name": "LIGHT AS A FEATHER", "year": "2018"},
+    {"name": "HARLOTS", "year": "2017"},
+    {"name": "THE UNSETTLING", "year": "2019"},
+    {"name": "THE LOOMING TOWER", "year": "2018"},
+    {"name": "LOOKING FOR ALASKA", "year": "2019"},
+    {"name": "VERONICA MARS", "year": "2004"}
   ],
   "APPLE TV+ DİZİLERİ": [
     {"name": "DROPS OF GOD", "year": "2023"},
@@ -2042,7 +2245,17 @@
     {"name": "LAST MAN STANDING", "year": "2011"},
     {"name": "NEXT", "year": "2020"},
     {"name": "OUTMATCHED", "year": "2020"},
-    {"name": "DEPUTY", "year": "2020"}
+    {"name": "DEPUTY", "year": "2020"},
+    {"name": "GOTHAM", "year": "2014"},
+    {"name": "NEW GIRL", "year": "2011"},
+    {"name": "THE MICK", "year": "2017"},
+    {"name": "THE GIFTED", "year": "2017"},
+    {"name": "THE EXORCIST", "year": "2016"},
+    {"name": "PROVEN INNOCENT", "year": "2019"},
+    {"name": "THE LAST MAN ON EARTH", "year": "2015"},
+    {"name": "THE X-FILES", "year": "1993"},
+    {"name": "DEEP STATE", "year": "2018"},
+    {"name": "THE PASSAGE", "year": "2019"}
   ],
   "SBS DİZİLERİ": [
     {"name": "NO TAIL TO TELL", "year": "2026"},
@@ -2069,7 +2282,19 @@
     {"name": "VAGABOND", "year": "2019"},
     {"name": "THE KING: ETERNAL MONARCH", "year": "2020"},
     {"name": "STOVE LEAGUE", "year": "2019"},
-    {"name": "BACKSTREET ROOKIE", "year": "2020"}
+    {"name": "BACKSTREET ROOKIE", "year": "2020"},
+    {"name": "HYMN OF DEATH", "year": "2018"},
+    {"name": "THE NOKDU FLOWER", "year": "2019"},
+    {"name": "WOK OF LOVE", "year": "2018"},
+    {"name": "SHOULD WE KISS FIRST", "year": "2018"},
+    {"name": "THE FIERY PRIEST", "year": "2019"},
+    {"name": "BIG ISSUE", "year": "2019"},
+    {"name": "SWITCH: CHANGE THE WORLD", "year": "2018"},
+    {"name": "WHERE STARS LAND", "year": "2018"},
+    {"name": "THE LAST EMPRESS", "year": "2018"},
+    {"name": "DOCTOR JOHN", "year": "2019"},
+    {"name": "HAECHI", "year": "2019"},
+    {"name": "THE SECRET LIFE OF MY SECRETARY", "year": "2019"}
   ],
   "TVN DİZİLERİ": [
     {"name": "SPRING FEVER", "year": "2026"},
@@ -2141,13 +2366,38 @@
     {"name": "MELTING ME SOFTLY", "year": "2019"},
     {"name": "CATCH THE GHOST", "year": "2019"},
     {"name": "BIRTHCARE CENTER", "year": "2020"},
-    {"name": "HI BYE, MAMA!", "year": "2020"}
+    {"name": "HI BYE, MAMA!", "year": "2020"},
+    {"name": "HE IS PSYCHOMETRIC", "year": "2019"},
+    {"name": "ABYSS", "year": "2019"},
+    {"name": "A KOREAN ODYSSEY", "year": "2017"},
+    {"name": "DESIGNATED SURVIVOR: 60 DAYS", "year": "2019"},
+    {"name": "TRANS-SIBERIAN PATHFINDERS", "year": "2019"},
+    {"name": "MY MISTER", "year": "2018"},
+    {"name": "HER PRIVATE LIFE", "year": "2019"},
+    {"name": "ROMANCE IS A BONUS BOOK", "year": "2019"},
+    {"name": "ROOM NO. 9", "year": "2018"},
+    {"name": "LAWLESS LAWYER", "year": "2018"},
+    {"name": "HOTEL DEL LUNA", "year": "2019"},
+    {"name": "LIVE", "year": "2018"},
+    {"name": "PRISON PLAYBOOK", "year": "2017"},
+    {"name": "ENCOUNTER", "year": "2018"},
+    {"name": "TOUCH YOUR HEART", "year": "2019"},
+    {"name": "THE SMILE HAS LEFT YOUR EYES", "year": "2018"},
+    {"name": "THE GREAT SHOW", "year": "2019"},
+    {"name": "WHEN THE DEVIL CALLS YOUR NAME", "year": "2019"},
+    {"name": "ARTHDAL CHRONICLES", "year": "2019"},
+    {"name": "SEARCH: WWW", "year": "2019"},
+    {"name": "WHAT'S WRONG WITH SECRETARY KIM", "year": "2018"},
+    {"name": "THE CROWNED CLOWN", "year": "2019"},
+    {"name": "MEMORIES OF THE ALHAMBRA", "year": "2018"},
+    {"name": "MOTHER", "year": "2018"}
   ],
   "TV ASAHI DİZİLERİ": [
     {"name": "再会～SILENT TRUTH～", "year": "2026"},
     {"name": "BABANBA BANBAN VAMPIRE", "year": "2025"},
     {"name": "THE DANGERS IN MY HEART", "year": "2023"},
-    {"name": "MOKOMI", "year": "2021"}
+    {"name": "MOKOMI", "year": "2021"},
+    {"name": "OSSAN'S LOVE", "year": "2016"}
   ],
   "JTBC DİZİLERİ": [
     {"name": "STILL SHINING", "year": "2026"},
@@ -2196,7 +2446,23 @@
     {"name": "GRACEFUL FRIENDS", "year": "2020"},
     {"name": "MORE THAN FRIENDS", "year": "2020"},
     {"name": "CHIEF OF STAFF", "year": "2019"},
-    {"name": "SWEET MUNCHIES", "year": "2020"}
+    {"name": "SWEET MUNCHIES", "year": "2020"},
+    {"name": "THE BEAUTY INSIDE", "year": "2018"},
+    {"name": "CLEAN WITH PASSION FOR NOW", "year": "2018"},
+    {"name": "THE WIND BLOWS", "year": "2019"},
+    {"name": "THE THIRD CHARM", "year": "2018"},
+    {"name": "HYORI'S BED AND BREAKFAST", "year": "2017"},
+    {"name": "SOMETHING IN THE RAIN", "year": "2018"},
+    {"name": "MISTY", "year": "2018"},
+    {"name": "WELCOME TO WAIKIKI", "year": "2018"},
+    {"name": "SKETCH", "year": "2018"},
+    {"name": "BEAUTIFUL WORLD", "year": "2019"},
+    {"name": "PING PONG BALL", "year": "2018"},
+    {"name": "MISS HAMMURABI", "year": "2018"},
+    {"name": "LEGAL HIGH", "year": "2019"},
+    {"name": "THE LIGHT IN YOUR EYES", "year": "2019"},
+    {"name": "SKY CASTLE", "year": "2018"},
+    {"name": "MY ID IS GANGNAM BEAUTY", "year": "2018"}
   ],
   "TV TOKYO DİZİLERİ": [
     {"name": "THE DARWIN INCIDENT", "year": "2026"},
@@ -2207,7 +2473,9 @@
     {"name": "CHAINSAW MAN", "year": "2022"},
     {"name": "SPY X FAMILY", "year": "2022"},
     {"name": "KOMI CAN'T COMMUNICATE", "year": "2021"},
-    {"name": "SHAMAN KING", "year": "2001"}
+    {"name": "SHAMAN KING", "year": "2001"},
+    {"name": "SMOKING", "year": "2018"},
+    {"name": "ONE-PUNCH MAN", "year": "2015"}
   ],
   "ONE31 DİZİLERİ": [
     {"name": "GIRL FROM NOWHERE: THE RESET", "year": "2026"},
@@ -2231,7 +2499,12 @@
     {"name": "THE GOOD KARMA HOSPITAL", "year": "2017"},
     {"name": "THE PEMBROKESHIRE MURDERS", "year": "2021"},
     {"name": "QUIZ", "year": "2020"},
-    {"name": "WHITE HOUSE FARM", "year": "2020"}
+    {"name": "WHITE HOUSE FARM", "year": "2020"},
+    {"name": "VANITY FAIR", "year": "2018"},
+    {"name": "A CONFESSION", "year": "2019"},
+    {"name": "THE INVESTIGATOR: A BRITISH CRIME STORY", "year": "2016"},
+    {"name": "BEECHAM HOUSE", "year": "2019"},
+    {"name": "THE DURRELLS", "year": "2016"}
   ],
   "NBC DİZİLERİ": [
     {"name": "THE HUNTING PARTY", "year": "2025"},
@@ -2257,7 +2530,14 @@
     {"name": "CHICAGO MED", "year": "2015"},
     {"name": "CHICAGO FIRE", "year": "2012"},
     {"name": "LINCOLN RHYME: HUNT FOR THE BONE COLLECTOR", "year": "2020"},
-    {"name": "BLINDSPOT", "year": "2015"}
+    {"name": "BLINDSPOT", "year": "2015"},
+    {"name": "TIMELESS", "year": "2016"},
+    {"name": "THE ENEMY WITHIN", "year": "2019"},
+    {"name": "THE INBETWEEN", "year": "2019"},
+    {"name": "REVERIE", "year": "2018"},
+    {"name": "MIDNIGHT, TEXAS", "year": "2017"},
+    {"name": "MARLON", "year": "2017"},
+    {"name": "GREAT NEWS", "year": "2017"}
   ],
   "STARZ DİZİLERİ": [
     {"name": "OUTLANDER", "year": "2014"},
@@ -2273,7 +2553,10 @@
     {"name": "AMERICAN GODS", "year": "2017"},
     {"name": "BLINDSPOTTING", "year": "2021"},
     {"name": "HIGHTOWN", "year": "2020"},
-    {"name": "THE SPANISH PRINCESS", "year": "2019"}
+    {"name": "THE SPANISH PRINCESS", "year": "2019"},
+    {"name": "ASH VS EVIL DEAD", "year": "2015"},
+    {"name": "THE ROOK", "year": "2019"},
+    {"name": "COUNTERPART", "year": "2017"}
   ],
   "ABC DİZİLERİ": [
     {"name": "GREY'S ANATOMY", "year": "2005"},
@@ -2316,7 +2599,20 @@
     {"name": "FRESH OFF THE BOAT", "year": "2015"},
     {"name": "FRAYED", "year": "2019"},
     {"name": "MARVEL'S AGENTS OF S.H.I.E.L.D.", "year": "2013"},
-    {"name": "AMERICAN HOUSEWIFE", "year": "2016"}
+    {"name": "AMERICAN HOUSEWIFE", "year": "2016"},
+    {"name": "QUANTICO", "year": "2015"},
+    {"name": "THE FIX", "year": "2019"},
+    {"name": "PINE GAP", "year": "2018"},
+    {"name": "THE CROSSING", "year": "2018"},
+    {"name": "MR. SUNSHINE", "year": "2011"},
+    {"name": "TRAVELER", "year": "2007"},
+    {"name": "RAKE", "year": "2010"},
+    {"name": "THE LETDOWN", "year": "2017"},
+    {"name": "THE GOLDBERGS", "year": "2013"},
+    {"name": "ONCE UPON A TIME", "year": "2011"},
+    {"name": "SCANDAL", "year": "2012"},
+    {"name": "SINGLE PARENTS", "year": "2018"},
+    {"name": "THE FAMILY", "year": "2016"}
   ],
   "CBS DİZİLERİ": [
     {"name": "GEORGIE & MANDY'S FIRST MARRIAGE", "year": "2024"},
@@ -2351,7 +2647,14 @@
     {"name": "THE TWILIGHT ZONE", "year": "1959"},
     {"name": "B POSITIVE", "year": "2020"},
     {"name": "GOD FRIENDED ME", "year": "2018"},
-    {"name": "ALICE", "year": "1976"}
+    {"name": "ALICE", "year": "1976"},
+    {"name": "ELEMENTARY", "year": "2012"},
+    {"name": "SALVATION", "year": "2017"},
+    {"name": "SCORPION", "year": "2014"},
+    {"name": "THE BIG BANG THEORY", "year": "2007"},
+    {"name": "INSTINCT", "year": "2018"},
+    {"name": "HAPPY TOGETHER", "year": "2018"},
+    {"name": "LIFE IN PIECES", "year": "2015"}
   ],
   "AMC+ DİZİLERİ": [
     {"name": "DARK WINDS", "year": "2022"},
@@ -2395,7 +2698,10 @@
     {"name": "MY DRESS-UP DARLING", "year": "2022"},
     {"name": "THE CASE STUDY OF VANITAS", "year": "2021"},
     {"name": "KAGUYA-SAMA: LOVE IS WAR", "year": "2019"},
-    {"name": "DOROHEDORO", "year": "2020"}
+    {"name": "DOROHEDORO", "year": "2020"},
+    {"name": "DRAGON PILOT: HISONE AND MASOTAN", "year": "2018"},
+    {"name": "MOB PSYCHO 100", "year": "2016"},
+    {"name": "ULTRAMARINE MAGMELL", "year": "2019"}
   ],
   "NHK DİZİLERİ": [
     {"name": "TO YOUR ETERNITY", "year": "2021"},
@@ -2416,7 +2722,9 @@
   ],
   "MBS DİZİLERİ": [
     {"name": "JUJUTSU KAISEN", "year": "2020"},
-    {"name": "TOKYO REVENGERS", "year": "2021"}
+    {"name": "TOKYO REVENGERS", "year": "2021"},
+    {"name": "SCAMS", "year": "2019"},
+    {"name": "ALTAIR: A RECORD OF BATTLES", "year": "2017"}
   ],
   "CRUNCHYROLL DİZİLERİ": [
     {"name": "SENTENCED TO BE A HERO", "year": "2026"},
@@ -2434,7 +2742,9 @@
     {"name": "MARCELLA", "year": "2016"}
   ],
   "CITYTV DİZİLERİ": [
-    {"name": "LAW & ORDER TORONTO: CRIMINAL INTENT", "year": "2024"}
+    {"name": "LAW & ORDER TORONTO: CRIMINAL INTENT", "year": "2024"},
+    {"name": "BAD BLOOD", "year": "2017"},
+    {"name": "HUDSON & REX", "year": "2019"}
   ],
   "PARAMOUNT+ DİZİLERİ": [
     {"name": "THE MADISON", "year": "2026"},
@@ -2476,7 +2786,16 @@
     {"name": "RAY DONOVAN", "year": "2013"},
     {"name": "INTERROGATION", "year": "2020"},
     {"name": "THE CHI", "year": "2018"},
-    {"name": "TELL ME A STORY", "year": "2018"}
+    {"name": "TELL ME A STORY", "year": "2018"},
+    {"name": "INSOMNIA", "year": "2024"},
+    {"name": "WACO", "year": "2018"},
+    {"name": "ESCAPE AT DANNEMORA", "year": "2018"},
+    {"name": "SMILF", "year": "2017"},
+    {"name": "ON BECOMING A GOD IN CENTRAL FLORIDA", "year": "2019"},
+    {"name": "STRANGE ANGEL", "year": "2018"},
+    {"name": "BLACK MONDAY", "year": "2019"},
+    {"name": "HOMELAND", "year": "2011"},
+    {"name": "BLOOD & TREASURE", "year": "2019"}
   ],
   "MGM+ DİZİLERİ": [
     {"name": "AMERICAN CLASSIC", "year": "2026"},
@@ -2489,7 +2808,9 @@
     {"name": "EMPEROR OF OCEAN PARK", "year": "2024"},
     {"name": "DOMINA", "year": "2021"},
     {"name": "CHAPELWAITE", "year": "2021"},
-    {"name": "GET SHORTY", "year": "2017"}
+    {"name": "GET SHORTY", "year": "2017"},
+    {"name": "PERPETUAL GRACE LTD", "year": "2019"},
+    {"name": "BERLIN STATION", "year": "2016"}
   ],
   "BBC IPLAYER DİZİLERİ": [
     {"name": "THE CAPTURE", "year": "2019"},
@@ -2527,13 +2848,18 @@
     {"name": "ROADKILL", "year": "2020"},
     {"name": "NOUGHTS + CROSSES", "year": "2020"},
     {"name": "OUT OF HER MIND", "year": "2020"},
-    {"name": "WORLD ON FIRE", "year": "2019"}
+    {"name": "WORLD ON FIRE", "year": "2019"},
+    {"name": "THE YOUNG OFFENDERS", "year": "2016"},
+    {"name": "KEEPING FAITH", "year": "2018"},
+    {"name": "RISE OF THE NAZIS", "year": "2019"},
+    {"name": "REQUIEM", "year": "2018"}
   ],
   "ADULT SWIM DİZİLERİ": [
     {"name": "PRIMAL", "year": "2019"},
     {"name": "RICK AND MORTY", "year": "2013"},
     {"name": "NINJA KAMUI", "year": "2024"},
-    {"name": "FINAL SPACE", "year": "2018"}
+    {"name": "FINAL SPACE", "year": "2018"},
+    {"name": "TUCA & BERTIE", "year": "2019"}
   ],
   "RTÉ ONE DİZİLERİ": [
     {"name": "THESE SACRED VOWS", "year": "2026"},
@@ -2542,7 +2868,8 @@
   ],
   "HALLMARK CHANNEL DİZİLERİ": [
     {"name": "WHEN CALLS THE HEART", "year": "2013"},
-    {"name": "CHESAPEAKE SHORES", "year": "2016"}
+    {"name": "CHESAPEAKE SHORES", "year": "2016"},
+    {"name": "GOOD WITCH", "year": "2008"}
   ],
   "BBC ONE DİZİLERİ": [
     {"name": "THE HUNT", "year": "2015"},
@@ -2565,7 +2892,26 @@
     {"name": "SMALL AXE", "year": "2020"},
     {"name": "A SUITABLE BOY", "year": "2020"},
     {"name": "THE PALE HORSE", "year": "2020"},
-    {"name": "SEVEN WORLDS, ONE PLANET", "year": "2019"}
+    {"name": "SEVEN WORLDS, ONE PLANET", "year": "2019"},
+    {"name": "LES MISÉRABLES", "year": "2018"},
+    {"name": "INTERIOR DESIGN MASTERS", "year": "2019"},
+    {"name": "THE MINIATURIST", "year": "2017"},
+    {"name": "POLDARK", "year": "2015"},
+    {"name": "THE CRY", "year": "2018"},
+    {"name": "LUTHER", "year": "2010"},
+    {"name": "THE VICTIM", "year": "2019"},
+    {"name": "HIDDEN", "year": "2011"},
+    {"name": "THE ABC MURDERS", "year": "2018"},
+    {"name": "DYNASTIES", "year": "2018"},
+    {"name": "TROY: FALL OF A CITY", "year": "2018"},
+    {"name": "WATERSHIP DOWN", "year": "2018"},
+    {"name": "BODYGUARD", "year": "2018"},
+    {"name": "MRS WILSON", "year": "2018"},
+    {"name": "MCMAFIA", "year": "2018"},
+    {"name": "WANDERLUST", "year": "2018"},
+    {"name": "TRUST ME", "year": "2017"},
+    {"name": "ORDEAL BY INNOCENCE", "year": "2018"},
+    {"name": "A VERY ENGLISH SCANDAL", "year": "2018"}
   ],
   "UP FAITH & FAMILY DİZİLERİ": [
     {"name": "BLUE SKIES", "year": "2026"}
@@ -2577,17 +2923,21 @@
     {"name": "CORONER", "year": "2019"},
     {"name": "SCHITT'S CREEK", "year": "2015"},
     {"name": "ANNE WITH AN \"E\"", "year": "2017"},
-    {"name": "TRICKSTER", "year": "2020"}
+    {"name": "TRICKSTER", "year": "2020"},
+    {"name": "BURDEN OF TRUTH", "year": "2018"}
   ],
   "CBC GEM DİZİLERİ": [
     {"name": "SAINT-PIERRE", "year": "2025"},
     {"name": "NORTH OF NORTH", "year": "2025"},
     {"name": "THE BANNOCKING", "year": "2023"},
     {"name": "FAKES", "year": "2022"},
-    {"name": "MOONSHINE", "year": "2021"}
+    {"name": "MOONSHINE", "year": "2021"},
+    {"name": "HEARTLAND", "year": "2007"},
+    {"name": "NORTHERN RESCUE", "year": "2019"}
   ],
   "DISCOVERY DİZİLERİ": [
-    {"name": "SOUNDS OF WINTER", "year": "2015"}
+    {"name": "SOUNDS OF WINTER", "year": "2015"},
+    {"name": "GREATEST EVENTS OF WWII IN COLOUR", "year": "2019"}
   ],
   "THE CW DİZİLERİ": [
     {"name": "HEAVEN", "year": "1996"},
@@ -2610,7 +2960,14 @@
     {"name": "KATY KEENE", "year": "2020"},
     {"name": "SUPERNATURAL", "year": "2005"},
     {"name": "THE 100", "year": "2014"},
-    {"name": "BATWOMAN", "year": "2019"}
+    {"name": "BATWOMAN", "year": "2019"},
+    {"name": "CRAZY EX-GIRLFRIEND", "year": "2015"},
+    {"name": "THE ORIGINALS", "year": "2013"},
+    {"name": "JANE THE VIRGIN", "year": "2014"},
+    {"name": "LEGACIES", "year": "2018"},
+    {"name": "BLACK LIGHTNING", "year": "2018"},
+    {"name": "LIFE SENTENCE", "year": "2018"},
+    {"name": "IZOMBIE", "year": "2015"}
   ],
   "ENA DİZİLERİ": [
     {"name": "IDOL I", "year": "2025"},
@@ -2643,7 +3000,18 @@
     {"name": "HOLIDAY SECRETS", "year": "2026"},
     {"name": "BAGHDAD CENTRAL", "year": "2020"},
     {"name": "THE WINDSORS", "year": "2016"},
-    {"name": "LOST PYRAMIDS OF THE AZTECS", "year": "2020"}
+    {"name": "LOST PYRAMIDS OF THE AZTECS", "year": "2020"},
+    {"name": "PHILIP K. DICK'S ELECTRIC DREAMS", "year": "2017"},
+    {"name": "LEAVING NEVERLAND", "year": "2019"},
+    {"name": "KISS ME FIRST", "year": "2018"},
+    {"name": "HUMANS", "year": "2015"},
+    {"name": "YEAR OF THE RABBIT", "year": "2019"},
+    {"name": "PURE", "year": "2019"},
+    {"name": "GAMEFACE", "year": "2017"},
+    {"name": "THE UNDATEABLES", "year": "2012"},
+    {"name": "SUGAR RUSH", "year": "2005"},
+    {"name": "THE VIRTUES", "year": "2019"},
+    {"name": "TRAITORS", "year": "2019"}
   ],
   "CHANNEL 7 DİZİLERİ": [
     {"name": "LOVER MERMAN", "year": "2025"}
@@ -2669,7 +3037,10 @@
     {"name": "DRAGON SAKURA", "year": "2005"},
     {"name": "MIU 404", "year": "2020"},
     {"name": "AN INCURABLE CASE OF LOVE", "year": "2020"},
-    {"name": "MIRACLE WORKERS", "year": "2019"}
+    {"name": "MIRACLE WORKERS", "year": "2019"},
+    {"name": "THE GUEST BOOK", "year": "2017"},
+    {"name": "UNNATURAL", "year": "2018"},
+    {"name": "MEET ME AFTER SCHOOL", "year": "2018"}
   ],
   "TENCENT QQ DİZİLERİ": [
     {"name": "RUN AWAY", "year": "2023"},
@@ -2702,14 +3073,16 @@
     {"name": "LAST LIGHT", "year": "2022"},
     {"name": "ONE OF US IS LYING", "year": "2021"},
     {"name": "DAN BROWN'S THE LOST SYMBOL", "year": "2021"},
-    {"name": "DEPARTURE", "year": "2019"}
+    {"name": "DEPARTURE", "year": "2019"},
+    {"name": "THE PAPER", "year": "2025"}
   ],
   "RAI 1 DİZİLERİ": [
     {"name": "SANDOKAN", "year": "2025"},
     {"name": "THE COUNT OF MONTE CRISTO", "year": "2025"},
     {"name": "EXTERIOR NIGHT", "year": "2022"},
     {"name": "LEONARDO", "year": "2021"},
-    {"name": "MEDICI", "year": "2016"}
+    {"name": "MEDICI", "year": "2016"},
+    {"name": "THE NAME OF THE ROSE", "year": "2019"}
   ],
   "WAVVE DİZİLERİ": [
     {"name": "WILL YOU BE MY MANAGER?", "year": "2025"},
@@ -2719,7 +3092,8 @@
     {"name": "CHEER UP", "year": "2022"},
     {"name": "SEASONS OF BLOSSOM", "year": "2022"},
     {"name": "ONE DOLLAR LAWYER", "year": "2022"},
-    {"name": "SF8", "year": "2020"}
+    {"name": "SF8", "year": "2020"},
+    {"name": "DOKGO REWIND", "year": "2018"}
   ],
   "STAN DİZİLERİ": [
     {"name": "WATCHING YOU", "year": "2025"},
@@ -2728,7 +3102,9 @@
     {"name": "POPULATION 11", "year": "2024"},
     {"name": "35-YEAR-OLD GIRL (35-SAI NO SHOUJO)", "year": "2023"},
     {"name": "THE GLOAMING", "year": "2020"},
-    {"name": "THE COMMONS", "year": "2019"}
+    {"name": "THE COMMONS", "year": "2019"},
+    {"name": "WOLF CREEK", "year": "2016"},
+    {"name": "BLOOM", "year": "2019"}
   ],
   "COUPANG PLAY DİZİLERİ": [
     {"name": "JUST MAKEUP", "year": "2025"},
@@ -2738,7 +3114,8 @@
   "TV CHOSUN DİZİLERİ": [
     {"name": "CONFIDENCE QUEEN", "year": "2025"},
     {"name": "BECOMING WITCH", "year": "2022"},
-    {"name": "LOVE (FT. MARRIAGE AND DIVORCE)", "year": "2021"}
+    {"name": "LOVE (FT. MARRIAGE AND DIVORCE)", "year": "2021"},
+    {"name": "GRAND PRINCE", "year": "2018"}
   ],
   "FUJI TV DİZİLERİ": [
     {"name": "PRAY SPEAK WHAT HAS HAPPENED", "year": "2025"},
@@ -2747,7 +3124,9 @@
     {"name": "WHAT WE LOSE TO LOVE", "year": "2015"},
     {"name": "BNA: BRAND NEW ANIMAL", "year": "2020"},
     {"name": "GREAT PRETENDER", "year": "2020"},
-    {"name": "PSYCHO-PASS", "year": "2012"}
+    {"name": "PSYCHO-PASS", "year": "2012"},
+    {"name": "AINORI LOVE WAGON: ASIAN JOURNEY", "year": "2017"},
+    {"name": "RICH MAN, POOR WOMAN", "year": "2012"}
   ],
   "FREEFORM DİZİLERİ": [
     {"name": "NOT HER FIRST RODEO", "year": "2025"},
@@ -2756,7 +3135,11 @@
     {"name": "KEEP THIS BETWEEN US", "year": "2022"},
     {"name": "MOTHERLAND: FORT SALEM", "year": "2020"},
     {"name": "THE BOLD TYPE", "year": "2017"},
-    {"name": "EVERYTHING'S GONNA BE OKAY", "year": "2020"}
+    {"name": "EVERYTHING'S GONNA BE OKAY", "year": "2020"},
+    {"name": "PRETTY LITTLE LIARS: THE PERFECTIONISTS", "year": "2019"},
+    {"name": "SHADOWHUNTERS", "year": "2016"},
+    {"name": "MARVEL'S CLOAK & DAGGER", "year": "2018"},
+    {"name": "BEYOND", "year": "2017"}
   ],
   "HEAVENLY DİZİLERİ": [
     {"name": "HEESU IN CLASS 2", "year": "2025"},
@@ -2775,10 +3158,12 @@
     {"name": "SULLIVAN'S CROSSING", "year": "2023"},
     {"name": "THIS IS POP", "year": "2021"},
     {"name": "TRANSPLANT", "year": "2020"},
-    {"name": "CARDINAL", "year": "2017"}
+    {"name": "CARDINAL", "year": "2017"},
+    {"name": "THE INDIAN DETECTIVE", "year": "2017"}
   ],
   "ACORN TV DİZİLERİ": [
-    {"name": "THE CHELSEA DETECTIVE", "year": "2022"}
+    {"name": "THE CHELSEA DETECTIVE", "year": "2022"},
+    {"name": "LONDON KILLS", "year": "2019"}
   ],
   "FXX DİZİLERİ": [
     {"name": "IT'S ALWAYS SUNNY IN PHILADELPHIA", "year": "2005"},
@@ -2794,7 +3179,13 @@
     {"name": "MR. ROBOT", "year": "2015"},
     {"name": "BRIARPATCH", "year": "2020"},
     {"name": "DARE ME", "year": "2019"},
-    {"name": "DIRTY JOHN", "year": "2018"}
+    {"name": "DIRTY JOHN", "year": "2018"},
+    {"name": "DAMNATION", "year": "2017"},
+    {"name": "HEAVY RESCUE: 401", "year": "2016"},
+    {"name": "COLONY", "year": "2016"},
+    {"name": "SHOOTER", "year": "2016"},
+    {"name": "UNSOLVED: THE MURDERS OF TUPAC AND THE NOTORIOUS B.I.G.", "year": "2018"},
+    {"name": "FALLING WATER", "year": "2016"}
   ],
   "SHOWMAX DİZİLERİ": [
     {"name": "DAN DA DAN", "year": "2021"},
@@ -2816,7 +3207,8 @@
     {"name": "HOUSE OF DAVID", "year": "2025"}
   ],
   "CHANNEL A DİZİLERİ": [
-    {"name": "CHECK IN HANYANG", "year": "2024"}
+    {"name": "CHECK IN HANYANG", "year": "2024"},
+    {"name": "LOVE AFFAIRS IN THE AFTERNOON", "year": "2019"}
   ],
   "BET+ DİZİLERİ": [
     {"name": "LOVE YOU TO DEATH", "year": "2023"}
@@ -2834,7 +3226,8 @@
   ],
   "FRANCE 2 DİZİLERİ": [
     {"name": "MIRAGE", "year": "2020"},
-    {"name": "VORTEX", "year": "2022"}
+    {"name": "VORTEX", "year": "2022"},
+    {"name": "THE CHALET", "year": "2018"}
   ],
   "KAN 11 DİZİLERİ": [
     {"name": "TEHRAN", "year": "2020"}
@@ -2843,7 +3236,8 @@
     {"name": "GOLDEN KAMUY -THE HUNT OF PRISONERS IN HOKKAIDO-", "year": "2024"},
     {"name": "ONE NIGHT MORNING", "year": "2022"},
     {"name": "I WANT TO HOLD AONO-KUN SO BADLY I COULD DIE", "year": "2022"},
-    {"name": "INFLUENCE", "year": "2021"}
+    {"name": "INFLUENCE", "year": "2021"},
+    {"name": "THE HOUSE ON THE SLOPE", "year": "2019"}
   ],
   "NOW DİZİLERİ": [
     {"name": "THE DAY OF THE JACKAL", "year": "2024"},
@@ -2857,7 +3251,10 @@
     {"name": "RIVIERA", "year": "2017"},
     {"name": "TEMPLE", "year": "2019"},
     {"name": "I HATE SUZIE", "year": "2020"},
-    {"name": "TWO WEEKS TO LIVE", "year": "2020"}
+    {"name": "TWO WEEKS TO LIVE", "year": "2020"},
+    {"name": "TIN STAR", "year": "2017"},
+    {"name": "FORTITUDE", "year": "2015"},
+    {"name": "SAVE ME", "year": "2018"}
   ],
   "VRT MAX DİZİLERİ": [
     {"name": "HIGH TIDES", "year": "2023"},
@@ -2876,7 +3273,20 @@
     {"name": "ON THE VERGE OF INSANITY", "year": "2021"},
     {"name": "HERE'S MY PLAN", "year": "2021"},
     {"name": "WAS IT LOVE?", "year": "2012"},
-    {"name": "THE GAME: TOWARDS ZERO", "year": "2020"}
+    {"name": "THE GAME: TOWARDS ZERO", "year": "2020"},
+    {"name": "SPRING TURNS TO SPRING", "year": "2019"},
+    {"name": "MONEY FLOWER", "year": "2017"},
+    {"name": "HIDE AND SEEK", "year": "2018"},
+    {"name": "TWO COPS", "year": "2017"},
+    {"name": "COME AND HUG ME", "year": "2018"},
+    {"name": "PARTNERS FOR JUSTICE", "year": "2018"},
+    {"name": "ITEM", "year": "2019"},
+    {"name": "DIFFERENT DREAMS", "year": "2019"},
+    {"name": "ONE SPRING NIGHT", "year": "2019"},
+    {"name": "MY SECRET, TERRIUS", "year": "2018"},
+    {"name": "ROOKIE HISTORIAN GOO HAE-RYUNG", "year": "2019"},
+    {"name": "EXTRA-ORDINARY YOU", "year": "2019"},
+    {"name": "MY HUSBAND, MR. OH!", "year": "2018"}
   ],
   "JAUNTVR DİZİLERİ": [
     {"name": "INVISIBLE", "year": "2016"}
@@ -2894,7 +3304,9 @@
     {"name": "UNCLE FROM ANOTHER WORLD", "year": "2022"},
     {"name": "WHY RAELIANA ENDED UP AT THE DUKE'S MANSION", "year": "2023"},
     {"name": "FARMING LIFE IN ANOTHER WORLD", "year": "2023"},
-    {"name": "SEE YOU TOMORROW", "year": "2025"}
+    {"name": "SEE YOU TOMORROW", "year": "2025"},
+    {"name": "SIRIUS THE JAEGER", "year": "2018"},
+    {"name": "GOBLIN SLAYER", "year": "2018"}
   ],
   "YOUTUBE DİZİLERİ": [
     {"name": "THE AMAZING DIGITAL CIRCUS", "year": "2023"},
@@ -2963,7 +3375,18 @@
     {"name": "INTO THE RING", "year": "2020"},
     {"name": "DO DO SOL SOL LA LA SOL", "year": "2020"},
     {"name": "FOREST", "year": "2020"},
-    {"name": "WOMAN OF 9.9 BILLION", "year": "2019"}
+    {"name": "WOMAN OF 9.9 BILLION", "year": "2019"},
+    {"name": "DOCTOR PRISONER", "year": "2019"},
+    {"name": "LOVELY HORRIBLY", "year": "2018"},
+    {"name": "TO. JENNY", "year": "2018"},
+    {"name": "MY GOLDEN LIFE", "year": "2017"},
+    {"name": "ANGEL'S LAST MISSION: LOVE", "year": "2019"},
+    {"name": "MY FELLOW CITIZENS", "year": "2019"},
+    {"name": "MATRIMONIAL CHAOS", "year": "2018"},
+    {"name": "MY ONLY ONE", "year": "2018"},
+    {"name": "RADIO ROMANCE", "year": "2018"},
+    {"name": "WHEN THE CAMELLIA BLOOMS", "year": "2019"},
+    {"name": "ARE YOU HUMAN?", "year": "2018"}
   ],
   "7TWO DİZİLERİ": [
     {"name": "IN YOUR DREAMS", "year": "2013"}
@@ -3005,7 +3428,15 @@
     {"name": "DAY OF THE DEAD", "year": "2021"},
     {"name": "WYNONNA EARP", "year": "2016"},
     {"name": "VAN HELSING", "year": "2016"},
-    {"name": "THE MAGICIANS", "year": "2015"}
+    {"name": "THE MAGICIANS", "year": "2015"},
+    {"name": "KRYPTON", "year": "2018"},
+    {"name": "Z NATION", "year": "2014"},
+    {"name": "TAKEN", "year": "2002"},
+    {"name": "NIGHTFLYERS", "year": "2018"},
+    {"name": "12 MONKEYS", "year": "2015"},
+    {"name": "HAPPY!", "year": "2017"},
+    {"name": "GHOST WARS", "year": "2017"},
+    {"name": "SUPERSTITION", "year": "2017"}
   ],
   "ATRESPLAYER+ DİZİLERİ": [
     {"name": "LA PASIÓN TURCA", "year": "2024"},
@@ -3020,10 +3451,12 @@
   ],
   "HUNAN TV DİZİLERİ": [
     {"name": "MIDSUMMER NIGHT", "year": "2013"},
-    {"name": "THE RATIONAL LIFE", "year": "2021"}
+    {"name": "THE RATIONAL LIFE", "year": "2021"},
+    {"name": "METEOR GARDEN", "year": "2018"}
   ],
   "RTÉ PLAYER DİZİLERİ": [
-    {"name": "OBITUARY", "year": "2023"}
+    {"name": "OBITUARY", "year": "2023"},
+    {"name": "REA(L)OVE", "year": "2023"}
   ],
   "NINE NETWORK DİZİLERİ": [
     {"name": "FIRST ACT", "year": "2015"}
@@ -3046,7 +3479,10 @@
     {"name": "MY LOVE MIX-UP!", "year": "2024"}
   ],
   "SHUDDER DİZİLERİ": [
-    {"name": "CREEPSHOW", "year": "2019"}
+    {"name": "CREEPSHOW", "year": "2019"},
+    {"name": "BLOOD MACHINES", "year": "2020"},
+    {"name": "CRITTERS: A NEW BINGE", "year": "2019"},
+    {"name": "SLASHER", "year": "2016"}
   ],
   "U DİZİLERİ": [
     {"name": "THE MARLOW MURDER CLUB", "year": "2024"}
@@ -3055,7 +3491,13 @@
     {"name": "LOST CITIES REVEALED WITH ALBERT LIN", "year": "2023"},
     {"name": "A SMALL LIGHT", "year": "2023"},
     {"name": "NARCO WARS", "year": "2020"},
-    {"name": "LOST TREASURES OF ROME", "year": "2022"}
+    {"name": "LOST TREASURES OF ROME", "year": "2022"},
+    {"name": "ONE STRANGE ROCK", "year": "2018"},
+    {"name": "INSIDE NORTH KOREA'S DYNASTY", "year": "2018"},
+    {"name": "LOST TREASURES OF EGYPT", "year": "2019"},
+    {"name": "GENIUS", "year": "2017"},
+    {"name": "HOSTILE PLANET", "year": "2019"},
+    {"name": "THE STORY OF GOD WITH MORGAN FREEMAN", "year": "2016"}
   ],
   "SHOWTIME ON DEMAND DİZİLERİ": [
     {"name": "BILLIONS", "year": "2016"},
@@ -3091,11 +3533,13 @@
   "BRAVO DİZİLERİ": [
     {"name": "THICKER THAN WATER", "year": "2013"},
     {"name": "SECRETS OF SUMMER", "year": "2017"},
-    {"name": "BELOW DECK SAILING YACHT", "year": "2020"}
+    {"name": "BELOW DECK SAILING YACHT", "year": "2020"},
+    {"name": "IMPOSTERS", "year": "2017"}
   ],
   "NICKELODEON DİZİLERİ": [
     {"name": "ERIN & AARON", "year": "2023"},
-    {"name": "DIVE CLUB", "year": "2021"}
+    {"name": "DIVE CLUB", "year": "2021"},
+    {"name": "ARE YOU AFRAID OF THE DARK?", "year": "2019"}
   ],
   "AMC DİZİLERİ": [
     {"name": "INFAMY", "year": "2018"},
@@ -3104,7 +3548,13 @@
     {"name": "THE WALKING DEAD: WORLD BEYOND", "year": "2020"},
     {"name": "NOS4A2", "year": "2019"},
     {"name": "DISPATCHES FROM ELSEWHERE", "year": "2020"},
-    {"name": "SOULMATES", "year": "2020"}
+    {"name": "SOULMATES", "year": "2020"},
+    {"name": "JAMES CAMERON'S STORY OF SCIENCE FICTION", "year": "2018"},
+    {"name": "LODGE 49", "year": "2018"},
+    {"name": "THE TERROR", "year": "2018"},
+    {"name": "THE SON", "year": "2017"},
+    {"name": "INTO THE BADLANDS", "year": "2015"},
+    {"name": "PREACHER", "year": "2016"}
   ],
   "FREEFORM.COM DİZİLERİ": [
     {"name": "PRAISE PETEY", "year": "2023"},
@@ -3126,12 +3576,24 @@
     {"name": "NOTRE-DAME", "year": "2020"},
     {"name": "SHOOTING STARS", "year": "1995"},
     {"name": "WIN THE WILDERNESS: ALASKA", "year": "2020"},
-    {"name": "FREUD", "year": "1984"}
+    {"name": "FREUD", "year": "1984"},
+    {"name": "WHITE GOLD", "year": "2017"},
+    {"name": "HYPERDRIVE", "year": "2006"},
+    {"name": "BLACK EARTH RISING", "year": "2018"},
+    {"name": "DEATH AND NIGHTINGALES", "year": "2018"},
+    {"name": "THE PLANETS", "year": "1999"},
+    {"name": "MILLION POUND MENU", "year": "2018"},
+    {"name": "COLLATERAL", "year": "2018"},
+    {"name": "SECRET AGENT SELECTION: WW2", "year": "2018"},
+    {"name": "THE BIG FAMILY COOKING SHOWDOWN", "year": "2017"},
+    {"name": "BIG DREAMS SMALL SPACES", "year": "2014"}
   ],
   "YOUKU DİZİLERİ": [
     {"name": "LIGHTER AND PRINCESS", "year": "2022"},
     {"name": "A ROMANCE OF THE LITTLE FOREST", "year": "2022"},
-    {"name": "PLEASE FEEL AT EASE MR. LING", "year": "2021"}
+    {"name": "PLEASE FEEL AT EASE MR. LING", "year": "2021"},
+    {"name": "BLOODY ROMANCE", "year": "2018"},
+    {"name": "JUST DANCE", "year": "2023"}
   ],
   "BINGE DİZİLERİ": [
     {"name": "UPRIGHT", "year": "2019"},
@@ -3159,7 +3621,8 @@
   "CBBC DİZİLERİ": [
     {"name": "EVE", "year": "2015"},
     {"name": "TRAPPED", "year": "2007"},
-    {"name": "THE WORST WITCH", "year": "2017"}
+    {"name": "THE WORST WITCH", "year": "2017"},
+    {"name": "CREEPED OUT", "year": "2017"}
   ],
   "SEEZN DİZİLERİ": [
     {"name": "UNLOCK MY BOSS", "year": "2022"},
@@ -3176,7 +3639,10 @@
   ],
   "TNT DİZİLERİ": [
     {"name": "ANIMAL KINGDOM", "year": "2016"},
-    {"name": "THE ALIENIST", "year": "2018"}
+    {"name": "THE ALIENIST", "year": "2018"},
+    {"name": "I AM THE NIGHT", "year": "2019"},
+    {"name": "THE LAST SHIP", "year": "2014"},
+    {"name": "MAJOR CRIMES", "year": "2012"}
   ],
   "WATCHA DİZİLERİ": [
     {"name": "RECIPE FOR FAREWELL", "year": "2022"},
@@ -3188,7 +3654,8 @@
     {"name": "SHTISEL", "year": "2013"}
   ],
   "SKY 1 DİZİLERİ": [
-    {"name": "BABYLON BERLIN", "year": "2017"}
+    {"name": "BABYLON BERLIN", "year": "2017"},
+    {"name": "8 DAYS", "year": "2019"}
   ],
   "RTL+ DİZİLERİ": [
     {"name": "SISI", "year": "2021"},
@@ -3199,7 +3666,10 @@
     {"name": "THE SWEET BLOOD", "year": "2021"},
     {"name": "BLUE BIRTHDAY", "year": "2021"},
     {"name": "BE MY BOYFRIEND", "year": "2021"},
-    {"name": "KISS GOBLIN", "year": "2020"}
+    {"name": "KISS GOBLIN", "year": "2020"},
+    {"name": "THE BEST ENDING", "year": "2018"},
+    {"name": "I AM NOT A ROBOT", "year": "2019"},
+    {"name": "LOVE IN MEMORY", "year": "2018"}
   ],
   "ZDFNEO DİZİLERİ": [
     {"name": "DEAD END", "year": "2019"}
@@ -3219,13 +3689,16 @@
     {"name": "YAKUZA LOVER", "year": "2022"}
   ],
   "DISCOVERY+ DİZİLERİ": [
-    {"name": "INSIDER", "year": "2012"}
+    {"name": "INSIDER", "year": "2012"},
+    {"name": "WELL-INTENDED LOVE", "year": "2023"}
   ],
   "HISTORY DİZİLERİ": [
     {"name": "BARBARIANS", "year": "2004"},
     {"name": "PROJECT BLUE BOOK", "year": "2019"},
     {"name": "RUST VALLEY RESTORERS", "year": "2018"},
-    {"name": "BIG TIMBER", "year": "2020"}
+    {"name": "BIG TIMBER", "year": "2020"},
+    {"name": "SIX", "year": "2017"},
+    {"name": "KNIGHTFALL", "year": "2017"}
   ],
   "VIRGIN MEDIA ONE DİZİLERİ": [
     {"name": "REDEMPTION", "year": "2022"}
@@ -3241,10 +3714,15 @@
   ],
   "BBC THREE DİZİLERİ": [
     {"name": "IN MY SKIN", "year": "2018"},
-    {"name": "BACK TO LIFE", "year": "2019"}
+    {"name": "BACK TO LIFE", "year": "2019"},
+    {"name": "GLOW UP: BRITAIN'S NEXT MAKE-UP STAR", "year": "2019"},
+    {"name": "THIS COUNTRY", "year": "2017"},
+    {"name": "FLEABAG", "year": "2016"},
+    {"name": "CUCKOO", "year": "2012"}
   ],
   "BRITBOX DİZİLERİ": [
-    {"name": "MAGPIE MURDERS", "year": "2022"}
+    {"name": "MAGPIE MURDERS", "year": "2022"},
+    {"name": "THE BLETCHLEY CIRCLE: SAN FRANCISCO", "year": "2018"}
   ],
   "THE ROKU CHANNEL DİZİLERİ": [
     {"name": "SWIMMING WITH SHARKS", "year": "2022"},
@@ -3263,21 +3741,31 @@
     {"name": "THE RUNNING MATES: HUMAN RIGHTS", "year": "2019"},
     {"name": "RUGAL", "year": "2020"},
     {"name": "SEARCH", "year": "2020"},
-    {"name": "TRAIN", "year": "2020"}
+    {"name": "TRAIN", "year": "2020"},
+    {"name": "POSSESSED", "year": "2019"},
+    {"name": "CLASS OF LIES", "year": "2019"},
+    {"name": "KILL IT", "year": "2019"},
+    {"name": "BAD GUYS: VILE CITY", "year": "2014"},
+    {"name": "TRAP", "year": "2019"},
+    {"name": "WATCHER", "year": "2019"},
+    {"name": "STRANGERS FROM HELL", "year": "2019"}
   ],
   "DR TV DİZİLERİ": [
     {"name": "BORGEN - POWER & GLORY", "year": "2022"}
   ],
   "ARTE DİZİLERİ": [
     {"name": "MYTHO", "year": "2019"},
-    {"name": "INHUMAN RESOURCES", "year": "2020"}
+    {"name": "INHUMAN RESOURCES", "year": "2020"},
+    {"name": "TWICE UPON A TIME", "year": "2019"},
+    {"name": "AD VITAM", "year": "2018"}
   ],
   "JIANGSU TV DİZİLERİ": [
     {"name": "BLUE FLAME ASSAULT", "year": "2022"}
   ],
   "NATIONAL GEOGRAPHIC WILD DİZİLERİ": [
     {"name": "SOMETHING BIT ME!", "year": "2022"},
-    {"name": "THE INCREDIBLE DR. POL", "year": "2011"}
+    {"name": "THE INCREDIBLE DR. POL", "year": "2011"},
+    {"name": "SECRETS OF THE ZOO", "year": "2018"}
   ],
   "PBS PASSPORT DİZİLERİ": [
     {"name": "SANDITON", "year": "2019"},
@@ -3292,7 +3780,9 @@
   ],
   "SKY GO DİZİLERİ": [
     {"name": "HITMEN", "year": "2020"},
-    {"name": "DAS BOOT", "year": "2018"}
+    {"name": "DAS BOOT", "year": "2018"},
+    {"name": "THE TUNNEL", "year": "2013"},
+    {"name": "CATHERINE THE GREAT", "year": "2019"}
   ],
   "TVNZ 2 DİZİLERİ": [
     {"name": "DOWN FOR LOVE", "year": "2022"},
@@ -3305,7 +3795,8 @@
     {"name": "THE KING OF TEARS, LEE BANG WON", "year": "2021"}
   ],
   "ANTENA 3 DİZİLERİ": [
-    {"name": "TOY BOY", "year": "2019"}
+    {"name": "TOY BOY", "year": "2019"},
+    {"name": "45 RPM", "year": "2019"}
   ],
   "SHORTIME DİZİLERİ": [
     {"name": "HOLD TIGHT", "year": "2025"},
@@ -3315,13 +3806,16 @@
     {"name": "CAPITANI", "year": "2019"}
   ],
   "LA UNE DİZİLERİ": [
-    {"name": "COYOTES", "year": "2021"}
+    {"name": "COYOTES", "year": "2021"},
+    {"name": "ZONE BLANCHE", "year": "2017"},
+    {"name": "UNIT 42", "year": "2017"}
   ],
   "TTV DİZİLERİ": [
     {"name": "THE DEVIL PUNISHER", "year": "2020"}
   ],
   "TV 2 PLAY DİZİLERİ": [
-    {"name": "EDEN AU", "year": "2021"}
+    {"name": "EDEN AU", "year": "2021"},
+    {"name": "BORDERLINER", "year": "2017"}
   ],
   "YTV DİZİLERİ": [
     {"name": "EDO MOISELLE", "year": "2021"}
@@ -3360,16 +3854,23 @@
     {"name": "REBEL", "year": "2017"}
   ],
   "MOVISTAR+ DİZİLERİ": [
-    {"name": "MERLÍ. SAPERE AUDE", "year": "2019"}
+    {"name": "MERLÍ. SAPERE AUDE", "year": "2019"},
+    {"name": "INSTINTO", "year": "2019"},
+    {"name": "THE VELVET COLLECTION", "year": "2017"}
   ],
   "KUAISHOU DİZİLERİ": [
     {"name": "MY HANDSOME ROOMMATE", "year": "2021"}
   ],
   "PBS DİZİLERİ": [
-    {"name": "HUMAN: THE WORLD WITHIN", "year": "2021"}
+    {"name": "HUMAN: THE WORLD WITHIN", "year": "2021"},
+    {"name": "VICTORIA", "year": "2016"},
+    {"name": "MAIGRET", "year": "2025"}
   ],
   "SEVEN NETWORK DİZİLERİ": [
-    {"name": "EMERGENCY CALL", "year": "2018"}
+    {"name": "EMERGENCY CALL", "year": "2018"},
+    {"name": "BACK WITH THE EX", "year": "2018"},
+    {"name": "WANTED", "year": "2016"},
+    {"name": "YUMMY MUMMIES", "year": "2017"}
   ],
   "QUIBI DİZİLERİ": [
     {"name": "WIRELESS", "year": "2020"},
@@ -3382,7 +3883,8 @@
     {"name": "PRIVATE LIVES", "year": "2017"}
   ],
   "ABC ENTERTAINS DİZİLERİ": [
-    {"name": "THE INBESTIGATORS", "year": "2019"}
+    {"name": "THE INBESTIGATORS", "year": "2019"},
+    {"name": "THE UNLISTED", "year": "2019"}
   ],
   "ESPN DİZİLERİ": [
     {"name": "THE LAST DANCE", "year": "2020"}
@@ -3407,23 +3909,29 @@
     {"name": "SPY CITY", "year": "2020"}
   ],
   "TELECINCO DİZİLERİ": [
-    {"name": "UNAUTHORIZED LIVING", "year": "2018"}
+    {"name": "UNAUTHORIZED LIVING", "year": "2018"},
+    {"name": "DRUG SQUAD: COSTA DEL SOL", "year": "2019"}
   ],
   "TÉLÉ-QUÉBEC DİZİLERİ": [
     {"name": "CAN YOU HEAR ME?", "year": "2019"}
   ],
   "V LIVE DİZİLERİ": [
-    {"name": "GOING SEVENTEEN", "year": "2017"}
+    {"name": "GOING SEVENTEEN", "year": "2017"},
+    {"name": "DO DREAM", "year": "2018"},
+    {"name": "BEST MISTAKE", "year": "2019"},
+    {"name": "A-TEEN", "year": "2018"}
   ],
   "NRK TV DİZİLERİ": [
     {"name": "HEIRS OF THE NIGHT", "year": "2019"},
-    {"name": "NORSEMEN", "year": "2016"}
+    {"name": "NORSEMEN", "year": "2016"},
+    {"name": "LIVER OR DIE (WHAT'S WRONG, POONG-SANG)", "year": "2021"}
   ],
   "GLOBAL DİZİLERİ": [
     {"name": "NURSES", "year": "2020"}
   ],
   "UNIVISION DİZİLERİ": [
-    {"name": "EL DRAGÓN", "year": "2019"}
+    {"name": "EL DRAGÓN", "year": "2019"},
+    {"name": "EL CHAPO", "year": "2017"}
   ],
   "TVNZ+ DİZİLERİ": [
     {"name": "THE LUMINARIES", "year": "2020"}
@@ -3432,7 +3940,8 @@
     {"name": "EASTSIDERS", "year": "2013"}
   ],
   "TV2 DİZİLERİ": [
-    {"name": "RITA", "year": "2012"}
+    {"name": "RITA", "year": "2012"},
+    {"name": "GREYZONE", "year": "2018"}
   ],
   "U&ALIBI DİZİLERİ": [
     {"name": "TRACES", "year": "2019"}
@@ -3444,7 +3953,9 @@
     {"name": "SOUTH PARK", "year": "1997"}
   ],
   "SKY SHOWCASE DİZİLERİ": [
-    {"name": "SICK OF IT", "year": "2018"}
+    {"name": "SICK OF IT", "year": "2018"},
+    {"name": "SICK NOTE", "year": "2017"},
+    {"name": "JAMESTOWN", "year": "2017"}
   ],
   "SKY CRIME DİZİLERİ": [
     {"name": "I AM A KILLER: RELEASED", "year": "2020"}
@@ -3478,7 +3989,8 @@
     {"name": "AGE OF TANKS", "year": "2017"}
   ],
   "FUSION DİZİLERİ": [
-    {"name": "WHO KILLED MALCOLM X?", "year": "2019"}
+    {"name": "WHO KILLED MALCOLM X?", "year": "2019"},
+    {"name": "MURDER MOUNTAIN", "year": "2018"}
   ],
   "EROS NOW DİZİLERİ": [
     {"name": "THE INVESTIGATION", "year": "2019"}
@@ -3488,5 +4000,126 @@
   ],
   "WARNER TV SERIE DİZİLERİ": [
     {"name": "4 BLOCKS", "year": "2017"}
+  ],
+  "VIAFREE DİZİLERİ": [
+    {"name": "SUCCESS", "year": "2018"}
+  ],
+  "VIDEOLAND DİZİLERİ": [
+    {"name": "SAFE", "year": "2025"}
+  ],
+  "FOXTEL NOW DİZİLERİ": [
+    {"name": "SECRET CITY", "year": "2016"}
+  ],
+  "YOUTUBE PREMIUM DİZİLERİ": [
+    {"name": "ORIGIN", "year": "2018"},
+    {"name": "IMPULSE", "year": "2018"},
+    {"name": "WEIRD CITY", "year": "2019"}
+  ],
+  "REAL HISTORY. DİZİLERİ": [
+    {"name": "EVIL GENIUS", "year": "2018"}
+  ],
+  "POP DİZİLERİ": [
+    {"name": "ONE DAY AT A TIME", "year": "2017"}
+  ],
+  "BBC FOUR DİZİLERİ": [
+    {"name": "PERFUME", "year": "2011"}
+  ],
+  "CNN DİZİLERİ": [
+    {"name": "CHRISTIANE AMANPOUR: SEX & LOVE AROUND THE WORLD", "year": "2018"}
+  ],
+  "XTVN DİZİLERİ": [
+    {"name": "PLAYER", "year": "2019"}
+  ],
+  "DC UNIVERSE DİZİLERİ": [
+    {"name": "SWAMP THING", "year": "2019"}
+  ],
+  "DIRECTV NOW DİZİLERİ": [
+    {"name": "SHINE ON WITH REESE", "year": "2018"}
+  ],
+  "SHOWCASE DİZİLERİ": [
+    {"name": "LAMBS OF GOD", "year": "2019"}
+  ],
+  "SUNDANCETV DİZİLERİ": [
+    {"name": "HAP AND LEONARD", "year": "2016"}
+  ],
+  "FOX PREMIUM DİZİLERİ": [
+    {"name": "CALL ME BRUNA", "year": "2016"}
+  ],
+  "5STAR DİZİLERİ": [
+    {"name": "BABY BALLROOM", "year": "2017"},
+    {"name": "100% HOTTER", "year": "2016"}
+  ],
+  "MBC1 DİZİLERİ": [
+    {"name": "BLACK CROWS", "year": "2017"}
+  ],
+  "ETB2 DİZİLERİ": [
+    {"name": "LA VÍCTIMA NÚMERO 8", "year": "2018"}
+  ],
+  "SYFY.COM DİZİLERİ": [
+    {"name": "DEADLY CLASS", "year": "2019"},
+    {"name": "CHANNEL ZERO", "year": "2016"}
+  ],
+  "7MATE DİZİLERİ": [
+    {"name": "TOWIES", "year": "2017"}
+  ],
+  "ПЕРВЫЙ КАНАЛ DİZİLERİ": [
+    {"name": "S'PARTA", "year": "2018"}
+  ],
+  "NETWORK 10 DİZİLERİ": [
+    {"name": "TALES BY LIGHT", "year": "2015"}
+  ],
+  "CRACKLE DİZİLERİ": [
+    {"name": "SNATCH", "year": "2017"},
+    {"name": "STARTUP", "year": "2016"}
+  ],
+  "IFC DİZİLERİ": [
+    {"name": "BROCKMIRE", "year": "2017"}
+  ],
+  "STARGATE COMMAND DİZİLERİ": [
+    {"name": "STARGATE ORIGINS", "year": "2018"}
+  ],
+  "KESHET 12 DİZİLERİ": [
+    {"name": "WHEN HEROES FLY", "year": "2018"}
+  ],
+  "YLE AREENA DİZİLERİ": [
+    {"name": "INVISIBLE HEROES", "year": "2019"}
+  ],
+  "TV3 DİZİLERİ": [
+    {"name": "SVARTSJÖN", "year": "2016"},
+    {"name": "IF I HADN'T MET YOU", "year": "2018"},
+    {"name": "THE HOCKEY GIRLS", "year": "2019"}
+  ],
+  "TV5 DİZİLERİ": [
+    {"name": "AMO", "year": "2017"}
+  ],
+  "BLACKPILLS DİZİLERİ": [
+    {"name": "FUTURE SEX", "year": "2018"}
+  ],
+  "TVE DİZİLERİ": [
+    {"name": "FUGITIVA", "year": "2018"}
+  ],
+  "CARTOON NETWORK DİZİLERİ": [
+    {"name": "ADVENTURE TIME", "year": "2008"}
+  ],
+  "ARTE.TV DİZİLERİ": [
+    {"name": "A VERY SECRET SERVICE", "year": "2015"}
+  ],
+  "START DİZİLERİ": [
+    {"name": "BETTER THAN US", "year": "2018"}
+  ],
+  "CMT DİZİLERİ": [
+    {"name": "NASHVILLE", "year": "2012"}
+  ],
+  "SKY WITNESS DİZİLERİ": [
+    {"name": "THE TRUTH ABOUT THE HARRY QUEBERT AFFAIR", "year": "2018"}
+  ],
+  "SVT1 DİZİLERİ": [
+    {"name": "BRON/BROEN", "year": "2011"}
+  ],
+  "1+1 DİZİLERİ": [
+    {"name": "SERVANT OF THE PEOPLE", "year": "2015"}
+  ],
+  "HULU JAPAN DİZİLERİ": [
+    {"name": "MISS SHERLOCK", "year": "2018"}
   ]
 }
